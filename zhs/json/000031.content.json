@@ -1,0 +1,60 @@
+[
+{
+"content_id": "FAUNA:2.21",
+"reference_id": "FAUNA:2.21",
+"version": "1.0.4",
+"title": "标题：野山羊、羱羊、高山山羊（ibex, wild goat, mountain goat）",
+"media_type": "Text",
+"index_reference": "2.21",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:2.21\"><span class=\"thlex-key\">2.21</span> 标题：野山羊、羱羊、高山山羊（ibex, wild goat, mountain goat）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אַקּוֹ</span> <span class=\"thlex-translit\">(音译：’aqo)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut14:5\">DEU 14:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：יָעֵל, יַעֲלָה</span> <span class=\"thlex-translit\">(音译：ya‘el, ya‘alah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam24:3\">1SA 24:3</a>, <a href=\"https://ref.ly/Job39:1\">JOB 39:1</a>, <a href=\"https://ref.ly/Ps104:18\">PSA 104:18</a>, <a href=\"https://ref.ly/Prov5:19\">PRO 5:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0313_ibex.jpg\" alt=\"WEB-0313_ibex\"></figure>在以色列地发现的野山羊是努比亚羱羊（学名<em>Capra ibex nubiana</em> ），从远古时代起就生活在这个地区的群山之中，并且直到不久以前还是一种非常常见的动物。羱羊曾经生活在以色列的山区、西奈半岛、阿拉伯半岛和埃及，现今在这些地方仍然还有一些。在埃塞俄比亚和厄立特里亚有一个近缘物种西敏羱羊（学名<em>Capra walie</em> ）。</p>\n<p>目前，羱羊是在以色列发现的唯一一种野生山羊。另一种野生山羊曾经生活在那里，但早在亚伯拉罕之前的石器时代就消失了。希伯来文<em>ya‘el</em> 和<em>’aqo</em> 都是指这种动物。因此，在<a href=\"https://ref.ly/Deut14:5\">DEU 14:5</a> 关于洁净动物的清单中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 和<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 等译本包含了两种野生山羊，这可能是不正确的。</p>\n<p>更多讨论参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:2.1\" href=\"#FAUNA:2.1\">2.1 洁净的动物（申14:4–6）</a> 。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>努比亚羱羊是一种体型相当大的野山羊，成羊的肩高约有90厘米（3英尺）。它们的皮毛在一年中的大部分时间是灰色的，但到了冬天会变成灰棕色。雄羊的角又粗又长，超过130厘米（4英尺），向后弯曲成半圆形。雌羊的角要细得多且短得多，仅40厘米（15英寸）。羊角只有最末端的几厘米是光滑的，其余部分有许多道凸起的环脊。这些羱羊在山区群居，喜欢悬崖峭壁，以生长在上面的灌木丛为食。羱羊肉比山羊肉和鹿肉更加肥嫩多汁。许多个世纪以来，它们一直是极受欢迎的狩猎动物。</p>\n<p><a href=\"https://ref.ly/1Sam24:2\">1SA 24:2</a> 中提到的&quot;野山羊磐石&quot;可能是隐基底附近纳哈亚鲁哥（Nahal Arugot）的池塘和溪流周围的岩石地区。这个地区已被划为自然保护区，羱羊和其他当地动物在那里得到保护。&quot;隐基底&quot;这个名字的意思就是&quot;小山羊的绿洲&quot;或&quot;小山羊的水泉&quot;，可能是指一只小羱羊。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义或象征意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>羱羊与远方的高山有密切的联系。在希伯来文化和阿拉伯文化中，它被视为所有动物中离人最遥远的（比较<a href=\"https://ref.ly/Job39:1\">JOB 39:1</a> ），这可能就是为什么许多译本把<em>ya‘el</em> 译为&quot;高山山羊&quot;的原因。羱羊以其在陡岩峭壁上仍然脚步稳健而出名，不过圣经并没有提到这个特点。</p>\n<p>在上面提到的两种文化中，雌羱羊是优雅和美丽的象征；优雅源于它们在悬崖上站立、行走和跳跃时的完美平衡，美丽可能源于它们长着像人那样的大眼睛。在英语文化和许多其他文化中，<a href=\"https://ref.ly/Prov5:19\">PRO 5:19</a> 的翻译存在一个问题，因为山羊在这些文化中并不是美丽的象征。一些藏缅文化认为野生鬣羚是所有动物中最丑陋的。在这些语言中，把妇女称为&quot;野山羊&quot;是一种侮辱。因此，有些译本将这个词译为&quot;母鹿&quot;而不是&quot;野山羊&quot;。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在世界以下地区可以找到当地野山羊：</p>\n<p>欧洲东南部、小亚细亚、巴基斯坦 - 野山羊 - 学名<em>Capra hircus</em></p>\n<p>欧洲西南部 - 比利牛斯羱羊 - 学名<em>Capra pyrenaica</em></p>\n<p>欧洲阿尔卑斯地区 - 阿尔卑斯羱羊、石羚 - 学名<em>Capra ibex</em></p>\n<p>埃及、中东 - 努比亚羱羊 - 学名<em>Capra ibex nubiana</em></p>\n<p>埃塞尔比亚、厄立特里亚 - 西敏羱羊 - 学名<em>Capra walie</em></p>\n<p>中亚、西伯利亚 - 喜马拉雅羱羊 - 学名<em>Capra sibirica</em></p>\n<p>阿富汗、克什米尔 - 捻角山羊 - 学名<em>Capra falconeri</em></p>\n<p>尼泊尔、印度北部 - 喜马拉雅塔尔羊 - 学名<em>Hemitragus jemlahicus</em></p>\n<p>印度南部 - 尼尔吉里塔尔羊 - 学名<em>Hemitragus hylocrius</em></p>\n<p>喜马拉雅、中国、韩国 - 斑羚 - 学名<em>Nemorhaedus</em></p>\n<p>喜马拉雅、中国西部 - 羚牛 - 学名<em>Budorcas taxicolor</em></p>\n<p>印度东北部、缅甸、泰国、马来西亚、老挝、中国、台湾、日本 - 鬣羚 - 学名<em>Capricornis indica</em></p>\n<p>北美洲 - 落基山山羊、白山羊 - 学名<em>Oreamnos americanus</em></p>\n<p>撒哈拉沙漠以南的非洲地区没有真正的野山羊。与之最相似的动物是一种生活在悬崖上的小型岩羚（学名<em>Oreotragus oreotragus</em> ）。这种动物在当地很常见，而且为人所熟知，许多非洲译本使用它的当地名称来翻译<em>ya‘el</em> 和<em>’aqo</em> 。</p>\n<p>在没有发现当地野山羊的其他国家，或是在没有表示野山羊的专用词语的国家，翻译者通常可以使用&quot;野山羊&quot;或&quot;野生高山山羊&quot;等短语。后一个短语可能更好，因为在西非，&quot;丛林山羊&quot;是指霓羚，这是一种与高山无关的小型羚羊。</p>\n<p><a href=\"https://ref.ly/Prov5:19\">PRO 5:19</a> ：这节经文出现在一系列箴言的中间，这些箴言论到性约束的价值和婚姻中的忠诚。书卷的作者／编者劝告读者只可以从妻子那里得到性的满足。妻子则被称为&quot;可爱（或迷人）的鹿，优雅的羱羊&quot;。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p>前文已经提到，在许多文化中，把女性称为&quot;野山羊&quot;是一种侮辱而不是赞美。在这种情况下，翻译者应找到一个象征优雅、能与&quot;鹿&quot;平行的动物作为比喻。</p>\n<p><a href=\"https://ref.ly/Deut14:4\">DEU 14:4</a>; <a href=\"https://ref.ly/Deut14:5\">DEU 14:5</a> ：在这个洁净动物的清单中，翻译者应避免使用两个表示野山羊的词语。然而，建议把<em>’aqo</em> （即清单中的第七个名称）译为&quot;羱羊&quot;或&quot;野山羊&quot;。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05014005",
+"start_ref_usfm": "DEU 14:5",
+"end_ref": "05014005",
+"end_ref_usfm": "DEU 14:5"
+},
+{
+"start_ref": "09024003",
+"start_ref_usfm": "1SA 24:3",
+"end_ref": "09024003",
+"end_ref_usfm": "1SA 24:3"
+},
+{
+"start_ref": "18039001",
+"start_ref_usfm": "JOB 39:1",
+"end_ref": "18039001",
+"end_ref_usfm": "JOB 39:1"
+},
+{
+"start_ref": "19104018",
+"start_ref_usfm": "PSA 104:18",
+"end_ref": "19104018",
+"end_ref_usfm": "PSA 104:18"
+},
+{
+"start_ref": "20005019",
+"start_ref_usfm": "PRO 5:19",
+"end_ref": "20005019",
+"end_ref_usfm": "PRO 5:19"
+},
+{
+"start_ref": "09024002",
+"start_ref_usfm": "1SA 24:2",
+"end_ref": "09024002",
+"end_ref_usfm": "1SA 24:2"
+},
+{
+"start_ref": "05014004",
+"start_ref_usfm": "DEU 14:4",
+"end_ref": "05014004",
+"end_ref_usfm": "DEU 14:4"
+}
+],
+"resource": []
+}
+}
+]

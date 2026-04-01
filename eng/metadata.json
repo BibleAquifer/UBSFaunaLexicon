@@ -1,0 +1,3000 @@
+{
+"resource_metadata": {
+"aquifer_type": "Handbook",
+"resource_type": "Thematic Dictionary",
+"title": "Animals in the Bible",
+"aquifer_name": "Animals in the Bible",
+"version": "1.1.2",
+"collection_title": "Animals in the Bible",
+"short_name": "UBSFauna",
+"license_info": {
+"title": "Animals in the Bible",
+"copyright": {
+"dates": "2005–2025",
+"holder": {
+"name": "United Bible Societies",
+"url": "https://www.unitedbiblesocieties.org/"
+},
+"statement": "Animals in the Bible © United Bible Societies, 2025. Adapted from: <cite>All Creatures Great and Small: Living Things in the Bible</cite>, by Edward R. Hope © 2005 United Bible Societies. This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</a>)."
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": false
+},
+"adaptation_notice": "",
+"resource_code": "UBSFaunaLexicon",
+"date_created": "2026-04-01",
+"language": "eng",
+"localizations": [
+"zhs",
+"zht"
+],
+"order": "monograph",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-04-01T13:42:29.010921"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"UBSFaunaLexicon": {
+"timestamp": "2026-04-01T13:42:29.010921"
+}
+}
+},
+"name": {
+"en": "Animals in the Bible"
+},
+"abbreviation": {
+"en": "UBSFauna"
+}
+},
+"languages": [
+{
+"tag": "en",
+"name": {
+"en": "English"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferMonograph",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/000001.content.json": {
+"mimeType": "text/json",
+"size": 4066
+},
+"json/000002.content.json": {
+"mimeType": "text/json",
+"size": 17910
+},
+"json/000003.content.json": {
+"mimeType": "text/json",
+"size": 25982
+},
+"json/000004.content.json": {
+"mimeType": "text/json",
+"size": 18613
+},
+"json/000005.content.json": {
+"mimeType": "text/json",
+"size": 6260
+},
+"json/000006.content.json": {
+"mimeType": "text/json",
+"size": 20972
+},
+"json/000007.content.json": {
+"mimeType": "text/json",
+"size": 7838
+},
+"json/000008.content.json": {
+"mimeType": "text/json",
+"size": 8001
+},
+"json/000009.content.json": {
+"mimeType": "text/json",
+"size": 7447
+},
+"json/000010.content.json": {
+"mimeType": "text/json",
+"size": 2503
+},
+"json/000011.content.json": {
+"mimeType": "text/json",
+"size": 6101
+},
+"json/000012.content.json": {
+"mimeType": "text/json",
+"size": 5792
+},
+"json/000013.content.json": {
+"mimeType": "text/json",
+"size": 36161
+},
+"json/000014.content.json": {
+"mimeType": "text/json",
+"size": 5999
+},
+"json/000015.content.json": {
+"mimeType": "text/json",
+"size": 9716
+},
+"json/000016.content.json": {
+"mimeType": "text/json",
+"size": 9870
+},
+"json/000017.content.json": {
+"mimeType": "text/json",
+"size": 23094
+},
+"json/000018.content.json": {
+"mimeType": "text/json",
+"size": 6427
+},
+"json/000019.content.json": {
+"mimeType": "text/json",
+"size": 100581
+},
+"json/000020.content.json": {
+"mimeType": "text/json",
+"size": 15753
+},
+"json/000021.content.json": {
+"mimeType": "text/json",
+"size": 16341
+},
+"json/000022.content.json": {
+"mimeType": "text/json",
+"size": 8853
+},
+"json/000023.content.json": {
+"mimeType": "text/json",
+"size": 15842
+},
+"json/000024.content.json": {
+"mimeType": "text/json",
+"size": 9265
+},
+"json/000025.content.json": {
+"mimeType": "text/json",
+"size": 36496
+},
+"json/000026.content.json": {
+"mimeType": "text/json",
+"size": 7922
+},
+"json/000027.content.json": {
+"mimeType": "text/json",
+"size": 5935
+},
+"json/000028.content.json": {
+"mimeType": "text/json",
+"size": 50368
+},
+"json/000029.content.json": {
+"mimeType": "text/json",
+"size": 13950
+},
+"json/000030.content.json": {
+"mimeType": "text/json",
+"size": 10875
+},
+"json/000031.content.json": {
+"mimeType": "text/json",
+"size": 11077
+},
+"json/000032.content.json": {
+"mimeType": "text/json",
+"size": 25084
+},
+"json/000033.content.json": {
+"mimeType": "text/json",
+"size": 9693
+},
+"json/000034.content.json": {
+"mimeType": "text/json",
+"size": 57237
+},
+"json/000035.content.json": {
+"mimeType": "text/json",
+"size": 7340
+},
+"json/000036.content.json": {
+"mimeType": "text/json",
+"size": 6412
+},
+"json/000037.content.json": {
+"mimeType": "text/json",
+"size": 12117
+},
+"json/000038.content.json": {
+"mimeType": "text/json",
+"size": 9046
+},
+"json/000039.content.json": {
+"mimeType": "text/json",
+"size": 6727
+},
+"json/000040.content.json": {
+"mimeType": "text/json",
+"size": 10540
+},
+"json/000041.content.json": {
+"mimeType": "text/json",
+"size": 80136
+},
+"json/000042.content.json": {
+"mimeType": "text/json",
+"size": 62749
+},
+"json/000043.content.json": {
+"mimeType": "text/json",
+"size": 8588
+},
+"json/000044.content.json": {
+"mimeType": "text/json",
+"size": 7010
+},
+"json/000045.content.json": {
+"mimeType": "text/json",
+"size": 14330
+},
+"json/000046.content.json": {
+"mimeType": "text/json",
+"size": 12689
+},
+"json/000047.content.json": {
+"mimeType": "text/json",
+"size": 5875
+},
+"json/000048.content.json": {
+"mimeType": "text/json",
+"size": 31896
+},
+"json/000049.content.json": {
+"mimeType": "text/json",
+"size": 21786
+},
+"json/000050.content.json": {
+"mimeType": "text/json",
+"size": 10969
+},
+"json/000051.content.json": {
+"mimeType": "text/json",
+"size": 7764
+},
+"json/000052.content.json": {
+"mimeType": "text/json",
+"size": 10622
+},
+"json/000053.content.json": {
+"mimeType": "text/json",
+"size": 10413
+},
+"json/000054.content.json": {
+"mimeType": "text/json",
+"size": 19232
+},
+"json/000055.content.json": {
+"mimeType": "text/json",
+"size": 37412
+},
+"json/000056.content.json": {
+"mimeType": "text/json",
+"size": 7278
+},
+"json/000057.content.json": {
+"mimeType": "text/json",
+"size": 7312
+},
+"json/000058.content.json": {
+"mimeType": "text/json",
+"size": 4732
+},
+"json/000059.content.json": {
+"mimeType": "text/json",
+"size": 5186
+},
+"json/000060.content.json": {
+"mimeType": "text/json",
+"size": 9551
+},
+"json/000061.content.json": {
+"mimeType": "text/json",
+"size": 5917
+},
+"json/000062.content.json": {
+"mimeType": "text/json",
+"size": 8051
+},
+"json/000063.content.json": {
+"mimeType": "text/json",
+"size": 7911
+},
+"json/000064.content.json": {
+"mimeType": "text/json",
+"size": 4375
+},
+"json/000065.content.json": {
+"mimeType": "text/json",
+"size": 7871
+},
+"json/000066.content.json": {
+"mimeType": "text/json",
+"size": 6539
+},
+"json/000067.content.json": {
+"mimeType": "text/json",
+"size": 4645
+},
+"json/000068.content.json": {
+"mimeType": "text/json",
+"size": 5112
+},
+"json/000069.content.json": {
+"mimeType": "text/json",
+"size": 5955
+},
+"json/000070.content.json": {
+"mimeType": "text/json",
+"size": 4156
+},
+"json/000071.content.json": {
+"mimeType": "text/json",
+"size": 7542
+},
+"json/000072.content.json": {
+"mimeType": "text/json",
+"size": 6213
+},
+"json/000073.content.json": {
+"mimeType": "text/json",
+"size": 19728
+},
+"json/000074.content.json": {
+"mimeType": "text/json",
+"size": 6860
+},
+"json/000075.content.json": {
+"mimeType": "text/json",
+"size": 5803
+},
+"json/000076.content.json": {
+"mimeType": "text/json",
+"size": 11122
+},
+"json/000077.content.json": {
+"mimeType": "text/json",
+"size": 7135
+},
+"json/000078.content.json": {
+"mimeType": "text/json",
+"size": 9519
+},
+"json/000079.content.json": {
+"mimeType": "text/json",
+"size": 3798
+},
+"json/000080.content.json": {
+"mimeType": "text/json",
+"size": 7655
+},
+"json/000081.content.json": {
+"mimeType": "text/json",
+"size": 11708
+},
+"json/000082.content.json": {
+"mimeType": "text/json",
+"size": 6361
+},
+"json/000083.content.json": {
+"mimeType": "text/json",
+"size": 10149
+},
+"json/000084.content.json": {
+"mimeType": "text/json",
+"size": 6268
+},
+"json/000085.content.json": {
+"mimeType": "text/json",
+"size": 7099
+},
+"json/000086.content.json": {
+"mimeType": "text/json",
+"size": 6139
+},
+"json/000087.content.json": {
+"mimeType": "text/json",
+"size": 4878
+},
+"json/000088.content.json": {
+"mimeType": "text/json",
+"size": 23428
+},
+"json/000089.content.json": {
+"mimeType": "text/json",
+"size": 15946
+},
+"json/000090.content.json": {
+"mimeType": "text/json",
+"size": 2830
+},
+"json/000091.content.json": {
+"mimeType": "text/json",
+"size": 20433
+},
+"json/000092.content.json": {
+"mimeType": "text/json",
+"size": 7140
+},
+"json/000093.content.json": {
+"mimeType": "text/json",
+"size": 4604
+},
+"json/000094.content.json": {
+"mimeType": "text/json",
+"size": 4771
+},
+"json/000095.content.json": {
+"mimeType": "text/json",
+"size": 4292
+},
+"json/000096.content.json": {
+"mimeType": "text/json",
+"size": 4395
+},
+"json/000097.content.json": {
+"mimeType": "text/json",
+"size": 6570
+},
+"json/000098.content.json": {
+"mimeType": "text/json",
+"size": 6107
+},
+"json/000099.content.json": {
+"mimeType": "text/json",
+"size": 9938
+},
+"json/000100.content.json": {
+"mimeType": "text/json",
+"size": 3989
+},
+"json/000101.content.json": {
+"mimeType": "text/json",
+"size": 13675
+},
+"json/000102.content.json": {
+"mimeType": "text/json",
+"size": 7894
+},
+"json/000103.content.json": {
+"mimeType": "text/json",
+"size": 5287
+},
+"json/000104.content.json": {
+"mimeType": "text/json",
+"size": 33553
+},
+"json/000105.content.json": {
+"mimeType": "text/json",
+"size": 7751
+},
+"json/000106.content.json": {
+"mimeType": "text/json",
+"size": 8028
+},
+"json/000107.content.json": {
+"mimeType": "text/json",
+"size": 5311
+},
+"json/000108.content.json": {
+"mimeType": "text/json",
+"size": 12676
+},
+"json/000109.content.json": {
+"mimeType": "text/json",
+"size": 2681
+},
+"json/000110.content.json": {
+"mimeType": "text/json",
+"size": 8556
+},
+"json/000111.content.json": {
+"mimeType": "text/json",
+"size": 16168
+},
+"json/000112.content.json": {
+"mimeType": "text/json",
+"size": 9632
+},
+"json/000113.content.json": {
+"mimeType": "text/json",
+"size": 18815
+},
+"json/000114.content.json": {
+"mimeType": "text/json",
+"size": 15977
+},
+"md/000001.content.md": {
+"mimeType": "text/markdown",
+"size": 1092
+},
+"md/000002.content.md": {
+"mimeType": "text/markdown",
+"size": 14440
+},
+"md/000003.content.md": {
+"mimeType": "text/markdown",
+"size": 10494
+},
+"md/000004.content.md": {
+"mimeType": "text/markdown",
+"size": 6213
+},
+"md/000005.content.md": {
+"mimeType": "text/markdown",
+"size": 2925
+},
+"md/000006.content.md": {
+"mimeType": "text/markdown",
+"size": 8484
+},
+"md/000007.content.md": {
+"mimeType": "text/markdown",
+"size": 1735
+},
+"md/000008.content.md": {
+"mimeType": "text/markdown",
+"size": 4191
+},
+"md/000009.content.md": {
+"mimeType": "text/markdown",
+"size": 4559
+},
+"md/000010.content.md": {
+"mimeType": "text/markdown",
+"size": 609
+},
+"md/000011.content.md": {
+"mimeType": "text/markdown",
+"size": 3548
+},
+"md/000012.content.md": {
+"mimeType": "text/markdown",
+"size": 3075
+},
+"md/000013.content.md": {
+"mimeType": "text/markdown",
+"size": 15036
+},
+"md/000014.content.md": {
+"mimeType": "text/markdown",
+"size": 3035
+},
+"md/000015.content.md": {
+"mimeType": "text/markdown",
+"size": 5231
+},
+"md/000016.content.md": {
+"mimeType": "text/markdown",
+"size": 6743
+},
+"md/000017.content.md": {
+"mimeType": "text/markdown",
+"size": 11986
+},
+"md/000018.content.md": {
+"mimeType": "text/markdown",
+"size": 3880
+},
+"md/000019.content.md": {
+"mimeType": "text/markdown",
+"size": 42172
+},
+"md/000020.content.md": {
+"mimeType": "text/markdown",
+"size": 9613
+},
+"md/000021.content.md": {
+"mimeType": "text/markdown",
+"size": 8229
+},
+"md/000022.content.md": {
+"mimeType": "text/markdown",
+"size": 4648
+},
+"md/000023.content.md": {
+"mimeType": "text/markdown",
+"size": 7875
+},
+"md/000024.content.md": {
+"mimeType": "text/markdown",
+"size": 4668
+},
+"md/000025.content.md": {
+"mimeType": "text/markdown",
+"size": 15952
+},
+"md/000026.content.md": {
+"mimeType": "text/markdown",
+"size": 2799
+},
+"md/000027.content.md": {
+"mimeType": "text/markdown",
+"size": 3422
+},
+"md/000028.content.md": {
+"mimeType": "text/markdown",
+"size": 22252
+},
+"md/000029.content.md": {
+"mimeType": "text/markdown",
+"size": 9176
+},
+"md/000030.content.md": {
+"mimeType": "text/markdown",
+"size": 7630
+},
+"md/000031.content.md": {
+"mimeType": "text/markdown",
+"size": 7084
+},
+"md/000032.content.md": {
+"mimeType": "text/markdown",
+"size": 15376
+},
+"md/000033.content.md": {
+"mimeType": "text/markdown",
+"size": 5768
+},
+"md/000034.content.md": {
+"mimeType": "text/markdown",
+"size": 34156
+},
+"md/000035.content.md": {
+"mimeType": "text/markdown",
+"size": 4234
+},
+"md/000036.content.md": {
+"mimeType": "text/markdown",
+"size": 3788
+},
+"md/000037.content.md": {
+"mimeType": "text/markdown",
+"size": 7456
+},
+"md/000038.content.md": {
+"mimeType": "text/markdown",
+"size": 3984
+},
+"md/000039.content.md": {
+"mimeType": "text/markdown",
+"size": 4035
+},
+"md/000040.content.md": {
+"mimeType": "text/markdown",
+"size": 4468
+},
+"md/000041.content.md": {
+"mimeType": "text/markdown",
+"size": 32662
+},
+"md/000042.content.md": {
+"mimeType": "text/markdown",
+"size": 21988
+},
+"md/000043.content.md": {
+"mimeType": "text/markdown",
+"size": 4263
+},
+"md/000044.content.md": {
+"mimeType": "text/markdown",
+"size": 4062
+},
+"md/000045.content.md": {
+"mimeType": "text/markdown",
+"size": 10169
+},
+"md/000046.content.md": {
+"mimeType": "text/markdown",
+"size": 7545
+},
+"md/000047.content.md": {
+"mimeType": "text/markdown",
+"size": 1305
+},
+"md/000048.content.md": {
+"mimeType": "text/markdown",
+"size": 10751
+},
+"md/000049.content.md": {
+"mimeType": "text/markdown",
+"size": 14737
+},
+"md/000050.content.md": {
+"mimeType": "text/markdown",
+"size": 5227
+},
+"md/000051.content.md": {
+"mimeType": "text/markdown",
+"size": 4926
+},
+"md/000052.content.md": {
+"mimeType": "text/markdown",
+"size": 7201
+},
+"md/000053.content.md": {
+"mimeType": "text/markdown",
+"size": 6033
+},
+"md/000054.content.md": {
+"mimeType": "text/markdown",
+"size": 9951
+},
+"md/000055.content.md": {
+"mimeType": "text/markdown",
+"size": 26576
+},
+"md/000056.content.md": {
+"mimeType": "text/markdown",
+"size": 4698
+},
+"md/000057.content.md": {
+"mimeType": "text/markdown",
+"size": 3727
+},
+"md/000058.content.md": {
+"mimeType": "text/markdown",
+"size": 2088
+},
+"md/000059.content.md": {
+"mimeType": "text/markdown",
+"size": 2562
+},
+"md/000060.content.md": {
+"mimeType": "text/markdown",
+"size": 5414
+},
+"md/000061.content.md": {
+"mimeType": "text/markdown",
+"size": 3224
+},
+"md/000062.content.md": {
+"mimeType": "text/markdown",
+"size": 4663
+},
+"md/000063.content.md": {
+"mimeType": "text/markdown",
+"size": 5047
+},
+"md/000064.content.md": {
+"mimeType": "text/markdown",
+"size": 2412
+},
+"md/000065.content.md": {
+"mimeType": "text/markdown",
+"size": 4340
+},
+"md/000066.content.md": {
+"mimeType": "text/markdown",
+"size": 3326
+},
+"md/000067.content.md": {
+"mimeType": "text/markdown",
+"size": 1954
+},
+"md/000068.content.md": {
+"mimeType": "text/markdown",
+"size": 2433
+},
+"md/000069.content.md": {
+"mimeType": "text/markdown",
+"size": 3048
+},
+"md/000070.content.md": {
+"mimeType": "text/markdown",
+"size": 1485
+},
+"md/000071.content.md": {
+"mimeType": "text/markdown",
+"size": 4500
+},
+"md/000072.content.md": {
+"mimeType": "text/markdown",
+"size": 3268
+},
+"md/000073.content.md": {
+"mimeType": "text/markdown",
+"size": 14850
+},
+"md/000074.content.md": {
+"mimeType": "text/markdown",
+"size": 3319
+},
+"md/000075.content.md": {
+"mimeType": "text/markdown",
+"size": 3118
+},
+"md/000076.content.md": {
+"mimeType": "text/markdown",
+"size": 4295
+},
+"md/000077.content.md": {
+"mimeType": "text/markdown",
+"size": 3968
+},
+"md/000078.content.md": {
+"mimeType": "text/markdown",
+"size": 5889
+},
+"md/000079.content.md": {
+"mimeType": "text/markdown",
+"size": 905
+},
+"md/000080.content.md": {
+"mimeType": "text/markdown",
+"size": 5845
+},
+"md/000081.content.md": {
+"mimeType": "text/markdown",
+"size": 4143
+},
+"md/000082.content.md": {
+"mimeType": "text/markdown",
+"size": 3741
+},
+"md/000083.content.md": {
+"mimeType": "text/markdown",
+"size": 5898
+},
+"md/000084.content.md": {
+"mimeType": "text/markdown",
+"size": 3388
+},
+"md/000085.content.md": {
+"mimeType": "text/markdown",
+"size": 4127
+},
+"md/000086.content.md": {
+"mimeType": "text/markdown",
+"size": 3198
+},
+"md/000087.content.md": {
+"mimeType": "text/markdown",
+"size": 2362
+},
+"md/000088.content.md": {
+"mimeType": "text/markdown",
+"size": 11428
+},
+"md/000089.content.md": {
+"mimeType": "text/markdown",
+"size": 11125
+},
+"md/000090.content.md": {
+"mimeType": "text/markdown",
+"size": 707
+},
+"md/000091.content.md": {
+"mimeType": "text/markdown",
+"size": 8644
+},
+"md/000092.content.md": {
+"mimeType": "text/markdown",
+"size": 2820
+},
+"md/000093.content.md": {
+"mimeType": "text/markdown",
+"size": 2246
+},
+"md/000094.content.md": {
+"mimeType": "text/markdown",
+"size": 2253
+},
+"md/000095.content.md": {
+"mimeType": "text/markdown",
+"size": 1024
+},
+"md/000096.content.md": {
+"mimeType": "text/markdown",
+"size": 1848
+},
+"md/000097.content.md": {
+"mimeType": "text/markdown",
+"size": 3305
+},
+"md/000098.content.md": {
+"mimeType": "text/markdown",
+"size": 3185
+},
+"md/000099.content.md": {
+"mimeType": "text/markdown",
+"size": 4829
+},
+"md/000100.content.md": {
+"mimeType": "text/markdown",
+"size": 1730
+},
+"md/000101.content.md": {
+"mimeType": "text/markdown",
+"size": 9082
+},
+"md/000102.content.md": {
+"mimeType": "text/markdown",
+"size": 4524
+},
+"md/000103.content.md": {
+"mimeType": "text/markdown",
+"size": 2823
+},
+"md/000104.content.md": {
+"mimeType": "text/markdown",
+"size": 22516
+},
+"md/000105.content.md": {
+"mimeType": "text/markdown",
+"size": 3350
+},
+"md/000106.content.md": {
+"mimeType": "text/markdown",
+"size": 3363
+},
+"md/000107.content.md": {
+"mimeType": "text/markdown",
+"size": 2608
+},
+"md/000108.content.md": {
+"mimeType": "text/markdown",
+"size": 6719
+},
+"md/000109.content.md": {
+"mimeType": "text/markdown",
+"size": 677
+},
+"md/000110.content.md": {
+"mimeType": "text/markdown",
+"size": 5124
+},
+"md/000111.content.md": {
+"mimeType": "text/markdown",
+"size": 7310
+},
+"md/000112.content.md": {
+"mimeType": "text/markdown",
+"size": 5720
+},
+"md/000113.content.md": {
+"mimeType": "text/markdown",
+"size": 15390
+},
+"md/000114.content.md": {
+"mimeType": "text/markdown",
+"size": 12647
+},
+"pdf/0.content.pdf": {
+"mimeType": "application/pdf",
+"size": 112870
+},
+"pdf/1.content.pdf": {
+"mimeType": "application/pdf",
+"size": 231490
+},
+"pdf/2.content.pdf": {
+"mimeType": "application/pdf",
+"size": 64809527
+},
+"pdf/3.content.pdf": {
+"mimeType": "application/pdf",
+"size": 83911310
+},
+"pdf/4.content.pdf": {
+"mimeType": "application/pdf",
+"size": 15917898
+},
+"pdf/5.content.pdf": {
+"mimeType": "application/pdf",
+"size": 54719263
+},
+"pdf/6.content.pdf": {
+"mimeType": "application/pdf",
+"size": 35603051
+},
+"pdf/7.content.pdf": {
+"mimeType": "application/pdf",
+"size": 6655275
+},
+"pdf/8.content.pdf": {
+"mimeType": "application/pdf",
+"size": 71530
+},
+"pdf/9.content.pdf": {
+"mimeType": "application/pdf",
+"size": 83097
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Animals in the Bible © 2005–2025 United Bible Societies.</p>",
+"mimetype": "text/html",
+"lang": "en"
+}
+]
+}
+},
+"article_metadata": {
+"FAUNA:0": {
+"content_id": "FAUNA:0",
+"reference_id": "FAUNA:0",
+"index_reference": "0",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:0",
+"language": "zhs",
+"title": "标题：目录和介绍"
+},
+"zht": {
+"content_id": "FAUNA:0",
+"language": "zht",
+"title": "標題：目錄和介紹"
+}
+}
+},
+"FAUNA:0.1": {
+"content_id": "FAUNA:0.1",
+"reference_id": "FAUNA:0.1",
+"index_reference": "0.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:0.1",
+"language": "zhs",
+"title": "标题：介绍"
+},
+"zht": {
+"content_id": "FAUNA:0.1",
+"language": "zht",
+"title": "標題：介紹"
+}
+}
+},
+"FAUNA:1": {
+"content_id": "FAUNA:1",
+"reference_id": "FAUNA:1",
+"index_reference": "1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:1",
+"language": "zhs",
+"title": "标题：动物概述"
+},
+"zht": {
+"content_id": "FAUNA:1",
+"language": "zht",
+"title": "標題：動物概述"
+}
+}
+},
+"FAUNA:1.1": {
+"content_id": "FAUNA:1.1",
+"reference_id": "FAUNA:1.1",
+"index_reference": "1.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:1.1",
+"language": "zhs",
+"title": "标题：家畜、牛、牲畜、动物、活的物"
+},
+"zht": {
+"content_id": "FAUNA:1.1",
+"language": "zht",
+"title": "標題：家畜、牛、牲畜、動物、活的物"
+}
+}
+},
+"FAUNA:1.2": {
+"content_id": "FAUNA:1.2",
+"reference_id": "FAUNA:1.2",
+"index_reference": "1.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:1.2",
+"language": "zhs",
+"title": "标题：骑乘动物或驮重动物"
+},
+"zht": {
+"content_id": "FAUNA:1.2",
+"language": "zht",
+"title": "標題：騎乘動物或馱重動物"
+}
+}
+},
+"FAUNA:1.3": {
+"content_id": "FAUNA:1.3",
+"reference_id": "FAUNA:1.3",
+"index_reference": "1.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:1.3",
+"language": "zhs",
+"title": "标题：野生动物或危险动物"
+},
+"zht": {
+"content_id": "FAUNA:1.3",
+"language": "zht",
+"title": "標題：野生動物或危險動物"
+}
+}
+},
+"FAUNA:2": {
+"content_id": "FAUNA:2",
+"reference_id": "FAUNA:2",
+"index_reference": "2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2",
+"language": "zhs",
+"title": "标题：哺乳动物"
+},
+"zht": {
+"content_id": "FAUNA:2",
+"language": "zht",
+"title": "標題：哺乳動物"
+}
+}
+},
+"FAUNA:2.1": {
+"content_id": "FAUNA:2.1",
+"reference_id": "FAUNA:2.1",
+"index_reference": "2.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.1",
+"language": "zhs",
+"title": "标题：洁净的动物（申14:4-6）"
+},
+"zht": {
+"content_id": "FAUNA:2.1",
+"language": "zht",
+"title": "標題：潔淨的動物（申14:4-6）"
+}
+}
+},
+"FAUNA:2.2": {
+"content_id": "FAUNA:2.2",
+"reference_id": "FAUNA:2.2",
+"index_reference": "2.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.2",
+"language": "zhs",
+"title": "标题：羚羊（antelope）"
+},
+"zht": {
+"content_id": "FAUNA:2.2",
+"language": "zht",
+"title": "標題：羚羊（antelope）"
+}
+}
+},
+"FAUNA:2.3": {
+"content_id": "FAUNA:2.3",
+"reference_id": "FAUNA:2.3",
+"index_reference": "2.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.3",
+"language": "zhs",
+"title": "标题：猿猴（apes）"
+},
+"zht": {
+"content_id": "FAUNA:2.3",
+"language": "zht",
+"title": "標題：猿猴（apes）"
+}
+}
+},
+"FAUNA:2.3.1": {
+"content_id": "FAUNA:2.3.1",
+"reference_id": "FAUNA:2.3.1",
+"index_reference": "2.3.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.3.1",
+"language": "zhs",
+"title": "标题：狒狒（baboon）"
+},
+"zht": {
+"content_id": "FAUNA:2.3.1",
+"language": "zht",
+"title": "標題：狒狒（baboon）"
+}
+}
+},
+"FAUNA:2.3.2": {
+"content_id": "FAUNA:2.3.2",
+"reference_id": "FAUNA:2.3.2",
+"index_reference": "2.3.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.3.2",
+"language": "zhs",
+"title": "标题：猴子（monkey）"
+},
+"zht": {
+"content_id": "FAUNA:2.3.2",
+"language": "zht",
+"title": "標題：猴子（monkey）"
+}
+}
+},
+"FAUNA:2.4": {
+"content_id": "FAUNA:2.4",
+"reference_id": "FAUNA:2.4",
+"index_reference": "2.4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.4",
+"language": "zhs",
+"title": "标题：驴（ass, donkey）"
+},
+"zht": {
+"content_id": "FAUNA:2.4",
+"language": "zht",
+"title": "標題：驢（ass, donkey）"
+}
+}
+},
+"FAUNA:2.5": {
+"content_id": "FAUNA:2.5",
+"reference_id": "FAUNA:2.5",
+"index_reference": "2.5",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.5",
+"language": "zhs",
+"title": "标题：蝙蝠（bat）"
+},
+"zht": {
+"content_id": "FAUNA:2.5",
+"language": "zht",
+"title": "標題：蝙蝠（bat）"
+}
+}
+},
+"FAUNA:2.6": {
+"content_id": "FAUNA:2.6",
+"reference_id": "FAUNA:2.6",
+"index_reference": "2.6",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.6",
+"language": "zhs",
+"title": "标题：熊（bear）"
+},
+"zht": {
+"content_id": "FAUNA:2.6",
+"language": "zht",
+"title": "標題：熊（bear）"
+}
+}
+},
+"FAUNA:2.7": {
+"content_id": "FAUNA:2.7",
+"reference_id": "FAUNA:2.7",
+"index_reference": "2.7",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.7",
+"language": "zhs",
+"title": "标题：北非狷羚（狍子）（bubal hartebeest [roe deer]）"
+},
+"zht": {
+"content_id": "FAUNA:2.7",
+"language": "zht",
+"title": "標題：北非狷羚（麅子）（bubal hartebeest [roe deer]）"
+}
+}
+},
+"FAUNA:2.8": {
+"content_id": "FAUNA:2.8",
+"reference_id": "FAUNA:2.8",
+"index_reference": "2.8",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.8",
+"language": "zhs",
+"title": "标题：骆驼、独峰驼（camel, dromedary）"
+},
+"zht": {
+"content_id": "FAUNA:2.8",
+"language": "zht",
+"title": "標題：駱駝、獨峰駝（camel, dromedary）"
+}
+}
+},
+"FAUNA:2.9": {
+"content_id": "FAUNA:2.9",
+"reference_id": "FAUNA:2.9",
+"index_reference": "2.9",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.9",
+"language": "zhs",
+"title": "标题：猫（cat）"
+},
+"zht": {
+"content_id": "FAUNA:2.9",
+"language": "zht",
+"title": "標題：貓（cat）"
+}
+}
+},
+"FAUNA:2.10": {
+"content_id": "FAUNA:2.10",
+"reference_id": "FAUNA:2.10",
+"index_reference": "2.10",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.10",
+"language": "zhs",
+"title": "标题：牛、母牛、阉牛、公牛（cattle, cow, ox, bull）"
+},
+"zht": {
+"content_id": "FAUNA:2.10",
+"language": "zht",
+"title": "標題：牛、母牛、閹牛、公牛（cattle, cow, ox, bull）"
+}
+}
+},
+"FAUNA:2.11": {
+"content_id": "FAUNA:2.11",
+"reference_id": "FAUNA:2.11",
+"index_reference": "2.11",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.11",
+"language": "zhs",
+"title": "标题：鹿（deer）"
+},
+"zht": {
+"content_id": "FAUNA:2.11",
+"language": "zht",
+"title": "標題：鹿（deer）"
+}
+}
+},
+"FAUNA:2.12": {
+"content_id": "FAUNA:2.12",
+"reference_id": "FAUNA:2.12",
+"index_reference": "2.12",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.12",
+"language": "zhs",
+"title": "标题：狗（dog）"
+},
+"zht": {
+"content_id": "FAUNA:2.12",
+"language": "zht",
+"title": "標題：狗（dog）"
+}
+}
+},
+"FAUNA:2.13": {
+"content_id": "FAUNA:2.13",
+"reference_id": "FAUNA:2.13",
+"index_reference": "2.13",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.13",
+"language": "zhs",
+"title": "标题：儒艮（dugong）"
+},
+"zht": {
+"content_id": "FAUNA:2.13",
+"language": "zht",
+"title": "標題：儒艮（dugong）"
+}
+}
+},
+"FAUNA:2.14": {
+"content_id": "FAUNA:2.14",
+"reference_id": "FAUNA:2.14",
+"index_reference": "2.14",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.14",
+"language": "zhs",
+"title": "标题：象（elephant）"
+},
+"zht": {
+"content_id": "FAUNA:2.14",
+"language": "zht",
+"title": "標題：象（elephant）"
+}
+}
+},
+"FAUNA:2.15": {
+"content_id": "FAUNA:2.15",
+"reference_id": "FAUNA:2.15",
+"index_reference": "2.15",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.15",
+"language": "zhs",
+"title": "标题：瞪羚（gazelle）"
+},
+"zht": {
+"content_id": "FAUNA:2.15",
+"language": "zht",
+"title": "標題：瞪羚（gazelle）"
+}
+}
+},
+"FAUNA:2.16": {
+"content_id": "FAUNA:2.16",
+"reference_id": "FAUNA:2.16",
+"index_reference": "2.16",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.16",
+"language": "zhs",
+"title": "标题：山羊（goat）"
+},
+"zht": {
+"content_id": "FAUNA:2.16",
+"language": "zht",
+"title": "標題：山羊（goat）"
+}
+}
+},
+"FAUNA:2.16.1": {
+"content_id": "FAUNA:2.16.1",
+"reference_id": "FAUNA:2.16.1",
+"index_reference": "2.16.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.16.1",
+"language": "zhs",
+"title": "标题：小山羊（young goat, kid）"
+},
+"zht": {
+"content_id": "FAUNA:2.16.1",
+"language": "zht",
+"title": "標題：小山羊（young goat, kid）"
+}
+}
+},
+"FAUNA:2.17": {
+"content_id": "FAUNA:2.17",
+"reference_id": "FAUNA:2.17",
+"index_reference": "2.17",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.17",
+"language": "zhs",
+"title": "标题：野兔、兔子（hare）"
+},
+"zht": {
+"content_id": "FAUNA:2.17",
+"language": "zht",
+"title": "標題：野兔、兔子（hare）"
+}
+}
+},
+"FAUNA:2.18": {
+"content_id": "FAUNA:2.18",
+"reference_id": "FAUNA:2.18",
+"index_reference": "2.18",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.18",
+"language": "zhs",
+"title": "标题：马（horse）"
+},
+"zht": {
+"content_id": "FAUNA:2.18",
+"language": "zht",
+"title": "標題：馬（horse）"
+}
+}
+},
+"FAUNA:2.19": {
+"content_id": "FAUNA:2.19",
+"reference_id": "FAUNA:2.19",
+"index_reference": "2.19",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.19",
+"language": "zhs",
+"title": "标题：鬣狗（hyena）"
+},
+"zht": {
+"content_id": "FAUNA:2.19",
+"language": "zht",
+"title": "標題：鬣狗（hyena）"
+}
+}
+},
+"FAUNA:2.20": {
+"content_id": "FAUNA:2.20",
+"reference_id": "FAUNA:2.20",
+"index_reference": "2.20",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.20",
+"language": "zhs",
+"title": "标题：蹄兔、石獾（hyrax, rock badger）"
+},
+"zht": {
+"content_id": "FAUNA:2.20",
+"language": "zht",
+"title": "標題：蹄兔、石貛（hyrax, rock badger）"
+}
+}
+},
+"FAUNA:2.21": {
+"content_id": "FAUNA:2.21",
+"reference_id": "FAUNA:2.21",
+"index_reference": "2.21",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.21",
+"language": "zhs",
+"title": "标题：野山羊、羱羊、高山山羊（ibex, wild goat, mountain goat）"
+},
+"zht": {
+"content_id": "FAUNA:2.21",
+"language": "zht",
+"title": "標題：野山羊、羱羊、高山山羊（ibex, wild goat, mountain goat）"
+}
+}
+},
+"FAUNA:2.22": {
+"content_id": "FAUNA:2.22",
+"reference_id": "FAUNA:2.22",
+"index_reference": "2.22",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.22",
+"language": "zhs",
+"title": "标题：土狼、豺狼、野狗、狐狸（jackal, fox）"
+},
+"zht": {
+"content_id": "FAUNA:2.22",
+"language": "zht",
+"title": "標題：土狼、豺狼、野狗、狐狸（jackal, fox）"
+}
+}
+},
+"FAUNA:2.23": {
+"content_id": "FAUNA:2.23",
+"reference_id": "FAUNA:2.23",
+"index_reference": "2.23",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.23",
+"language": "zhs",
+"title": "标题：金钱豹、猎豹（leopard, cheetah）"
+},
+"zht": {
+"content_id": "FAUNA:2.23",
+"language": "zht",
+"title": "標題：金錢豹、獵豹（leopard, cheetah）"
+}
+}
+},
+"FAUNA:2.24": {
+"content_id": "FAUNA:2.24",
+"reference_id": "FAUNA:2.24",
+"index_reference": "2.24",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.24",
+"language": "zhs",
+"title": "标题：狮子（lion）"
+},
+"zht": {
+"content_id": "FAUNA:2.24",
+"language": "zht",
+"title": "標題：獅子（lion）"
+}
+}
+},
+"FAUNA:2.25": {
+"content_id": "FAUNA:2.25",
+"reference_id": "FAUNA:2.25",
+"index_reference": "2.25",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.25",
+"language": "zhs",
+"title": "标题：田鼠（mole rat）"
+},
+"zht": {
+"content_id": "FAUNA:2.25",
+"language": "zht",
+"title": "標題：田鼠（mole rat）"
+}
+}
+},
+"FAUNA:2.26": {
+"content_id": "FAUNA:2.26",
+"reference_id": "FAUNA:2.26",
+"index_reference": "2.26",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.26",
+"language": "zhs",
+"title": "标题：獴、鼬鼠（mongoose, weasel）"
+},
+"zht": {
+"content_id": "FAUNA:2.26",
+"language": "zht",
+"title": "標題：獴、鼬鼠（mongoose, weasel）"
+}
+}
+},
+"FAUNA:2.27": {
+"content_id": "FAUNA:2.27",
+"reference_id": "FAUNA:2.27",
+"index_reference": "2.27",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.27",
+"language": "zhs",
+"title": "标题：老鼠、耗子（mouse, rat）"
+},
+"zht": {
+"content_id": "FAUNA:2.27",
+"language": "zht",
+"title": "標題：老鼠、耗子（mouse, rat）"
+}
+}
+},
+"FAUNA:2.28": {
+"content_id": "FAUNA:2.28",
+"reference_id": "FAUNA:2.28",
+"index_reference": "2.28",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.28",
+"language": "zhs",
+"title": "标题：骡子（mule）"
+},
+"zht": {
+"content_id": "FAUNA:2.28",
+"language": "zht",
+"title": "標題：騾子（mule）"
+}
+}
+},
+"FAUNA:2.29": {
+"content_id": "FAUNA:2.29",
+"reference_id": "FAUNA:2.29",
+"index_reference": "2.29",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.29",
+"language": "zhs",
+"title": "标题：羚羊、长角羚、剑羚（oryx）"
+},
+"zht": {
+"content_id": "FAUNA:2.29",
+"language": "zht",
+"title": "標題：羚羊、長角羚、劍羚（oryx）"
+}
+}
+},
+"FAUNA:2.30": {
+"content_id": "FAUNA:2.30",
+"reference_id": "FAUNA:2.30",
+"index_reference": "2.30",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.30",
+"language": "zhs",
+"title": "标题：猪（pig）"
+},
+"zht": {
+"content_id": "FAUNA:2.30",
+"language": "zht",
+"title": "標題：豬（pig）"
+}
+}
+},
+"FAUNA:2.31": {
+"content_id": "FAUNA:2.31",
+"reference_id": "FAUNA:2.31",
+"index_reference": "2.31",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.31",
+"language": "zhs",
+"title": "标题：绵羊、羔羊、小羊（sheep, lamb）"
+},
+"zht": {
+"content_id": "FAUNA:2.31",
+"language": "zht",
+"title": "標題：綿羊、羔羊、小羊（sheep, lamb）"
+}
+}
+},
+"FAUNA:2.31.1": {
+"content_id": "FAUNA:2.31.1",
+"reference_id": "FAUNA:2.31.1",
+"index_reference": "2.31.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.31.1",
+"language": "zhs",
+"title": "标题：羊群（flock, herd）"
+},
+"zht": {
+"content_id": "FAUNA:2.31.1",
+"language": "zht",
+"title": "標題：羊群（flock, herd）"
+}
+}
+},
+"FAUNA:2.32": {
+"content_id": "FAUNA:2.32",
+"reference_id": "FAUNA:2.32",
+"index_reference": "2.32",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.32",
+"language": "zhs",
+"title": "标题：野驴（wild ass）"
+},
+"zht": {
+"content_id": "FAUNA:2.32",
+"language": "zht",
+"title": "標題：野驢（wild ass）"
+}
+}
+},
+"FAUNA:2.33": {
+"content_id": "FAUNA:2.33",
+"reference_id": "FAUNA:2.33",
+"index_reference": "2.33",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.33",
+"language": "zhs",
+"title": "标题：野猪（wild boar）"
+},
+"zht": {
+"content_id": "FAUNA:2.33",
+"language": "zht",
+"title": "標題：野豬（wild boar）"
+}
+}
+},
+"FAUNA:2.34": {
+"content_id": "FAUNA:2.34",
+"reference_id": "FAUNA:2.34",
+"index_reference": "2.34",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.34",
+"language": "zhs",
+"title": "标题：野牛（wild ox）"
+},
+"zht": {
+"content_id": "FAUNA:2.34",
+"language": "zht",
+"title": "標題：野牛（wild ox）"
+}
+}
+},
+"FAUNA:2.35": {
+"content_id": "FAUNA:2.35",
+"reference_id": "FAUNA:2.35",
+"index_reference": "2.35",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:2.35",
+"language": "zhs",
+"title": "标题：狼（wolf）"
+},
+"zht": {
+"content_id": "FAUNA:2.35",
+"language": "zht",
+"title": "標題：狼（wolf）"
+}
+}
+},
+"FAUNA:3": {
+"content_id": "FAUNA:3",
+"reference_id": "FAUNA:3",
+"index_reference": "3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3",
+"language": "zhs",
+"title": "标题：鸟"
+},
+"zht": {
+"content_id": "FAUNA:3",
+"language": "zht",
+"title": "標題：鳥"
+}
+}
+},
+"FAUNA:3.1": {
+"content_id": "FAUNA:3.1",
+"reference_id": "FAUNA:3.1",
+"index_reference": "3.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.1",
+"language": "zhs",
+"title": "标题：鸟类概述（birds, generic）"
+},
+"zht": {
+"content_id": "FAUNA:3.1",
+"language": "zht",
+"title": "標題：鳥類概述（birds, generic）"
+}
+}
+},
+"FAUNA:3.2": {
+"content_id": "FAUNA:3.2",
+"reference_id": "FAUNA:3.2",
+"index_reference": "3.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.2",
+"language": "zhs",
+"title": "标题：礼仪上洁净的鸟和不洁净的鸟（birds, clean and unclean）"
+},
+"zht": {
+"content_id": "FAUNA:3.2",
+"language": "zht",
+"title": "標題：禮儀上潔淨的鳥和不潔淨的鳥（birds, clean and unclean）"
+}
+}
+},
+"FAUNA:3.3": {
+"content_id": "FAUNA:3.3",
+"reference_id": "FAUNA:3.3",
+"index_reference": "3.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.3",
+"language": "zhs",
+"title": "标题：鸡、公鸡、母鸡（chicken, rooster, hen）"
+},
+"zht": {
+"content_id": "FAUNA:3.3",
+"language": "zht",
+"title": "標題：雞、公雞、母雞（chicken, rooster, hen）"
+}
+}
+},
+"FAUNA:3.4": {
+"content_id": "FAUNA:3.4",
+"reference_id": "FAUNA:3.4",
+"index_reference": "3.4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.4",
+"language": "zhs",
+"title": "标题：鸬鹚（cormorant）"
+},
+"zht": {
+"content_id": "FAUNA:3.4",
+"language": "zht",
+"title": "標題：鸕鶿（cormorant）"
+}
+}
+},
+"FAUNA:3.5": {
+"content_id": "FAUNA:3.5",
+"reference_id": "FAUNA:3.5",
+"index_reference": "3.5",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.5",
+"language": "zhs",
+"title": "标题：鹤（crane）"
+},
+"zht": {
+"content_id": "FAUNA:3.5",
+"language": "zht",
+"title": "標題：鶴（crane）"
+}
+}
+},
+"FAUNA:3.6": {
+"content_id": "FAUNA:3.6",
+"reference_id": "FAUNA:3.6",
+"index_reference": "3.6",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.6",
+"language": "zhs",
+"title": "标题：乌鸦、渡鸦（crow, raven）"
+},
+"zht": {
+"content_id": "FAUNA:3.6",
+"language": "zht",
+"title": "標題：烏鴉、渡鴉（crow, raven）"
+}
+}
+},
+"FAUNA:3.7": {
+"content_id": "FAUNA:3.7",
+"reference_id": "FAUNA:3.7",
+"index_reference": "3.7",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.7",
+"language": "zhs",
+"title": "标题：斑鸠、鸽子（dove, pigeon）"
+},
+"zht": {
+"content_id": "FAUNA:3.7",
+"language": "zht",
+"title": "標題：斑鳩、鴿子（dove, pigeon）"
+}
+}
+},
+"FAUNA:3.8": {
+"content_id": "FAUNA:3.8",
+"reference_id": "FAUNA:3.8",
+"index_reference": "3.8",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.8",
+"language": "zhs",
+"title": "标题：雕、兀鹫（eagle, vulture）"
+},
+"zht": {
+"content_id": "FAUNA:3.8",
+"language": "zht",
+"title": "標題：雕、兀鷲（eagle, vulture）"
+}
+}
+},
+"FAUNA:3.9": {
+"content_id": "FAUNA:3.9",
+"reference_id": "FAUNA:3.9",
+"index_reference": "3.9",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.9",
+"language": "zhs",
+"title": "标题：鹅（goose）"
+},
+"zht": {
+"content_id": "FAUNA:3.9",
+"language": "zht",
+"title": "標題：鵝（goose）"
+}
+}
+},
+"FAUNA:3.10": {
+"content_id": "FAUNA:3.10",
+"reference_id": "FAUNA:3.10",
+"index_reference": "3.10",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.10",
+"language": "zhs",
+"title": "标题：鹰、隼（hawk, falcon）"
+},
+"zht": {
+"content_id": "FAUNA:3.10",
+"language": "zht",
+"title": "標題：鷹、隼（hawk, falcon）"
+}
+}
+},
+"FAUNA:3.11": {
+"content_id": "FAUNA:3.11",
+"reference_id": "FAUNA:3.11",
+"index_reference": "3.11",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.11",
+"language": "zhs",
+"title": "标题：鹭鸶（heron）"
+},
+"zht": {
+"content_id": "FAUNA:3.11",
+"language": "zht",
+"title": "標題：鷺鷥（heron）"
+}
+}
+},
+"FAUNA:3.12": {
+"content_id": "FAUNA:3.12",
+"reference_id": "FAUNA:3.12",
+"index_reference": "3.12",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.12",
+"language": "zhs",
+"title": "标题：戴胜、戴鵀（hoopoe）"
+},
+"zht": {
+"content_id": "FAUNA:3.12",
+"language": "zht",
+"title": "標題：戴勝、戴鵀（hoopoe）"
+}
+}
+},
+"FAUNA:3.13": {
+"content_id": "FAUNA:3.13",
+"reference_id": "FAUNA:3.13",
+"index_reference": "3.13",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.13",
+"language": "zhs",
+"title": "标题：寒鸦（jackdaw）"
+},
+"zht": {
+"content_id": "FAUNA:3.13",
+"language": "zht",
+"title": "標題：寒鴉（jackdaw）"
+}
+}
+},
+"FAUNA:3.14": {
+"content_id": "FAUNA:3.14",
+"reference_id": "FAUNA:3.14",
+"index_reference": "3.14",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.14",
+"language": "zhs",
+"title": "标题：鸢（kite）"
+},
+"zht": {
+"content_id": "FAUNA:3.14",
+"language": "zht",
+"title": "標題：鳶（kite）"
+}
+}
+},
+"FAUNA:3.15": {
+"content_id": "FAUNA:3.15",
+"reference_id": "FAUNA:3.15",
+"index_reference": "3.15",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.15",
+"language": "zhs",
+"title": "标题：鱼鹰（osprey）"
+},
+"zht": {
+"content_id": "FAUNA:3.15",
+"language": "zht",
+"title": "標題：魚鷹（osprey）"
+}
+}
+},
+"FAUNA:3.16": {
+"content_id": "FAUNA:3.16",
+"reference_id": "FAUNA:3.16",
+"index_reference": "3.16",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.16",
+"language": "zhs",
+"title": "标题：鸵鸟（ostrich）"
+},
+"zht": {
+"content_id": "FAUNA:3.16",
+"language": "zht",
+"title": "標題：鴕鳥（ostrich）"
+}
+}
+},
+"FAUNA:3.17": {
+"content_id": "FAUNA:3.17",
+"reference_id": "FAUNA:3.17",
+"index_reference": "3.17",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17",
+"language": "zhs",
+"title": "标题：猫头鹰、鸮（owl）"
+},
+"zht": {
+"content_id": "FAUNA:3.17",
+"language": "zht",
+"title": "標題：貓頭鷹、鴞（owl）"
+}
+}
+},
+"FAUNA:3.17.1": {
+"content_id": "FAUNA:3.17.1",
+"reference_id": "FAUNA:3.17.1",
+"index_reference": "3.17.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.1",
+"language": "zhs",
+"title": "标题：Bath ya‘anah（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.1",
+"language": "zht",
+"title": "標題：Bath ya‘anah（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.2": {
+"content_id": "FAUNA:3.17.2",
+"reference_id": "FAUNA:3.17.2",
+"index_reference": "3.17.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.2",
+"language": "zhs",
+"title": "标题：Yanshuf（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.2",
+"language": "zht",
+"title": "標題：Yanshuf（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.3": {
+"content_id": "FAUNA:3.17.3",
+"reference_id": "FAUNA:3.17.3",
+"index_reference": "3.17.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.3",
+"language": "zhs",
+"title": "标题：Kos（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.3",
+"language": "zht",
+"title": "標題：Kos（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.4": {
+"content_id": "FAUNA:3.17.4",
+"reference_id": "FAUNA:3.17.4",
+"index_reference": "3.17.4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.4",
+"language": "zhs",
+"title": "标题：Lilith（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.4",
+"language": "zht",
+"title": "標題：Lilith（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.5": {
+"content_id": "FAUNA:3.17.5",
+"reference_id": "FAUNA:3.17.5",
+"index_reference": "3.17.5",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.5",
+"language": "zhs",
+"title": "标题：Qipod（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.5",
+"language": "zht",
+"title": "標題：Qipod（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.6": {
+"content_id": "FAUNA:3.17.6",
+"reference_id": "FAUNA:3.17.6",
+"index_reference": "3.17.6",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.6",
+"language": "zhs",
+"title": "标题：Qipoz（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.6",
+"language": "zht",
+"title": "標題：Qipoz（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.7": {
+"content_id": "FAUNA:3.17.7",
+"reference_id": "FAUNA:3.17.7",
+"index_reference": "3.17.7",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.7",
+"language": "zhs",
+"title": "标题：Tachmas（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.7",
+"language": "zht",
+"title": "標題：Tachmas（希伯來文）"
+}
+}
+},
+"FAUNA:3.17.8": {
+"content_id": "FAUNA:3.17.8",
+"reference_id": "FAUNA:3.17.8",
+"index_reference": "3.17.8",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.17.8",
+"language": "zhs",
+"title": "标题：Tinshemeth（希伯来文）"
+},
+"zht": {
+"content_id": "FAUNA:3.17.8",
+"language": "zht",
+"title": "標題：Tinshemeth（希伯來文）"
+}
+}
+},
+"FAUNA:3.18": {
+"content_id": "FAUNA:3.18",
+"reference_id": "FAUNA:3.18",
+"index_reference": "3.18",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.18",
+"language": "zhs",
+"title": "标题：鹧鸪（partridge）"
+},
+"zht": {
+"content_id": "FAUNA:3.18",
+"language": "zht",
+"title": "標題：鷓鴣（partridge）"
+}
+}
+},
+"FAUNA:3.19": {
+"content_id": "FAUNA:3.19",
+"reference_id": "FAUNA:3.19",
+"index_reference": "3.19",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.19",
+"language": "zhs",
+"title": "标题：鹌鹑（quail）"
+},
+"zht": {
+"content_id": "FAUNA:3.19",
+"language": "zht",
+"title": "標題：鵪鶉（quail）"
+}
+}
+},
+"FAUNA:3.20": {
+"content_id": "FAUNA:3.20",
+"reference_id": "FAUNA:3.20",
+"index_reference": "3.20",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.20",
+"language": "zhs",
+"title": "标题：海鸥（seagull）"
+},
+"zht": {
+"content_id": "FAUNA:3.20",
+"language": "zht",
+"title": "標題：海鷗（seagull）"
+}
+}
+},
+"FAUNA:3.21": {
+"content_id": "FAUNA:3.21",
+"reference_id": "FAUNA:3.21",
+"index_reference": "3.21",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.21",
+"language": "zhs",
+"title": "标题：麻雀、雀鸟（sparrow）"
+},
+"zht": {
+"content_id": "FAUNA:3.21",
+"language": "zht",
+"title": "標題：麻雀、雀鳥（sparrow）"
+}
+}
+},
+"FAUNA:3.22": {
+"content_id": "FAUNA:3.22",
+"reference_id": "FAUNA:3.22",
+"index_reference": "3.22",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.22",
+"language": "zhs",
+"title": "标题：鹳（stork）"
+},
+"zht": {
+"content_id": "FAUNA:3.22",
+"language": "zht",
+"title": "標題：鸛（stork）"
+}
+}
+},
+"FAUNA:3.23": {
+"content_id": "FAUNA:3.23",
+"reference_id": "FAUNA:3.23",
+"index_reference": "3.23",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:3.23",
+"language": "zhs",
+"title": "标题：燕子、雨燕（swallow, swift）"
+},
+"zht": {
+"content_id": "FAUNA:3.23",
+"language": "zht",
+"title": "標題：燕子、雨燕（swallow, swift）"
+}
+}
+},
+"FAUNA:4": {
+"content_id": "FAUNA:4",
+"reference_id": "FAUNA:4",
+"index_reference": "4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4",
+"language": "zhs",
+"title": "标题：蛇和蜥蜴"
+},
+"zht": {
+"content_id": "FAUNA:4",
+"language": "zht",
+"title": "標題：蛇和蜥蜴"
+}
+}
+},
+"FAUNA:4.1": {
+"content_id": "FAUNA:4.1",
+"reference_id": "FAUNA:4.1",
+"index_reference": "4.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.1",
+"language": "zhs",
+"title": "标题：蛇和蜥蜴介绍"
+},
+"zht": {
+"content_id": "FAUNA:4.1",
+"language": "zht",
+"title": "標題：蛇和蜥蜴介紹"
+}
+}
+},
+"FAUNA:4.2": {
+"content_id": "FAUNA:4.2",
+"reference_id": "FAUNA:4.2",
+"index_reference": "4.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.2",
+"language": "zhs",
+"title": "标题：爬行动物（Reptiles [crawling and creeping things]）"
+},
+"zht": {
+"content_id": "FAUNA:4.2",
+"language": "zht",
+"title": "標題：爬行動物（reptiles [crawling and creeping things]）"
+}
+}
+},
+"FAUNA:4.3": {
+"content_id": "FAUNA:4.3",
+"reference_id": "FAUNA:4.3",
+"index_reference": "4.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.3",
+"language": "zhs",
+"title": "标题：变色龙（chameleon）"
+},
+"zht": {
+"content_id": "FAUNA:4.3",
+"language": "zht",
+"title": "標題：變色龍（chameleon）"
+}
+}
+},
+"FAUNA:4.4": {
+"content_id": "FAUNA:4.4",
+"reference_id": "FAUNA:4.4",
+"index_reference": "4.4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.4",
+"language": "zhs",
+"title": "标题：眼镜蛇（cobra）"
+},
+"zht": {
+"content_id": "FAUNA:4.4",
+"language": "zht",
+"title": "標題：眼鏡蛇（cobra）"
+}
+}
+},
+"FAUNA:4.5": {
+"content_id": "FAUNA:4.5",
+"reference_id": "FAUNA:4.5",
+"index_reference": "4.5",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.5",
+"language": "zhs",
+"title": "标题：壁虎（gecko）"
+},
+"zht": {
+"content_id": "FAUNA:4.5",
+"language": "zht",
+"title": "標題：壁虎（gecko）"
+}
+}
+},
+"FAUNA:4.6": {
+"content_id": "FAUNA:4.6",
+"reference_id": "FAUNA:4.6",
+"index_reference": "4.6",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.6",
+"language": "zhs",
+"title": "标题：蜥蜴（lizard）"
+},
+"zht": {
+"content_id": "FAUNA:4.6",
+"language": "zht",
+"title": "標題：蜥蜴（lizard）"
+}
+}
+},
+"FAUNA:4.7": {
+"content_id": "FAUNA:4.7",
+"reference_id": "FAUNA:4.7",
+"index_reference": "4.7",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.7",
+"language": "zhs",
+"title": "标题：巨蜥（monitor）"
+},
+"zht": {
+"content_id": "FAUNA:4.7",
+"language": "zht",
+"title": "標題：巨蜥（monitor）"
+}
+}
+},
+"FAUNA:4.8": {
+"content_id": "FAUNA:4.8",
+"reference_id": "FAUNA:4.8",
+"index_reference": "4.8",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.8",
+"language": "zhs",
+"title": "标题：蛇医、石龙子（skink）"
+},
+"zht": {
+"content_id": "FAUNA:4.8",
+"language": "zht",
+"title": "標題：蛇醫、石龍子（skink）"
+}
+}
+},
+"FAUNA:4.9": {
+"content_id": "FAUNA:4.9",
+"reference_id": "FAUNA:4.9",
+"index_reference": "4.9",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.9",
+"language": "zhs",
+"title": "标题：蛇（snake）"
+},
+"zht": {
+"content_id": "FAUNA:4.9",
+"language": "zht",
+"title": "標題：蛇（snake）"
+}
+}
+},
+"FAUNA:4.10": {
+"content_id": "FAUNA:4.10",
+"reference_id": "FAUNA:4.10",
+"index_reference": "4.10",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:4.10",
+"language": "zhs",
+"title": "标题：蝰蛇（viper）"
+},
+"zht": {
+"content_id": "FAUNA:4.10",
+"language": "zht",
+"title": "標題：蝰蛇（viper）"
+}
+}
+},
+"FAUNA:5": {
+"content_id": "FAUNA:5",
+"reference_id": "FAUNA:5",
+"index_reference": "5",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:5",
+"language": "zhs",
+"title": "标题：鱼、青蛙和软件动物"
+},
+"zht": {
+"content_id": "FAUNA:5",
+"language": "zht",
+"title": "標題：魚、青蛙和軟體動物"
+}
+}
+},
+"FAUNA:5.1": {
+"content_id": "FAUNA:5.1",
+"reference_id": "FAUNA:5.1",
+"index_reference": "5.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:5.1",
+"language": "zhs",
+"title": "标题：鱼（fish）"
+},
+"zht": {
+"content_id": "FAUNA:5.1",
+"language": "zht",
+"title": "標題：魚（fish）"
+}
+}
+},
+"FAUNA:5.2": {
+"content_id": "FAUNA:5.2",
+"reference_id": "FAUNA:5.2",
+"index_reference": "5.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:5.2",
+"language": "zhs",
+"title": "标题：青蛙（frog）"
+},
+"zht": {
+"content_id": "FAUNA:5.2",
+"language": "zht",
+"title": "標題：青蛙（frog）"
+}
+}
+},
+"FAUNA:5.3": {
+"content_id": "FAUNA:5.3",
+"reference_id": "FAUNA:5.3",
+"index_reference": "5.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:5.3",
+"language": "zhs",
+"title": "标题：凤螺（onycha）"
+},
+"zht": {
+"content_id": "FAUNA:5.3",
+"language": "zht",
+"title": "標題：鳳螺（onycha）"
+}
+}
+},
+"FAUNA:5.4": {
+"content_id": "FAUNA:5.4",
+"reference_id": "FAUNA:5.4",
+"index_reference": "5.4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:5.4",
+"language": "zhs",
+"title": "标题：蜗牛（snail）"
+},
+"zht": {
+"content_id": "FAUNA:5.4",
+"language": "zht",
+"title": "標題：蝸牛（snail）"
+}
+}
+},
+"FAUNA:6": {
+"content_id": "FAUNA:6",
+"reference_id": "FAUNA:6",
+"index_reference": "6",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6",
+"language": "zhs",
+"title": "标题：昆虫、蜘蛛和蠕虫"
+},
+"zht": {
+"content_id": "FAUNA:6",
+"language": "zht",
+"title": "標題：昆蟲、蜘蛛和蠕蟲"
+}
+}
+},
+"FAUNA:6.1": {
+"content_id": "FAUNA:6.1",
+"reference_id": "FAUNA:6.1",
+"index_reference": "6.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.1",
+"language": "zhs",
+"title": "标题：蚂蚁（ant）"
+},
+"zht": {
+"content_id": "FAUNA:6.1",
+"language": "zht",
+"title": "標題：螞蟻（ant）"
+}
+}
+},
+"FAUNA:6.2": {
+"content_id": "FAUNA:6.2",
+"reference_id": "FAUNA:6.2",
+"index_reference": "6.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.2",
+"language": "zhs",
+"title": "标题：蜜蜂（bee）"
+},
+"zht": {
+"content_id": "FAUNA:6.2",
+"language": "zht",
+"title": "標題：蜜蜂（bee）"
+}
+}
+},
+"FAUNA:6.3": {
+"content_id": "FAUNA:6.3",
+"reference_id": "FAUNA:6.3",
+"index_reference": "6.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.3",
+"language": "zhs",
+"title": "标题：跳蚤、虼蚤（flea）"
+},
+"zht": {
+"content_id": "FAUNA:6.3",
+"language": "zht",
+"title": "標題：跳蚤、虼蚤（flea）"
+}
+}
+},
+"FAUNA:6.4": {
+"content_id": "FAUNA:6.4",
+"reference_id": "FAUNA:6.4",
+"index_reference": "6.4",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.4",
+"language": "zhs",
+"title": "标题：苍蝇（fly）"
+},
+"zht": {
+"content_id": "FAUNA:6.4",
+"language": "zht",
+"title": "標題：蒼蠅（fly）"
+}
+}
+},
+"FAUNA:6.5": {
+"content_id": "FAUNA:6.5",
+"reference_id": "FAUNA:6.5",
+"index_reference": "6.5",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.5",
+"language": "zhs",
+"title": "标题：牛虻（gadfly）"
+},
+"zht": {
+"content_id": "FAUNA:6.5",
+"language": "zht",
+"title": "標題：牛虻（gadfly）"
+}
+}
+},
+"FAUNA:6.6": {
+"content_id": "FAUNA:6.6",
+"reference_id": "FAUNA:6.6",
+"index_reference": "6.6",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.6",
+"language": "zhs",
+"title": "标题：蚊蚋、蚊子、虱子（gnat, mosquito, mouse）"
+},
+"zht": {
+"content_id": "FAUNA:6.6",
+"language": "zht",
+"title": "標題：蚊蚋、蚊子、蝨子（gnat, mosquito, mouse）"
+}
+}
+},
+"FAUNA:6.7": {
+"content_id": "FAUNA:6.7",
+"reference_id": "FAUNA:6.7",
+"index_reference": "6.7",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.7",
+"language": "zhs",
+"title": "标题：大黄蜂、黄蜂（hornet, wasp）"
+},
+"zht": {
+"content_id": "FAUNA:6.7",
+"language": "zht",
+"title": "標題：大黃蜂、黃蜂（hornet, wasp）"
+}
+}
+},
+"FAUNA:6.8": {
+"content_id": "FAUNA:6.8",
+"reference_id": "FAUNA:6.8",
+"index_reference": "6.8",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.8",
+"language": "zhs",
+"title": "标题：水蛭（leech）"
+},
+"zht": {
+"content_id": "FAUNA:6.8",
+"language": "zht",
+"title": "標題：水蛭（leech）"
+}
+}
+},
+"FAUNA:6.9": {
+"content_id": "FAUNA:6.9",
+"reference_id": "FAUNA:6.9",
+"index_reference": "6.9",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.9",
+"language": "zhs",
+"title": "标题：蝗虫、蚱蜢、蟋蟀（locust, grasshopper, cricket）"
+},
+"zht": {
+"content_id": "FAUNA:6.9",
+"language": "zht",
+"title": "標題：蝗蟲、蚱蜢、蟋蟀（locust, grasshopper, cricket）"
+}
+}
+},
+"FAUNA:6.10": {
+"content_id": "FAUNA:6.10",
+"reference_id": "FAUNA:6.10",
+"index_reference": "6.10",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.10",
+"language": "zhs",
+"title": "标题：飞蛾（moth）"
+},
+"zht": {
+"content_id": "FAUNA:6.10",
+"language": "zht",
+"title": "標題：飛蛾（moth）"
+}
+}
+},
+"FAUNA:6.11": {
+"content_id": "FAUNA:6.11",
+"reference_id": "FAUNA:6.11",
+"index_reference": "6.11",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.11",
+"language": "zhs",
+"title": "标题：蝎子（scorpion）"
+},
+"zht": {
+"content_id": "FAUNA:6.11",
+"language": "zht",
+"title": "標題：蠍子（scorpion）"
+}
+}
+},
+"FAUNA:6.12": {
+"content_id": "FAUNA:6.12",
+"reference_id": "FAUNA:6.12",
+"index_reference": "6.12",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.12",
+"language": "zhs",
+"title": "标题：蜘蛛（spider）"
+},
+"zht": {
+"content_id": "FAUNA:6.12",
+"language": "zht",
+"title": "標題：蜘蛛（spider）"
+}
+}
+},
+"FAUNA:6.13": {
+"content_id": "FAUNA:6.13",
+"reference_id": "FAUNA:6.13",
+"index_reference": "6.13",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:6.13",
+"language": "zhs",
+"title": "标题：蠕虫、蛆（worm, maggot）"
+},
+"zht": {
+"content_id": "FAUNA:6.13",
+"language": "zht",
+"title": "標題：蠕蟲、蛆（worm, maggot）"
+}
+}
+},
+"FAUNA:7": {
+"content_id": "FAUNA:7",
+"reference_id": "FAUNA:7",
+"index_reference": "7",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:7",
+"language": "zhs",
+"title": "标题：神秘怪兽"
+},
+"zht": {
+"content_id": "FAUNA:7",
+"language": "zht",
+"title": "標題：神秘怪獸"
+}
+}
+},
+"FAUNA:7.1": {
+"content_id": "FAUNA:7.1",
+"reference_id": "FAUNA:7.1",
+"index_reference": "7.1",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:7.1",
+"language": "zhs",
+"title": "标题：贝希摩斯（behemoth）"
+},
+"zht": {
+"content_id": "FAUNA:7.1",
+"language": "zht",
+"title": "標題：貝希摩斯（behemoth）"
+}
+}
+},
+"FAUNA:7.2": {
+"content_id": "FAUNA:7.2",
+"reference_id": "FAUNA:7.2",
+"index_reference": "7.2",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:7.2",
+"language": "zhs",
+"title": "标题：龙、海兽（dragon, sea monster）"
+},
+"zht": {
+"content_id": "FAUNA:7.2",
+"language": "zht",
+"title": "標題：龍、海獸（dragon, sea monster）"
+}
+}
+},
+"FAUNA:7.3": {
+"content_id": "FAUNA:7.3",
+"reference_id": "FAUNA:7.3",
+"index_reference": "7.3",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:7.3",
+"language": "zhs",
+"title": "标题：力威亚探（leviathan）"
+},
+"zht": {
+"content_id": "FAUNA:7.3",
+"language": "zht",
+"title": "標題：力威亞探（leviathan）"
+}
+}
+},
+"FAUNA:8": {
+"content_id": "FAUNA:8",
+"reference_id": "FAUNA:8",
+"index_reference": "8",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:8",
+"language": "zhs",
+"title": "标题：术语简释"
+},
+"zht": {
+"content_id": "FAUNA:8",
+"language": "zht",
+"title": "標題：術語簡釋"
+}
+}
+},
+"FAUNA:9": {
+"content_id": "FAUNA:9",
+"reference_id": "FAUNA:9",
+"index_reference": "9",
+"localizations": {
+"zhs": {
+"content_id": "FAUNA:9",
+"language": "zhs",
+"title": "标题：部分参考书目"
+},
+"zht": {
+"content_id": "FAUNA:9",
+"language": "zht",
+"title": "標題：部分參考書目"
+}
+}
+}
+}
+}

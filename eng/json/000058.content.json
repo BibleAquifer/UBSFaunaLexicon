@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FAUNA:3.11",
+"reference_id": "FAUNA:3.11",
+"version": "1.0.4",
+"title": "Heron",
+"media_type": "Text",
+"index_reference": "3.11",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:3.11\"><span class=\"thlex-key\">3.11</span> Heron</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֲנָפָה</span> <span class=\"thlex-translit\">(’anafah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:19\">LEV 11:19</a>, <a href=\"https://ref.ly/Deut14:18\">DEU 14:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0277_grey_heron.jpg\" alt=\"WEB-0277_grey_heron\"></figure>There is little doubt that <em>’anafah</em> refers to any type of heron found in the land of Israel, such as the Gray Heron <em>Ardea cinerea</em>, the Purple Heron <em>Ardea purpurea</em>, the Squacco Heron <em>Ardeola ralloides</em>, and the Night Heron <em>Nycticorax nycticorax</em>. However, since the name is derived from a Hebrew root meaning nose, there are many scholars who feel that the word originally was used for any waterside bird with a prominent beak. This would include not only herons but also ibises, egrets, and perhaps bitterns and spoonbills.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0199_egret.jpg\" alt=\"WEB-0199_egret\"></figure>Herons are fairly large birds with long necks, long beaks, and usually with long legs as well. They stand or walk slowly in shallow water in rivers, dams, ponds, or lakes looking into the water for small fish, which they catch by suddenly darting their heads into the water. They fly with slow wing-beats.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>It is listed as an unclean bird.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Herons and egrets are widespread around the world, and finding a local equivalent should not be a problem. All of the herons mentioned above are found throughout sub-Saharan Africa.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011019",
+"start_ref_usfm": "LEV 11:19",
+"end_ref": "03011019",
+"end_ref_usfm": "LEV 11:19"
+},
+{
+"start_ref": "05014018",
+"start_ref_usfm": "DEU 14:18",
+"end_ref": "05014018",
+"end_ref_usfm": "DEU 14:18"
+}
+],
+"resource": []
+}
+}
+]
