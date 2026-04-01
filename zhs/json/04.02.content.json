@@ -1,0 +1,252 @@
+[
+{
+"content_id": "FAUNA:4.2",
+"reference_id": "FAUNA:4.2",
+"version": "1.0.4",
+"title": "标题：爬行动物（Reptiles [crawling and creeping things]）",
+"media_type": "Text",
+"index_reference": "4.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.2\"><span class=\"thlex-key\">4.2</span> 标题：爬行动物（Reptiles [crawling and creeping things]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：זחל</span> <span class=\"thlex-translit\">(音译：zachal)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:24\">DEU 32:24</a>, <a href=\"https://ref.ly/Mic7:17\">MIC 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：רֶמֶשׂ</span> <span class=\"thlex-translit\">(音译：remes)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:24\">GEN 1:24</a>, <a href=\"https://ref.ly/Gen1:25\">GEN 1:25</a>, <a href=\"https://ref.ly/Gen1:26\">GEN 1:26</a>, <a href=\"https://ref.ly/Gen6:7\">GEN 6:7</a>, <a href=\"https://ref.ly/Gen6:20\">GEN 6:20</a>, <a href=\"https://ref.ly/Gen7:14\">GEN 7:14</a>, <a href=\"https://ref.ly/Gen7:23\">GEN 7:23</a>, <a href=\"https://ref.ly/Gen8:19\">GEN 8:19</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/Ps104:25\">PSA 104:25</a>, <a href=\"https://ref.ly/Ps148:10\">PSA 148:10</a>, <a href=\"https://ref.ly/Ezek8:10\">EZK 8:10</a>, <a href=\"https://ref.ly/Ezek38:20\">EZK 38:20</a>, <a href=\"https://ref.ly/Hos2:20\">HOS 2:20</a>, <a href=\"https://ref.ly/Hab1:14\">HAB 1:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שֶׁרֶץ</span> <span class=\"thlex-translit\">(音译：sherets)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen7:21\">GEN 7:21</a>, <a href=\"https://ref.ly/Lev5:2\">LEV 5:2</a>, <a href=\"https://ref.ly/Lev11:10\">LEV 11:10</a>, <a href=\"https://ref.ly/Lev11:20\">LEV 11:20</a>, <a href=\"https://ref.ly/Lev11:21\">LEV 11:21</a>, <a href=\"https://ref.ly/Lev11:23\">LEV 11:23</a>, <a href=\"https://ref.ly/Lev11:29\">LEV 11:29</a>, <a href=\"https://ref.ly/Lev11:31\">LEV 11:31</a>, <a href=\"https://ref.ly/Lev11:41\">LEV 11:41</a>, <a href=\"https://ref.ly/Lev11:42\">LEV 11:42</a>, <a href=\"https://ref.ly/Lev11:43\">LEV 11:43</a>, <a href=\"https://ref.ly/Lev11:44\">LEV 11:44</a>, <a href=\"https://ref.ly/Lev22:5\">LEV 22:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἑρπετόν</span> <span class=\"thlex-translit\">(音译：herpeton)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John10:12\">ACT 10:12</a>, <a href=\"https://ref.ly/John11:6\">ACT 11:6</a>, <a href=\"https://ref.ly/Acts1:23\">ROM 1:23</a>, <a href=\"https://ref.ly/Heb3:7\">JAS 3:7</a>, <a href=\"https://ref.ly/Wis10:11\">SIR 10:11</a>, <a href=\"https://ref.ly/Bar1:20\">LJE 1:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：reptilis</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:53\">2ES 6:53</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>zachal</em> 和<em>remes</em> 字面义为&quot;爬行的（东西）&quot;，用来指称体型较小的不洁净生物，特别是爬行动物。希伯来文<em>sherets</em> 字面义为&quot;成群的东西&quot;，指成群结队、贴近地面移动的哺乳动物和爬行动物。在以色列，有些蝰蛇产下的幼蛇生活在离彼此不远的地方，直到完全成熟。到了交配季节，这些蛇又再次聚集在一起。这些蝰蛇都包含在<em>sherets</em> 一词中。希腊文<em>herpeton</em> 也是对爬行动物的通称，包括蛇和蜥蜴。通常，所有的希伯来文、希腊文和拉丁文意指&quot;爬行动物&quot;的词语，都排除了鱼的意思，除了<a href=\"https://ref.ly/Gen1:20\">GEN 1:20</a> 这个可能的例外。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义或象征意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>这些希伯来文词语含有礼仪上不洁净的意思。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>如果目标语言有意为&quot;爬行动物&quot;的词语，那么该词可以用在大多数经文中。在没有这个词的语言中，可以使用&quot;蛇和蜥蜴&quot;、&quot;蠕动的东西&quot;等短语。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032024",
+"start_ref_usfm": "DEU 32:24",
+"end_ref": "05032024",
+"end_ref_usfm": "DEU 32:24"
+},
+{
+"start_ref": "33007017",
+"start_ref_usfm": "MIC 7:17",
+"end_ref": "33007017",
+"end_ref_usfm": "MIC 7:17"
+},
+{
+"start_ref": "01001024",
+"start_ref_usfm": "GEN 1:24",
+"end_ref": "01001024",
+"end_ref_usfm": "GEN 1:24"
+},
+{
+"start_ref": "01001025",
+"start_ref_usfm": "GEN 1:25",
+"end_ref": "01001025",
+"end_ref_usfm": "GEN 1:25"
+},
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001026",
+"end_ref_usfm": "GEN 1:26"
+},
+{
+"start_ref": "01006007",
+"start_ref_usfm": "GEN 6:7",
+"end_ref": "01006007",
+"end_ref_usfm": "GEN 6:7"
+},
+{
+"start_ref": "01006020",
+"start_ref_usfm": "GEN 6:20",
+"end_ref": "01006020",
+"end_ref_usfm": "GEN 6:20"
+},
+{
+"start_ref": "01007014",
+"start_ref_usfm": "GEN 7:14",
+"end_ref": "01007014",
+"end_ref_usfm": "GEN 7:14"
+},
+{
+"start_ref": "01007023",
+"start_ref_usfm": "GEN 7:23",
+"end_ref": "01007023",
+"end_ref_usfm": "GEN 7:23"
+},
+{
+"start_ref": "01008019",
+"start_ref_usfm": "GEN 8:19",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "19104025",
+"start_ref_usfm": "PSA 104:25",
+"end_ref": "19104025",
+"end_ref_usfm": "PSA 104:25"
+},
+{
+"start_ref": "19148010",
+"start_ref_usfm": "PSA 148:10",
+"end_ref": "19148010",
+"end_ref_usfm": "PSA 148:10"
+},
+{
+"start_ref": "26008010",
+"start_ref_usfm": "EZK 8:10",
+"end_ref": "26008010",
+"end_ref_usfm": "EZK 8:10"
+},
+{
+"start_ref": "26038020",
+"start_ref_usfm": "EZK 38:20",
+"end_ref": "26038020",
+"end_ref_usfm": "EZK 38:20"
+},
+{
+"start_ref": "28002020",
+"start_ref_usfm": "HOS 2:20",
+"end_ref": "28002020",
+"end_ref_usfm": "HOS 2:20"
+},
+{
+"start_ref": "35001014",
+"start_ref_usfm": "HAB 1:14",
+"end_ref": "35001014",
+"end_ref_usfm": "HAB 1:14"
+},
+{
+"start_ref": "01007021",
+"start_ref_usfm": "GEN 7:21",
+"end_ref": "01007021",
+"end_ref_usfm": "GEN 7:21"
+},
+{
+"start_ref": "03005002",
+"start_ref_usfm": "LEV 5:2",
+"end_ref": "03005002",
+"end_ref_usfm": "LEV 5:2"
+},
+{
+"start_ref": "03011010",
+"start_ref_usfm": "LEV 11:10",
+"end_ref": "03011010",
+"end_ref_usfm": "LEV 11:10"
+},
+{
+"start_ref": "03011020",
+"start_ref_usfm": "LEV 11:20",
+"end_ref": "03011020",
+"end_ref_usfm": "LEV 11:20"
+},
+{
+"start_ref": "03011021",
+"start_ref_usfm": "LEV 11:21",
+"end_ref": "03011021",
+"end_ref_usfm": "LEV 11:21"
+},
+{
+"start_ref": "03011023",
+"start_ref_usfm": "LEV 11:23",
+"end_ref": "03011023",
+"end_ref_usfm": "LEV 11:23"
+},
+{
+"start_ref": "03011029",
+"start_ref_usfm": "LEV 11:29",
+"end_ref": "03011029",
+"end_ref_usfm": "LEV 11:29"
+},
+{
+"start_ref": "03011031",
+"start_ref_usfm": "LEV 11:31",
+"end_ref": "03011031",
+"end_ref_usfm": "LEV 11:31"
+},
+{
+"start_ref": "03011041",
+"start_ref_usfm": "LEV 11:41",
+"end_ref": "03011041",
+"end_ref_usfm": "LEV 11:41"
+},
+{
+"start_ref": "03011042",
+"start_ref_usfm": "LEV 11:42",
+"end_ref": "03011042",
+"end_ref_usfm": "LEV 11:42"
+},
+{
+"start_ref": "03011043",
+"start_ref_usfm": "LEV 11:43",
+"end_ref": "03011043",
+"end_ref_usfm": "LEV 11:43"
+},
+{
+"start_ref": "03011044",
+"start_ref_usfm": "LEV 11:44",
+"end_ref": "03011044",
+"end_ref_usfm": "LEV 11:44"
+},
+{
+"start_ref": "03022005",
+"start_ref_usfm": "LEV 22:5",
+"end_ref": "03022005",
+"end_ref_usfm": "LEV 22:5"
+},
+{
+"start_ref": "44010012",
+"start_ref_usfm": "ACT 10:12",
+"end_ref": "44010012",
+"end_ref_usfm": "ACT 10:12"
+},
+{
+"start_ref": "44011006",
+"start_ref_usfm": "ACT 11:6",
+"end_ref": "44011006",
+"end_ref_usfm": "ACT 11:6"
+},
+{
+"start_ref": "45001023",
+"start_ref_usfm": "ROM 1:23",
+"end_ref": "45001023",
+"end_ref_usfm": "ROM 1:23"
+},
+{
+"start_ref": "59003007",
+"start_ref_usfm": "JAS 3:7",
+"end_ref": "59003007",
+"end_ref_usfm": "JAS 3:7"
+},
+{
+"start_ref": "72010011",
+"start_ref_usfm": "SIR 10:11",
+"end_ref": "72010011",
+"end_ref_usfm": "SIR 10:11"
+},
+{
+"start_ref": "74001020",
+"start_ref_usfm": "LJE 1:20",
+"end_ref": "74001020",
+"end_ref_usfm": "LJE 1:20"
+},
+{
+"start_ref": "83006053",
+"start_ref_usfm": "2ES 6:53",
+"end_ref": "83006053",
+"end_ref_usfm": "2ES 6:53"
+},
+{
+"start_ref": "01001020",
+"start_ref_usfm": "GEN 1:20",
+"end_ref": "01001020",
+"end_ref_usfm": "GEN 1:20"
+}
+],
+"resource": []
+}
+}
+]

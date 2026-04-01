@@ -1,0 +1,402 @@
+[
+{
+"content_id": "FAUNA:5.1",
+"reference_id": "FAUNA:5.1",
+"version": "1.0.4",
+"title": "標題：魚（fish）",
+"media_type": "Text",
+"index_reference": "5.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:5.1\"><span class=\"thlex-key\">5.1</span> 標題：魚（fish）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：דָּג, דָּגָה</span> <span class=\"thlex-translit\">(音譯：dag, dagah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:26\">GEN 1:26</a>, <a href=\"https://ref.ly/Gen1:28\">GEN 1:28</a>, <a href=\"https://ref.ly/Gen9:2\">GEN 9:2</a>, <a href=\"https://ref.ly/Exod7:18\">EXO 7:18</a>, <a href=\"https://ref.ly/Exod7:21\">EXO 7:21</a>, <a href=\"https://ref.ly/Num11:5\">NUM 11:5</a>, <a href=\"https://ref.ly/Num11:22\">NUM 11:22</a>, <a href=\"https://ref.ly/Deut4:18\">DEU 4:18</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/2Chr33:14\">2CH 33:14</a>, <a href=\"https://ref.ly/Neh3:3\">NEH 3:3</a>, <a href=\"https://ref.ly/Neh12:39\">NEH 12:39</a>, <a href=\"https://ref.ly/Neh13:16\">NEH 13:16</a>, <a href=\"https://ref.ly/Job12:8\">JOB 12:8</a>, <a href=\"https://ref.ly/Job40:31\">JOB 40:31</a>, <a href=\"https://ref.ly/Ps8:9\">PSA 8:9</a>, <a href=\"https://ref.ly/Ps105:29\">PSA 105:29</a>, <a href=\"https://ref.ly/Eccl9:12\">ECC 9:12</a>, <a href=\"https://ref.ly/Isa50:2\">ISA 50:2</a>, <a href=\"https://ref.ly/Ezek29:4\">EZK 29:4</a>, <a href=\"https://ref.ly/Ezek29:4\">EZK 29:4</a>, <a href=\"https://ref.ly/Ezek29:5\">EZK 29:5</a>, <a href=\"https://ref.ly/Ezek38:20\">EZK 38:20</a>, <a href=\"https://ref.ly/Ezek47:9\">EZK 47:9</a>, <a href=\"https://ref.ly/Ezek47:10\">EZK 47:10</a>, <a href=\"https://ref.ly/Ezek47:10\">EZK 47:10</a>, <a href=\"https://ref.ly/Hos4:3\">HOS 4:3</a>, <a href=\"https://ref.ly/Jonah2:1\">JON 2:1</a>, <a href=\"https://ref.ly/Jonah2:1\">JON 2:1</a>, <a href=\"https://ref.ly/Jonah2:2\">JON 2:2</a>, <a href=\"https://ref.ly/Jonah2:11\">JON 2:11</a>, <a href=\"https://ref.ly/Hab1:14\">HAB 1:14</a>, <a href=\"https://ref.ly/Zeph1:3\">ZEP 1:3</a>, <a href=\"https://ref.ly/Zeph1:10\">ZEP 1:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἐνάλιον</span> <span class=\"thlex-translit\">(音譯：enalion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb3:7\">JAS 3:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἔνυδρος</span> <span class=\"thlex-translit\">(音譯：enudros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr19:10\">WIS 19:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἰχθύς</span> <span class=\"thlex-translit\">(音譯：ichthus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt7:10\">MAT 7:10</a>, <a href=\"https://ref.ly/Matt14:17\">MAT 14:17</a>, <a href=\"https://ref.ly/Matt14:19\">MAT 14:19</a>, <a href=\"https://ref.ly/Matt15:36\">MAT 15:36</a>, <a href=\"https://ref.ly/Matt17:27\">MAT 17:27</a>, <a href=\"https://ref.ly/Matt6:38\">MRK 6:38</a>, <a href=\"https://ref.ly/Matt6:41\">MRK 6:41</a>, <a href=\"https://ref.ly/Matt6:41\">MRK 6:41</a>, <a href=\"https://ref.ly/Matt6:43\">MRK 6:43</a>, <a href=\"https://ref.ly/Mark5:6\">LUK 5:6</a>, <a href=\"https://ref.ly/Mark5:9\">LUK 5:9</a>, <a href=\"https://ref.ly/Mark9:13\">LUK 9:13</a>, <a href=\"https://ref.ly/Mark9:16\">LUK 9:16</a>, <a href=\"https://ref.ly/Mark11:11\">LUK 11:11</a>, <a href=\"https://ref.ly/Mark11:11\">LUK 11:11</a>, <a href=\"https://ref.ly/Mark24:42\">LUK 24:42</a>, <a href=\"https://ref.ly/Luke21:6\">JHN 21:6</a>, <a href=\"https://ref.ly/Luke21:8\">JHN 21:8</a>, <a href=\"https://ref.ly/Luke21:11\">JHN 21:11</a>, <a href=\"https://ref.ly/Rom15:39\">1CO 15:39</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἰχθύδιον</span> <span class=\"thlex-translit\">(音譯：ichthudion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt15:34\">MAT 15:34</a>, <a href=\"https://ref.ly/Matt8:7\">MRK 8:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κῆτος</span> <span class=\"thlex-translit\">(音譯：kētos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:40\">MAT 12:40</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：νηκτός</span> <span class=\"thlex-translit\">(音譯：nēktos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr19:19\">WIS 19:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ὀψάριον</span> <span class=\"thlex-translit\">(音譯：opsarion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke6:9\">JHN 6:9</a>, <a href=\"https://ref.ly/Luke6:11\">JHN 6:11</a>, <a href=\"https://ref.ly/Luke21:9\">JHN 21:9</a>, <a href=\"https://ref.ly/Luke21:10\">JHN 21:10</a>, <a href=\"https://ref.ly/Luke21:13\">JHN 21:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：προσφάγιον</span> <span class=\"thlex-translit\">(音譯：prosfagion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke21:5\">JHN 21:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：piscis</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd5:7\">2ES 5:7</a>, <a href=\"https://ref.ly/1Esd6:47\">2ES 6:47</a>, <a href=\"https://ref.ly/1Esd16:12\">2ES 16:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0224_fish_hant.jpg\" alt=\"WEB-0224_fish_hant\"></figure>以色列人只吃有鰭有鱗的魚。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0226_fishes.jpg\" alt=\"WEB-0226_fishes\"></figure>雖然聖經中經常提到魚，但舊約並沒有直接提到捕魚，這可能有兩個主要原因：（1）希伯來人是遊牧民族，他們在寄居埃及之前很可能不常吃魚；（2）他們懼怕海洋，因此很可能直到較晚的時期才開始從事商業性的捕魚活動。不過，希伯來人在埃及寄居的時候，魚類一定是飯桌上經常出現的菜餚。尼羅河盛產多種美味的魚，例如尼羅河鱸魚、羅非魚（吳郭魚）和巨鯰魚，不過希伯來人一定不會吃最後這種巨鯰魚，因為沒有明顯的魚鱗。</p>\n<p>然而，聖經很多次提到，以色列人自從出埃及之後，他們確實吃魚，另外還提到了幾種漁網、魚叉和釣魚鈎。考古學家發現，埃及人、巴比倫人和亞述人在池塘裡養殖魚類，因此，以色列人也有可能這樣做。商業性捕魚大多是由非利士人和其他腓尼基民族所從事的。非利士人敬拜魚神亞她吉特（Atargatis）女神，這種異教發源於敘利亞。</p>\n<p>在馬加比時期之前，猶太人似乎沒有在加利利海中捕魚，而是在河流和溪流中捕魚，有可能也在池塘中養魚，但魚乾都是向沿海民族買的。</p>\n<p>希伯來文<em>dag</em> 和<em>dagah</em> 是個統稱，並不指任何特定的魚的種類。地中海東部的海水魚數量並不很多，因為這片水域的養分較少。在這個地區，數量足以用網捕撈的魚類只有沙丁魚和鯡魚。在少數靠近海岸、礁石較淺的地方，有一些熱帶岩礁魚類，並且可能有人垂釣這些魚種。</p>\n<p>同樣地，希臘文<em>ichthus</em> 和拉丁文<em>piscis</em> 也是指魚類的統稱。然而，<em>ichthudion</em> （字面意為「小魚」）很可能是指加利利海沙丁魚或聖地沙丁魚（學名<em>Mirogrex terrae sanctae</em> ，有時稱為歐鮊魚），加利利海盛產這種魚，捕撈已有數百年之久。這是一種小型的淡水沙丁魚，與在非洲各大湖泊中發現的卡彭塔魚（<em>kapenta</em> ）類似。加利利海還有大量的羅非魚（吳郭魚）。</p>\n<p>希臘文<em>enalion</em> 一詞有魚類的意思，但指的是海洋裡所有的生物，包括甲殼類動物和海豚。<em>Opsarion</em> 指的是已經烹飪好的熟魚或是馬上要烹食的魚。在<a href=\"https://ref.ly/Luke21:5\">JHN 21:5</a> 的上下文中，<em>prosfagion</em> 指的是早餐吃的魚。<em>Nēktos</em> 的字面意思是「會游泳的動物」，包含了其他的水生動物，例如青蛙。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在大多數情況下，翻譯者可以使用表示魚類的統稱。在<a href=\"https://ref.ly/Job40:31\">JOB 40:31</a> （《和》41:7）中，希伯來文本作「魚叉」。請注意，這種魚叉只是削尖了的蘆葦，並不是帶金屬頭的矛槍。</p>\n<p>在翻譯<em>ichthudion</em> 的時候，可以採用當地已知的淡水沙丁魚的詞語，或者意為「小魚」的慣用語。<em>Opsarion</em> 可以譯作「熟魚」。至於<em>prosfagion</em> ，因為這個詞出現在「你們打到魚沒有」這個問句中，所以應該選用這類問話所常用的詞語。</p>\n<p>希臘文<em>enalion</em> 最好譯為「海洋生物」或「生活在海裡的東西」。</p>\n<p>希臘文<em>kētos</em> 不是指稱魚類的常用詞語，大多數解經家認為這個詞的意思是海怪或巨大的怪物魚，因此最好翻譯為「怪物魚」、「海怪」或「巨大的魚」。</p>\n<p>備註：魚在第2世紀成為基督信仰的象徵，這是根據希臘文短語<em>Iēsous CHristos THeou ‘Uios Sōtēr</em> （「耶穌基督，上帝的兒子，救主」）。這幾個希臘文單詞的首字母拼在一起就是<em>ICHTHUS</em> ，即希臘文的「魚」這個字。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001026",
+"end_ref_usfm": "GEN 1:26"
+},
+{
+"start_ref": "01001028",
+"start_ref_usfm": "GEN 1:28",
+"end_ref": "01001028",
+"end_ref_usfm": "GEN 1:28"
+},
+{
+"start_ref": "01009002",
+"start_ref_usfm": "GEN 9:2",
+"end_ref": "01009002",
+"end_ref_usfm": "GEN 9:2"
+},
+{
+"start_ref": "02007018",
+"start_ref_usfm": "EXO 7:18",
+"end_ref": "02007018",
+"end_ref_usfm": "EXO 7:18"
+},
+{
+"start_ref": "02007021",
+"start_ref_usfm": "EXO 7:21",
+"end_ref": "02007021",
+"end_ref_usfm": "EXO 7:21"
+},
+{
+"start_ref": "04011005",
+"start_ref_usfm": "NUM 11:5",
+"end_ref": "04011005",
+"end_ref_usfm": "NUM 11:5"
+},
+{
+"start_ref": "04011022",
+"start_ref_usfm": "NUM 11:22",
+"end_ref": "04011022",
+"end_ref_usfm": "NUM 11:22"
+},
+{
+"start_ref": "05004018",
+"start_ref_usfm": "DEU 4:18",
+"end_ref": "05004018",
+"end_ref_usfm": "DEU 4:18"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "14033014",
+"start_ref_usfm": "2CH 33:14",
+"end_ref": "14033014",
+"end_ref_usfm": "2CH 33:14"
+},
+{
+"start_ref": "16003003",
+"start_ref_usfm": "NEH 3:3",
+"end_ref": "16003003",
+"end_ref_usfm": "NEH 3:3"
+},
+{
+"start_ref": "16012039",
+"start_ref_usfm": "NEH 12:39",
+"end_ref": "16012039",
+"end_ref_usfm": "NEH 12:39"
+},
+{
+"start_ref": "16013016",
+"start_ref_usfm": "NEH 13:16",
+"end_ref": "16013016",
+"end_ref_usfm": "NEH 13:16"
+},
+{
+"start_ref": "18012008",
+"start_ref_usfm": "JOB 12:8",
+"end_ref": "18012008",
+"end_ref_usfm": "JOB 12:8"
+},
+{
+"start_ref": "18040031",
+"start_ref_usfm": "JOB 40:31",
+"end_ref": "18040031",
+"end_ref_usfm": "JOB 40:31"
+},
+{
+"start_ref": "19008009",
+"start_ref_usfm": "PSA 8:9",
+"end_ref": "19008009",
+"end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "19105029",
+"start_ref_usfm": "PSA 105:29",
+"end_ref": "19105029",
+"end_ref_usfm": "PSA 105:29"
+},
+{
+"start_ref": "21009012",
+"start_ref_usfm": "ECC 9:12",
+"end_ref": "21009012",
+"end_ref_usfm": "ECC 9:12"
+},
+{
+"start_ref": "23050002",
+"start_ref_usfm": "ISA 50:2",
+"end_ref": "23050002",
+"end_ref_usfm": "ISA 50:2"
+},
+{
+"start_ref": "26029004",
+"start_ref_usfm": "EZK 29:4",
+"end_ref": "26029004",
+"end_ref_usfm": "EZK 29:4"
+},
+{
+"start_ref": "26029005",
+"start_ref_usfm": "EZK 29:5",
+"end_ref": "26029005",
+"end_ref_usfm": "EZK 29:5"
+},
+{
+"start_ref": "26038020",
+"start_ref_usfm": "EZK 38:20",
+"end_ref": "26038020",
+"end_ref_usfm": "EZK 38:20"
+},
+{
+"start_ref": "26047009",
+"start_ref_usfm": "EZK 47:9",
+"end_ref": "26047009",
+"end_ref_usfm": "EZK 47:9"
+},
+{
+"start_ref": "26047010",
+"start_ref_usfm": "EZK 47:10",
+"end_ref": "26047010",
+"end_ref_usfm": "EZK 47:10"
+},
+{
+"start_ref": "28004003",
+"start_ref_usfm": "HOS 4:3",
+"end_ref": "28004003",
+"end_ref_usfm": "HOS 4:3"
+},
+{
+"start_ref": "32002001",
+"start_ref_usfm": "JON 2:1",
+"end_ref": "32002001",
+"end_ref_usfm": "JON 2:1"
+},
+{
+"start_ref": "32002002",
+"start_ref_usfm": "JON 2:2",
+"end_ref": "32002002",
+"end_ref_usfm": "JON 2:2"
+},
+{
+"start_ref": "32002011",
+"start_ref_usfm": "JON 2:11",
+"end_ref": "32002011",
+"end_ref_usfm": "JON 2:11"
+},
+{
+"start_ref": "35001014",
+"start_ref_usfm": "HAB 1:14",
+"end_ref": "35001014",
+"end_ref_usfm": "HAB 1:14"
+},
+{
+"start_ref": "36001003",
+"start_ref_usfm": "ZEP 1:3",
+"end_ref": "36001003",
+"end_ref_usfm": "ZEP 1:3"
+},
+{
+"start_ref": "36001010",
+"start_ref_usfm": "ZEP 1:10",
+"end_ref": "36001010",
+"end_ref_usfm": "ZEP 1:10"
+},
+{
+"start_ref": "59003007",
+"start_ref_usfm": "JAS 3:7",
+"end_ref": "59003007",
+"end_ref_usfm": "JAS 3:7"
+},
+{
+"start_ref": "71019010",
+"start_ref_usfm": "WIS 19:10",
+"end_ref": "71019010",
+"end_ref_usfm": "WIS 19:10"
+},
+{
+"start_ref": "40007010",
+"start_ref_usfm": "MAT 7:10",
+"end_ref": "40007010",
+"end_ref_usfm": "MAT 7:10"
+},
+{
+"start_ref": "40014017",
+"start_ref_usfm": "MAT 14:17",
+"end_ref": "40014017",
+"end_ref_usfm": "MAT 14:17"
+},
+{
+"start_ref": "40014019",
+"start_ref_usfm": "MAT 14:19",
+"end_ref": "40014019",
+"end_ref_usfm": "MAT 14:19"
+},
+{
+"start_ref": "40015036",
+"start_ref_usfm": "MAT 15:36",
+"end_ref": "40015036",
+"end_ref_usfm": "MAT 15:36"
+},
+{
+"start_ref": "40017027",
+"start_ref_usfm": "MAT 17:27",
+"end_ref": "40017027",
+"end_ref_usfm": "MAT 17:27"
+},
+{
+"start_ref": "41006038",
+"start_ref_usfm": "MRK 6:38",
+"end_ref": "41006038",
+"end_ref_usfm": "MRK 6:38"
+},
+{
+"start_ref": "41006041",
+"start_ref_usfm": "MRK 6:41",
+"end_ref": "41006041",
+"end_ref_usfm": "MRK 6:41"
+},
+{
+"start_ref": "41006043",
+"start_ref_usfm": "MRK 6:43",
+"end_ref": "41006043",
+"end_ref_usfm": "MRK 6:43"
+},
+{
+"start_ref": "42005006",
+"start_ref_usfm": "LUK 5:6",
+"end_ref": "42005006",
+"end_ref_usfm": "LUK 5:6"
+},
+{
+"start_ref": "42005009",
+"start_ref_usfm": "LUK 5:9",
+"end_ref": "42005009",
+"end_ref_usfm": "LUK 5:9"
+},
+{
+"start_ref": "42009013",
+"start_ref_usfm": "LUK 9:13",
+"end_ref": "42009013",
+"end_ref_usfm": "LUK 9:13"
+},
+{
+"start_ref": "42009016",
+"start_ref_usfm": "LUK 9:16",
+"end_ref": "42009016",
+"end_ref_usfm": "LUK 9:16"
+},
+{
+"start_ref": "42011011",
+"start_ref_usfm": "LUK 11:11",
+"end_ref": "42011011",
+"end_ref_usfm": "LUK 11:11"
+},
+{
+"start_ref": "42024042",
+"start_ref_usfm": "LUK 24:42",
+"end_ref": "42024042",
+"end_ref_usfm": "LUK 24:42"
+},
+{
+"start_ref": "43021006",
+"start_ref_usfm": "JHN 21:6",
+"end_ref": "43021006",
+"end_ref_usfm": "JHN 21:6"
+},
+{
+"start_ref": "43021008",
+"start_ref_usfm": "JHN 21:8",
+"end_ref": "43021008",
+"end_ref_usfm": "JHN 21:8"
+},
+{
+"start_ref": "43021011",
+"start_ref_usfm": "JHN 21:11",
+"end_ref": "43021011",
+"end_ref_usfm": "JHN 21:11"
+},
+{
+"start_ref": "46015039",
+"start_ref_usfm": "1CO 15:39",
+"end_ref": "46015039",
+"end_ref_usfm": "1CO 15:39"
+},
+{
+"start_ref": "40015034",
+"start_ref_usfm": "MAT 15:34",
+"end_ref": "40015034",
+"end_ref_usfm": "MAT 15:34"
+},
+{
+"start_ref": "41008007",
+"start_ref_usfm": "MRK 8:7",
+"end_ref": "41008007",
+"end_ref_usfm": "MRK 8:7"
+},
+{
+"start_ref": "40012040",
+"start_ref_usfm": "MAT 12:40",
+"end_ref": "40012040",
+"end_ref_usfm": "MAT 12:40"
+},
+{
+"start_ref": "71019019",
+"start_ref_usfm": "WIS 19:19",
+"end_ref": "71019019",
+"end_ref_usfm": "WIS 19:19"
+},
+{
+"start_ref": "43006009",
+"start_ref_usfm": "JHN 6:9",
+"end_ref": "43006009",
+"end_ref_usfm": "JHN 6:9"
+},
+{
+"start_ref": "43006011",
+"start_ref_usfm": "JHN 6:11",
+"end_ref": "43006011",
+"end_ref_usfm": "JHN 6:11"
+},
+{
+"start_ref": "43021009",
+"start_ref_usfm": "JHN 21:9",
+"end_ref": "43021009",
+"end_ref_usfm": "JHN 21:9"
+},
+{
+"start_ref": "43021010",
+"start_ref_usfm": "JHN 21:10",
+"end_ref": "43021010",
+"end_ref_usfm": "JHN 21:10"
+},
+{
+"start_ref": "43021013",
+"start_ref_usfm": "JHN 21:13",
+"end_ref": "43021013",
+"end_ref_usfm": "JHN 21:13"
+},
+{
+"start_ref": "43021005",
+"start_ref_usfm": "JHN 21:5",
+"end_ref": "43021005",
+"end_ref_usfm": "JHN 21:5"
+},
+{
+"start_ref": "83005007",
+"start_ref_usfm": "2ES 5:7",
+"end_ref": "83005007",
+"end_ref_usfm": "2ES 5:7"
+},
+{
+"start_ref": "83006047",
+"start_ref_usfm": "2ES 6:47",
+"end_ref": "83006047",
+"end_ref_usfm": "2ES 6:47"
+},
+{
+"start_ref": "83016012",
+"start_ref_usfm": "2ES 16:12",
+"end_ref": "83016012",
+"end_ref_usfm": "2ES 16:12"
+}
+],
+"resource": []
+}
+}
+]
