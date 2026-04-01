@@ -1,0 +1,288 @@
+[
+{
+"content_id": "FAUNA:2.12",
+"reference_id": "FAUNA:2.12",
+"version": "1.0.4",
+"title": "标题：狗（dog）",
+"media_type": "Text",
+"index_reference": "2.12",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:2.12\"><span class=\"thlex-key\">2.12</span> 标题：狗（dog）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כֶּלֶב</span> <span class=\"thlex-translit\">(音译：kelev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod11:7\">EXO 11:7</a>, <a href=\"https://ref.ly/Exod22:30\">EXO 22:30</a>, <a href=\"https://ref.ly/Deut23:19\">DEU 23:19</a>, <a href=\"https://ref.ly/Judg7:5\">JDG 7:5</a>, <a href=\"https://ref.ly/1Sam17:43\">1SA 17:43</a>, <a href=\"https://ref.ly/1Sam24:15\">1SA 24:15</a>, <a href=\"https://ref.ly/2Sam3:8\">2SA 3:8</a>, <a href=\"https://ref.ly/2Sam9:8\">2SA 9:8</a>, <a href=\"https://ref.ly/2Sam16:9\">2SA 16:9</a>, <a href=\"https://ref.ly/1Kgs14:11\">1KI 14:11</a>, <a href=\"https://ref.ly/1Kgs16:4\">1KI 16:4</a>, <a href=\"https://ref.ly/1Kgs21:19\">1KI 21:19</a>, <a href=\"https://ref.ly/1Kgs21:19\">1KI 21:19</a>, <a href=\"https://ref.ly/1Kgs21:23\">1KI 21:23</a>, <a href=\"https://ref.ly/1Kgs21:24\">1KI 21:24</a>, <a href=\"https://ref.ly/1Kgs22:38\">1KI 22:38</a>, <a href=\"https://ref.ly/2Kgs8:13\">2KI 8:13</a>, <a href=\"https://ref.ly/2Kgs9:10\">2KI 9:10</a>, <a href=\"https://ref.ly/2Kgs9:36\">2KI 9:36</a>, <a href=\"https://ref.ly/Job30:1\">JOB 30:1</a>, <a href=\"https://ref.ly/Ps22:17\">PSA 22:17</a>, <a href=\"https://ref.ly/Ps22:21\">PSA 22:21</a>, <a href=\"https://ref.ly/Ps59:7\">PSA 59:7</a>, <a href=\"https://ref.ly/Ps59:15\">PSA 59:15</a>, <a href=\"https://ref.ly/Ps68:24\">PSA 68:24</a>, <a href=\"https://ref.ly/Prov26:11\">PRO 26:11</a>, <a href=\"https://ref.ly/Prov26:17\">PRO 26:17</a>, <a href=\"https://ref.ly/Eccl9:4\">ECC 9:4</a>, <a href=\"https://ref.ly/Isa56:10\">ISA 56:10</a>, <a href=\"https://ref.ly/Isa56:11\">ISA 56:11</a>, <a href=\"https://ref.ly/Isa66:3\">ISA 66:3</a>, <a href=\"https://ref.ly/Jer15:3\">JER 15:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κύων</span> <span class=\"thlex-translit\">(音译：kuōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt7:6\">MAT 7:6</a>, <a href=\"https://ref.ly/Mark16:21\">LUK 16:21</a>, <a href=\"https://ref.ly/Eph3:2\">PHP 3:2</a>, <a href=\"https://ref.ly/1Pet2:22\">2PE 2:22</a>, <a href=\"https://ref.ly/Jude22:15\">REV 22:15</a>, <a href=\"https://ref.ly/Rev5:16\">TOB 5:16</a>, <a href=\"https://ref.ly/Rev11:4\">TOB 11:4</a>, <a href=\"https://ref.ly/Tob11:19\">JDT 11:19</a>, <a href=\"https://ref.ly/Wis13:18\">SIR 13:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κυνάριον</span> <span class=\"thlex-translit\">(音译：kunarion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt15:26\">MAT 15:26</a>, <a href=\"https://ref.ly/Matt15:27\">MAT 15:27</a>, <a href=\"https://ref.ly/Matt7:27\">MRK 7:27</a>, <a href=\"https://ref.ly/Matt7:28\">MRK 7:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论和描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0184_dogs.jpg\" alt=\"WEB-0184_dogs\"></figure>狗很早就被驯化，古时用于狩猎和看门。早在主前4,000年，埃及陶器上就描绘有皮毛光滑、速度飞快的猎犬，看起来很像现代的灰狗。从巴比伦雕塑得知，美索不达米亚人约在主前2,500年就饲养了大型猎犬，样子像是现代的斗牛獒。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0031_dog.jpg\" alt=\"PTZ-0031_dog\"></figure>犹太人虽然也养狗，主要用于看门，但却轻视它们，让它们在垃圾堆里自行觅食。因着狗这种食腐的习性，以及狗在当时还可能与一些埃及神明有联系，所以犹太人将狗视为非常不洁净的动物。在圣经时期，犹太人居住地所见的狗可能是流浪狗（学名<em>Canis familiaris putiatini</em> ），外表很像体型较小的浅棕色德国牧羊犬。野生和家养的流浪狗在中东地区随处可见，在南亚和东南亚的大陆沿海地区也被称为食蟹狗。这种狗也和澳洲野狗十分相似。</p>\n<p>依循希腊和罗马文化的外邦人会在家中饲养小型宠物狗，但犹太人不这样做。这种宠物狗可能就是<a href=\"https://ref.ly/Matt15:26\">MAT 15:26</a> 和<a href=\"https://ref.ly/Matt7:27\">MRK 7:27</a> 中提到的<em>kunarion</em> 。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义或象征意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>如上所述，狗被犹太人视为礼仪上不洁净的动物。因此，称某人为&quot;狗&quot;是非常贬义的说法，如果将某人称为&quot;死狗&quot;更是如此。以色列人认为，狗是仅次于猪的第二不洁净的动物。流浪狗游荡在村庄周围，吃的东西包括动物尸体和人的粪便，甚至还吃战死后没有及时掩埋的人的尸体。此外，狗还可能是古埃及死神阿努比斯（Anubis）的象征（尽管许多现代学者认为应该是豺狼）。</p>\n<p>综上不难理解，死后被狗吞吃被犹太人视为最糟糕的结局。</p>\n<p>在主后1世纪，犹太人认为外邦人是礼仪上不洁净的，因此贬称他们为&quot;狗&quot;。因此，<a href=\"https://ref.ly/Eph3:2\">PHP 3:2</a> 将犹太派基督徒比作狗，具有强烈的讽刺意味。</p>\n<p>在圣经中，狗还有一个隐含意思，与性变态和滥交有关，这可能是因为发情的公狗在寻求交配时并不总能区分公母，而且公狗和母狗会与不同的狗多次交配。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Exod11:7\">EXO 11:7</a> 中，有一句话的字面意思是&quot;没有一只狗会摇舌&quot;，意思是没有一只狗会吠叫或咆哮，并且翻译者也应该这样翻译。</p>\n<p><a href=\"https://ref.ly/Deut23:18\">DEU 23:18</a> 把那些在迦南神庙里面卖淫的男妓称为&quot;狗&quot;，并且<a href=\"https://ref.ly/Jude22:15\">REV 22:15</a> 中的&quot;犬类&quot;似乎是指性变态或乱交的人。这两节经文如果按照字面翻译就会丧失这个象征意义，因此最好在前一节经文中译成&quot;男庙妓&quot;，在后一节经文中使用&quot;肆意苟合的人&quot;等表述。</p>\n<p>关于<a href=\"https://ref.ly/2Sam3:8\">2SA 3:8</a> 中&quot;犹大的狗头&quot;一语，有解经家认为指的是事奉古埃及死神阿努比斯的祭司所戴的神圣狗头面具，因此这里是指&quot;披着伪装的犹大人&quot;，即&quot;犹大间谍&quot;。还有解经家认为这个表述是指滥交（从狗的习性而来的象征意义），因此经文是指&quot;犹大的性欲旺盛之人&quot;。在这节经文的语境中，两种解释都有可能，也许两种言外之意都有，这样该短语的意思就是&quot;性欲旺盛的犹大间谍&quot;。</p>\n<p><a href=\"https://ref.ly/Job30:1\">JOB 30:1</a> ：&quot;看守我羊群的狗&quot;指的是帮助牧人看守羊群的看门狗。</p>\n<p><a href=\"https://ref.ly/Isa66:3\">ISA 66:3</a> ：&quot;献羊羔，好像打折狗项&quot;这个分句应该理解为，第4节提到有些百姓不顺服上帝，因此他们即使献上羔羊等蒙上帝悦纳的祭物，也与献上最不被上帝悦纳、最不洁净的祭物一样。&quot;打折狗项&quot;是上帝不悦纳的祭物这点可以从两个方面来理解：首先，狗是一种不洁净的动物，其次以打断脖子的方式杀狗是错误的，因为血会留在狗的身体里面，按照犹太律法这是不洁净的。</p>\n<p>在<a href=\"https://ref.ly/Eph3:2\">PHP 3:2</a> 中，如果把过度重视礼仪上的洁净和割礼的基督徒译作&quot;狗&quot;，几乎不可能让读者领略到这个比喻的讽刺意味。如果目标语言的文化并不把狗视为特别不干净的动物，那么翻译时应该使用&quot;脏狗&quot;等表述。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02011007",
+"start_ref_usfm": "EXO 11:7",
+"end_ref": "02011007",
+"end_ref_usfm": "EXO 11:7"
+},
+{
+"start_ref": "02022030",
+"start_ref_usfm": "EXO 22:30",
+"end_ref": "02022030",
+"end_ref_usfm": "EXO 22:30"
+},
+{
+"start_ref": "05023019",
+"start_ref_usfm": "DEU 23:19",
+"end_ref": "05023019",
+"end_ref_usfm": "DEU 23:19"
+},
+{
+"start_ref": "07007005",
+"start_ref_usfm": "JDG 7:5",
+"end_ref": "07007005",
+"end_ref_usfm": "JDG 7:5"
+},
+{
+"start_ref": "09017043",
+"start_ref_usfm": "1SA 17:43",
+"end_ref": "09017043",
+"end_ref_usfm": "1SA 17:43"
+},
+{
+"start_ref": "09024015",
+"start_ref_usfm": "1SA 24:15",
+"end_ref": "09024015",
+"end_ref_usfm": "1SA 24:15"
+},
+{
+"start_ref": "10003008",
+"start_ref_usfm": "2SA 3:8",
+"end_ref": "10003008",
+"end_ref_usfm": "2SA 3:8"
+},
+{
+"start_ref": "10009008",
+"start_ref_usfm": "2SA 9:8",
+"end_ref": "10009008",
+"end_ref_usfm": "2SA 9:8"
+},
+{
+"start_ref": "10016009",
+"start_ref_usfm": "2SA 16:9",
+"end_ref": "10016009",
+"end_ref_usfm": "2SA 16:9"
+},
+{
+"start_ref": "11014011",
+"start_ref_usfm": "1KI 14:11",
+"end_ref": "11014011",
+"end_ref_usfm": "1KI 14:11"
+},
+{
+"start_ref": "11016004",
+"start_ref_usfm": "1KI 16:4",
+"end_ref": "11016004",
+"end_ref_usfm": "1KI 16:4"
+},
+{
+"start_ref": "11021019",
+"start_ref_usfm": "1KI 21:19",
+"end_ref": "11021019",
+"end_ref_usfm": "1KI 21:19"
+},
+{
+"start_ref": "11021023",
+"start_ref_usfm": "1KI 21:23",
+"end_ref": "11021023",
+"end_ref_usfm": "1KI 21:23"
+},
+{
+"start_ref": "11021024",
+"start_ref_usfm": "1KI 21:24",
+"end_ref": "11021024",
+"end_ref_usfm": "1KI 21:24"
+},
+{
+"start_ref": "11022038",
+"start_ref_usfm": "1KI 22:38",
+"end_ref": "11022038",
+"end_ref_usfm": "1KI 22:38"
+},
+{
+"start_ref": "12008013",
+"start_ref_usfm": "2KI 8:13",
+"end_ref": "12008013",
+"end_ref_usfm": "2KI 8:13"
+},
+{
+"start_ref": "12009010",
+"start_ref_usfm": "2KI 9:10",
+"end_ref": "12009010",
+"end_ref_usfm": "2KI 9:10"
+},
+{
+"start_ref": "12009036",
+"start_ref_usfm": "2KI 9:36",
+"end_ref": "12009036",
+"end_ref_usfm": "2KI 9:36"
+},
+{
+"start_ref": "18030001",
+"start_ref_usfm": "JOB 30:1",
+"end_ref": "18030001",
+"end_ref_usfm": "JOB 30:1"
+},
+{
+"start_ref": "19022017",
+"start_ref_usfm": "PSA 22:17",
+"end_ref": "19022017",
+"end_ref_usfm": "PSA 22:17"
+},
+{
+"start_ref": "19022021",
+"start_ref_usfm": "PSA 22:21",
+"end_ref": "19022021",
+"end_ref_usfm": "PSA 22:21"
+},
+{
+"start_ref": "19059007",
+"start_ref_usfm": "PSA 59:7",
+"end_ref": "19059007",
+"end_ref_usfm": "PSA 59:7"
+},
+{
+"start_ref": "19059015",
+"start_ref_usfm": "PSA 59:15",
+"end_ref": "19059015",
+"end_ref_usfm": "PSA 59:15"
+},
+{
+"start_ref": "19068024",
+"start_ref_usfm": "PSA 68:24",
+"end_ref": "19068024",
+"end_ref_usfm": "PSA 68:24"
+},
+{
+"start_ref": "20026011",
+"start_ref_usfm": "PRO 26:11",
+"end_ref": "20026011",
+"end_ref_usfm": "PRO 26:11"
+},
+{
+"start_ref": "20026017",
+"start_ref_usfm": "PRO 26:17",
+"end_ref": "20026017",
+"end_ref_usfm": "PRO 26:17"
+},
+{
+"start_ref": "21009004",
+"start_ref_usfm": "ECC 9:4",
+"end_ref": "21009004",
+"end_ref_usfm": "ECC 9:4"
+},
+{
+"start_ref": "23056010",
+"start_ref_usfm": "ISA 56:10",
+"end_ref": "23056010",
+"end_ref_usfm": "ISA 56:10"
+},
+{
+"start_ref": "23056011",
+"start_ref_usfm": "ISA 56:11",
+"end_ref": "23056011",
+"end_ref_usfm": "ISA 56:11"
+},
+{
+"start_ref": "23066003",
+"start_ref_usfm": "ISA 66:3",
+"end_ref": "23066003",
+"end_ref_usfm": "ISA 66:3"
+},
+{
+"start_ref": "24015003",
+"start_ref_usfm": "JER 15:3",
+"end_ref": "24015003",
+"end_ref_usfm": "JER 15:3"
+},
+{
+"start_ref": "40007006",
+"start_ref_usfm": "MAT 7:6",
+"end_ref": "40007006",
+"end_ref_usfm": "MAT 7:6"
+},
+{
+"start_ref": "42016021",
+"start_ref_usfm": "LUK 16:21",
+"end_ref": "42016021",
+"end_ref_usfm": "LUK 16:21"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003002",
+"end_ref_usfm": "PHP 3:2"
+},
+{
+"start_ref": "61002022",
+"start_ref_usfm": "2PE 2:22",
+"end_ref": "61002022",
+"end_ref_usfm": "2PE 2:22"
+},
+{
+"start_ref": "66022015",
+"start_ref_usfm": "REV 22:15",
+"end_ref": "66022015",
+"end_ref_usfm": "REV 22:15"
+},
+{
+"start_ref": "68005016",
+"start_ref_usfm": "TOB 5:16",
+"end_ref": "68005016",
+"end_ref_usfm": "TOB 5:16"
+},
+{
+"start_ref": "68011004",
+"start_ref_usfm": "TOB 11:4",
+"end_ref": "68011004",
+"end_ref_usfm": "TOB 11:4"
+},
+{
+"start_ref": "69011019",
+"start_ref_usfm": "JDT 11:19",
+"end_ref": "69011019",
+"end_ref_usfm": "JDT 11:19"
+},
+{
+"start_ref": "72013018",
+"start_ref_usfm": "SIR 13:18",
+"end_ref": "72013018",
+"end_ref_usfm": "SIR 13:18"
+},
+{
+"start_ref": "40015026",
+"start_ref_usfm": "MAT 15:26",
+"end_ref": "40015026",
+"end_ref_usfm": "MAT 15:26"
+},
+{
+"start_ref": "40015027",
+"start_ref_usfm": "MAT 15:27",
+"end_ref": "40015027",
+"end_ref_usfm": "MAT 15:27"
+},
+{
+"start_ref": "41007027",
+"start_ref_usfm": "MRK 7:27",
+"end_ref": "41007027",
+"end_ref_usfm": "MRK 7:27"
+},
+{
+"start_ref": "41007028",
+"start_ref_usfm": "MRK 7:28",
+"end_ref": "41007028",
+"end_ref_usfm": "MRK 7:28"
+},
+{
+"start_ref": "05023018",
+"start_ref_usfm": "DEU 23:18",
+"end_ref": "05023018",
+"end_ref_usfm": "DEU 23:18"
+}
+],
+"resource": []
+}
+}
+]

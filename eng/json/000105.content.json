@@ -1,0 +1,96 @@
+[
+{
+"content_id": "FAUNA:6.10",
+"reference_id": "FAUNA:6.10",
+"version": "1.0.4",
+"title": "Moth",
+"media_type": "Text",
+"index_reference": "6.10",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:6.10\"><span class=\"thlex-key\">6.10</span> Moth</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עָשׁ</span> <span class=\"thlex-translit\">(‘ash)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job4:19\">JOB 4:19</a>, <a href=\"https://ref.ly/Job9:9\">JOB 9:9</a>, <a href=\"https://ref.ly/Job13:28\">JOB 13:28</a>, <a href=\"https://ref.ly/Job27:18\">JOB 27:18</a>, <a href=\"https://ref.ly/Ps39:12\">PSA 39:12</a>, <a href=\"https://ref.ly/Isa50:9\">ISA 50:9</a>, <a href=\"https://ref.ly/Isa51:8\">ISA 51:8</a>, <a href=\"https://ref.ly/Hos5:12\">HOS 5:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">סָס</span> <span class=\"thlex-translit\">(sas)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa51:8\">ISA 51:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σής</span> <span class=\"thlex-translit\">(sēs)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt6:19\">MAT 6:19</a>, <a href=\"https://ref.ly/Matt6:20\">MAT 6:20</a>, <a href=\"https://ref.ly/Mark12:33\">LUK 12:33</a>, <a href=\"https://ref.ly/Wis42:13\">SIR 42:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0646_moth_larva.jpg\" alt=\"WEB-0646_moth_larva\"></figure>There is general consensus that <em>‘ash</em> refers to a moth, and <em>sas</em> to its larva stage in the Hebrew Bible, and that <em>sēs</em> in the New Testament also refers to a moth. The moth referred to is always in contexts of destroyed or damaged clothing, so the reference is obviously to a moth that lays its eggs on human clothing. This limits the type of moth to one of the clothes moths of the <em>Tineidae</em> family, probably <em>Tineola biselliella</em>. Although the damage is blamed on the moth in the Bible, it is actually its larvae that cause the damage. It is possible that both moth and larva are meant when <em>‘ash</em> is used.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0644_moth.jpg\" alt=\"WEB-0644_moth\"></figure>Clothes moths are smallish brown or gray moths that lay eggs in clothing or other forms of cloth. The eggs hatch into very small caterpillars, which almost immediately begin to feed on the fibers. They make small silken cocoons from which only the heads protrude, and later finally emerge as moths.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Moths are symbols of decay, ruin, and slow destruction.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Job4:19\">JOB 4:19</a>: Most versions follow the Hebrew in the last part of this verse, which means “they are as easily crushed as a moth is.&quot;</p>\n<p><a href=\"https://ref.ly/Job27:18\">JOB 27:18</a>: In the first half of this verse most translations follow the Septuagint and the Syriac versions, which read “he builds his house like a spider’s web,” rather than the Hebrew “he builds his house like a moth.” However, if the moth pupa was also called <em>‘ash</em>, then the Hebrew text can be taken to mean “he builds his house like a moth’s cocoon,” which is basically the same poetic image as the Greek and Syriac versions.</p>\n<p><a href=\"https://ref.ly/Heb5:2\">JAS 5:2</a>: A verb is used in this verse which means “eaten by moths” and which contains a derivative of the noun <em>sēs</em>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18004019",
+"start_ref_usfm": "JOB 4:19",
+"end_ref": "18004019",
+"end_ref_usfm": "JOB 4:19"
+},
+{
+"start_ref": "18009009",
+"start_ref_usfm": "JOB 9:9",
+"end_ref": "18009009",
+"end_ref_usfm": "JOB 9:9"
+},
+{
+"start_ref": "18013028",
+"start_ref_usfm": "JOB 13:28",
+"end_ref": "18013028",
+"end_ref_usfm": "JOB 13:28"
+},
+{
+"start_ref": "18027018",
+"start_ref_usfm": "JOB 27:18",
+"end_ref": "18027018",
+"end_ref_usfm": "JOB 27:18"
+},
+{
+"start_ref": "19039012",
+"start_ref_usfm": "PSA 39:12",
+"end_ref": "19039012",
+"end_ref_usfm": "PSA 39:12"
+},
+{
+"start_ref": "23050009",
+"start_ref_usfm": "ISA 50:9",
+"end_ref": "23050009",
+"end_ref_usfm": "ISA 50:9"
+},
+{
+"start_ref": "23051008",
+"start_ref_usfm": "ISA 51:8",
+"end_ref": "23051008",
+"end_ref_usfm": "ISA 51:8"
+},
+{
+"start_ref": "28005012",
+"start_ref_usfm": "HOS 5:12",
+"end_ref": "28005012",
+"end_ref_usfm": "HOS 5:12"
+},
+{
+"start_ref": "40006019",
+"start_ref_usfm": "MAT 6:19",
+"end_ref": "40006019",
+"end_ref_usfm": "MAT 6:19"
+},
+{
+"start_ref": "40006020",
+"start_ref_usfm": "MAT 6:20",
+"end_ref": "40006020",
+"end_ref_usfm": "MAT 6:20"
+},
+{
+"start_ref": "42012033",
+"start_ref_usfm": "LUK 12:33",
+"end_ref": "42012033",
+"end_ref_usfm": "LUK 12:33"
+},
+{
+"start_ref": "72042013",
+"start_ref_usfm": "SIR 42:13",
+"end_ref": "72042013",
+"end_ref_usfm": "SIR 42:13"
+},
+{
+"start_ref": "59005002",
+"start_ref_usfm": "JAS 5:2",
+"end_ref": "59005002",
+"end_ref_usfm": "JAS 5:2"
+}
+],
+"resource": []
+}
+}
+]

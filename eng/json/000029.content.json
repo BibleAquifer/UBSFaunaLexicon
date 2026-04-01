@@ -1,0 +1,84 @@
+[
+{
+"content_id": "FAUNA:2.19",
+"reference_id": "FAUNA:2.19",
+"version": "1.0.4",
+"title": "Hyena",
+"media_type": "Text",
+"index_reference": "2.19",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:2.19\"><span class=\"thlex-key\">2.19</span> Hyena</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צָבוּעַ</span> <span class=\"thlex-translit\">(tsavu‘a)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:18\">1SA 13:18</a>, <a href=\"https://ref.ly/Jer12:9\">JER 12:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צִי</span> <span class=\"thlex-translit\">(tsiyim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps72:9\">PSA 72:9</a>, <a href=\"https://ref.ly/Ps74:14\">PSA 74:14</a>, <a href=\"https://ref.ly/Isa13:21\">ISA 13:21</a>, <a href=\"https://ref.ly/Isa23:13\">ISA 23:13</a>, <a href=\"https://ref.ly/Isa34:14\">ISA 34:14</a>, <a href=\"https://ref.ly/Jer50:39\">JER 50:39</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὕαινα</span> <span class=\"thlex-translit\">(huaina)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis13:18\">SIR 13:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0309_striped_hyena.jpg\" alt=\"WEB-0309_striped_hyena\"></figure>The word <em>tsavu‘a</em> occurs only twice in the Bible one of them being in the phrase <em>‘ayit tsavu‘a</em> (<a href=\"https://ref.ly/Jer12:9\">JER 12:9</a>). The word <em>‘ayit</em> is usually taken to mean a screamer and in <a href=\"https://ref.ly/Gen15:11\">GEN 15:11</a> it is obviously a bird hence the interpretation “bird of prey” (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.8\" href=\"#FAUNA:3.8\">3.8 Eagle vulture</a>). <em>tsavu‘a</em> is taken to mean “speckled blotched&quot;. Thus the “speckled screamer” is taken by some scholars to mean “speckled bird of prey” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr><abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) and by others to mean “hyena” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr><abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>). However, there are also scholars who relate <em>‘ayit</em> to a different Hebrew root that means “to attack greedily” and take <em>‘ayit</em> to mean “prey” or even “carrion&quot;. These latter scholars interpret <em>‘ayit tsavu‘a</em> to mean “prey for hyenas” or “carrion for hyenas” (compare <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>, New Revised Standard Version). It is recommended that this exegesis be followed. Another possible rendering of the phrase could even be a place of scavenging hyenas.</p>\n<p>There is considerable doubt about the meaning of the Hebrew word <em>tsiyim</em> and different translations have marmots, wild animals, wild cats, desert animals and even sharks and dolphins. It is clear that the word refers to a specific dangerous wild animal (possibly which lives in the desert) often associated with destruction and with jackals. Although not mentioned at all in the English versions there are many scholars zoologists among them who interpret this word as referring to the hyena.</p>\n<p>The uncertainty surrounding the word relates to the fact that nobody is sure what other Hebrew words <em>tsiyim</em> is related to. Some relate it to a word for “desert&quot;, thus “desert creature&quot;. This interpretation does not exclude the hyena and in fact since the references seem to be to a specific animal rather than to desert animals in general the contexts would all fit “hyena” well. The trend among scholars today is to associate it with a word that disappeared early from Hebrew meaning “to wail or yelp&quot;. The fairly obvious conclusion from this would be that the word means “the wailer&quot;, that is the hyena.</p>\n<p>The translations “shark&quot;, “dolphin” and “marmot” can be dismissed as very doubtful, especially “marmot&quot;, which is an animal that lives in high mountain environments and has never lived in the land of Israel.</p>\n<p>The Striped Hyena <em>Hyaena hyaena</em> has been a very well-known and common animal in the Middle East since time immemorial. One would expect to find references to it in the Bible.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Hyenas emerge at night from holes and hollows under logs. They are best known as scavengers. They eat carcasses and bones of all kinds and forage in refuse dumps around cities, towns, and villages. However, they also hunt and are opportunistic, killing young goats, sheep, and baby gazelles. They often occupy abandoned houses or tombs.</p>\n<p>Their weird calls at night vary from loud whoops and howls when they mark territory and contact family members to moans when they chase away rival scavengers and to yelps and wails when they are frightened away by humans or other predators.</p>\n<p>The striped hyena is also found in northeast Africa the Arabian Peninsula and India. Like all hyena species it looks like a big dog with a large head. Its front legs are longer than its back legs and it has a stiff upright mane that stretches from between its ears all the way down its back to the end of its tail. It is a brownish gray color with dark indistinct stripes that become spots and blotches on its neck.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Since we cannot be one hundred percent sure that <em>tsiyim</em> refers to hyenas neither can we be sure of the connotations of the word. However from what is known about hyenas and their significance to other Semitic peoples we can draw some conclusions. As scavengers that eat carcasses hyenas thrive in times of famine or war. They are thus associated with both types of catastrophe. Their weird noises at night are often associated with demons and stories abound of ghosts that return in the form of hyenas. And finally probably because they are known to eat human corpses that have not been properly buried most people view them with repugnance. Anywhere in the Middle East to call someone a hyena is a terrible insult.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>A different, but very similar species of hyena, the Spotted Hyena <em>Crocuta crocuta</em>, is found throughout eastern, central, and southern Africa. Another species, the Brown Hyena <em>Hyaena brunnea</em>, is found in southwestern Africa. In these areas, therefore, a word for hyena will be easy to find. In most Bantu languages in these areas, the word for hyena is related either to <em>fisi</em> (<em>fitsi, pisi</em>, and other forms) or to <em>bere</em> (<em>mbere, mvere</em>, and other forms).</p>\n<p>In areas where some kind of wild scavenging dog or wolf is known, the name for this animal can be used. Elsewhere one may use a phrase like “wild dog” or a transliteration and give a fuller description in the glossary or word list.</p>\n<p>The place called “Valley of <em>Tsevo‘im</em> in <a href=\"https://ref.ly/1Sam13:18\">1SA 13:18</a> means “The Valley of Hyenas&quot;, and can either be translated as such, or the name can be transliterated from Hebrew.</p>\n<p><a href=\"https://ref.ly/Ps72:9\">PSA 72:9</a>: In this difficult verse the word <em>tsiyim</em> is used as a parallel to a word meaning “enemies&quot;. Thus, if “hyenas” was intended, it was as a metaphor for “enemies&quot;. The verse would then mean something like “His enemies [those hyenas] will bow before him; his foes will lick the dust.” Others, however, taking <em>tsiyim</em> to mean “desert creatures&quot;, understand this to be a metaphorical reference to desert tribes and interpret the text to mean “Desert tribes will bow before him; his enemies will lick the dust.” It is entirely possible that a word play was intended and that both meanings are included: “Desert tribes [those hyenas] will bow before him. … &quot;</p>\n<p><a href=\"https://ref.ly/Ps74:14\">PSA 74:14</a>: A literal translation of the Hebrew would be:</p>\n<p>You crushed the heads of Leviathan,</p>\n<p>And gave him as food to people, to <em>tsiyim</em>.</p>\n<p>Most English translations render this as:</p>\n<p>You crushed the heads of Leviathan,</p>\n<p>And gave his carcass to desert creatures to eat.</p>\n<p>However, very old Jewish traditions, which have this verse as their basis, tell how God will kill the monster Leviathan and then hold a feast for his people, with Abraham as the host. There will be so much meat from this huge animal that even after all the people are fed, they will have to throw away vast amounts of meat, which the hyenas will eat. This would indicate that from ancient times there have been people who have interpreted the repetition of the Hebrew prepositional phrase (see literal translation above) to mean “to [his] people and to hyenas.&quot;</p>\n<p><a href=\"https://ref.ly/Isa13:21\">ISA 13:21</a>; <a href=\"https://ref.ly/Isa13:22\">ISA 13:22</a>: In these verses there are four words for howling wild animals that inhabit deserted buildings: <em>tsiyim, ’ochim, ’iyim, tanim</em>. All except <em>tsiyim</em> probably mean “jackals&quot;; however, to maintain the parallelism of the Hebrew poem, it is better to translate both <em>tsiyim</em> and <em>’iyim</em> as “hyenas&quot;:</p>\n<p>Wailing hyenas will settle there;</p>\n<p>Howling jackals will fill their houses … </p>\n<p>. … . … . … . … .</p>\n<p>Hyenas will wail in their fortresses,</p>\n<p>And jackals howl in their luxurious palaces.</p>\n<p><a href=\"https://ref.ly/Isa34:14\">ISA 34:14</a>: This verse probably should be interpreted as “Hyenas will meet with jackals. … &quot;</p>\n<p><a href=\"https://ref.ly/Jer50:39\">JER 50:39</a>: This probably should be interpreted as “Hyenas and jackals will live there. … &quot;</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013018",
+"start_ref_usfm": "1SA 13:18",
+"end_ref": "09013018",
+"end_ref_usfm": "1SA 13:18"
+},
+{
+"start_ref": "24012009",
+"start_ref_usfm": "JER 12:9",
+"end_ref": "24012009",
+"end_ref_usfm": "JER 12:9"
+},
+{
+"start_ref": "19072009",
+"start_ref_usfm": "PSA 72:9",
+"end_ref": "19072009",
+"end_ref_usfm": "PSA 72:9"
+},
+{
+"start_ref": "19074014",
+"start_ref_usfm": "PSA 74:14",
+"end_ref": "19074014",
+"end_ref_usfm": "PSA 74:14"
+},
+{
+"start_ref": "23013021",
+"start_ref_usfm": "ISA 13:21",
+"end_ref": "23013021",
+"end_ref_usfm": "ISA 13:21"
+},
+{
+"start_ref": "23023013",
+"start_ref_usfm": "ISA 23:13",
+"end_ref": "23023013",
+"end_ref_usfm": "ISA 23:13"
+},
+{
+"start_ref": "23034014",
+"start_ref_usfm": "ISA 34:14",
+"end_ref": "23034014",
+"end_ref_usfm": "ISA 34:14"
+},
+{
+"start_ref": "24050039",
+"start_ref_usfm": "JER 50:39",
+"end_ref": "24050039",
+"end_ref_usfm": "JER 50:39"
+},
+{
+"start_ref": "72013018",
+"start_ref_usfm": "SIR 13:18",
+"end_ref": "72013018",
+"end_ref_usfm": "SIR 13:18"
+},
+{
+"start_ref": "01015011",
+"start_ref_usfm": "GEN 15:11",
+"end_ref": "01015011",
+"end_ref_usfm": "GEN 15:11"
+},
+{
+"start_ref": "23013022",
+"start_ref_usfm": "ISA 13:22",
+"end_ref": "23013022",
+"end_ref_usfm": "ISA 13:22"
+}
+],
+"resource": []
+}
+}
+]

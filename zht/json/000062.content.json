@@ -1,0 +1,42 @@
+[
+{
+"content_id": "FAUNA:3.15",
+"reference_id": "FAUNA:3.15",
+"version": "1.0.4",
+"title": "標題：魚鷹（osprey）",
+"media_type": "Text",
+"index_reference": "3.15",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:3.15\"><span class=\"thlex-key\">3.15</span> 標題：魚鷹（osprey）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：עָזְנִיָּה</span> <span class=\"thlex-translit\">(音譯：‘ozniyah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:13\">LEV 11:13</a>, <a href=\"https://ref.ly/Deut14:12\">DEU 14:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：שָׁלָךְ</span> <span class=\"thlex-translit\">(音譯：shalak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:17\">LEV 11:17</a>, <a href=\"https://ref.ly/Deut14:17\">DEU 14:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0690_osprey.jpg\" alt=\"WEB-0690_osprey\"></figure>希伯來文<em>‘ozniyah</em> 一詞的含義也有很大的疑問，並且基本上是根據這種鳥在不潔淨鳥類清單中的位置來確定的；根據位置，該詞比較可能指一種兀鷲而非魚鷹。由於黑兀鷲（學名<em>Aegypius monachus</em> ）的體型略小於肉垂禿鷲，但略大於鬍兀鷲，所以這種鳥似乎是最有可能的選擇。這個詞也很可能指一類與黑兀鷲大小相同的雕和鵟鷹。在現代希伯來文中，<em>‘ozniyah</em> 是肉垂禿鷲和黑鷂鷹的名稱。參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.8\" href=\"#FAUNA:3.8\">3.8 雕、兀鷲 (eagle, vulture)</a> 中的初步討論。</p>\n<p>雖然<em>shalak</em> 譯為「鸕鶿」的傳統可追溯到17世紀，但是這種譯法一直都有相當大的疑問。一方面，<em>shalak</em> 這個詞的詞根意思是「投擲」，表明這個名稱所指的鳥是把自己「投擲」到獵物上，這不是鸕鶿的習性。鸕鶿是在水中游泳，並潛入水下捕獲獵物。</p>\n<p>這使得已故的德賴弗（G. R. Driver）建議將這個詞譯為「漁鴞」（&quot;fisher owl&quot;），<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 和<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 就採用了這種譯法。但是，這個建議也有問題，因為漁鴞，或者更確切地說，褐漁鴞（學名<em>Scotopelia ceylonensis</em> ），不太可能是一種眾所周知的鳥類，牠的捕魚習慣只能在有月光的夜晚被漁民看到，而且這種情況很少見。</p>\n<p>在現代希伯來文中，<em>shalak</em> 是魚鷹或鶚（學名<em>Pandion haliaetus</em> ）的名稱，這是一種從高處衝入水中並用爪捕魚的捕魚鷹。有些以色列學者提出，這個詞也可能是白胸翡翠（學名<em>Halcyon smyrnensis</em> ）或鰹鳥（學名<em>Sula bassana</em> ）在古時候的名稱，這兩種鳥都是從高處衝向獵物，在水下將獵物叼在喙裡。</p>\n<p>對這種鳥的辨識存在很多疑問，並且將其譯為「魚鷹」似乎與譯成「鸕鶿」有同樣多的理由，甚至更合理。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.4\" href=\"#FAUNA:3.4\">3.4 鸕鶿 (cormorant)</a> 。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>魚鷹（學名<em>Pandion haliaetus</em> ）是一種以魚為食的像鷹的鳥；頭部、胸部和腹部為白色，背部和翅膀為深棕色；從喙的邊緣經過眼睛到頸後有一條深色條紋，胸部有一條淺淡的條紋。在飛行時，魚鷹看起來基本是白色，翼尖為深棕色。在飛羽和尾巴上可以看到淺淡的褐色條紋。</p>\n<p>魚鷹生活在海岸、湖泊和大河附近；大部分時間棲息在水邊的樁子、原木或岩石上，並週期性地緩慢低飛過水面覓食。看到魚後，魚鷹會短暫盤旋，然後以翅膀幾乎豎直的角度直衝而下。魚鷹經常潛入水下，然後浮出水面，拍動翅膀，用爪子抓著魚飛騰而去。在非洲，魚鷹的獵物經常會被體型更大、飛行速度更快的非洲海雕在半空中奪去。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>這種鳥被列為禮儀上不潔淨的鳥類。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>魚鷹幾乎遍佈世界各地，但在非洲部分地區並不常見，因為那裡有更加著名的非洲海雕（學名<em>Haliaetus vocifer</em> ），長著白色的頭和尾，並且叫聲非常響亮。在非洲的這些地區，可以使用這種更為人所知的鳥類名稱來翻譯。在沒有魚鷹的語言中，通常可以使用「捕魚的鷹」或「捕魚的雕」這樣的短語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011013",
+"start_ref_usfm": "LEV 11:13",
+"end_ref": "03011013",
+"end_ref_usfm": "LEV 11:13"
+},
+{
+"start_ref": "05014012",
+"start_ref_usfm": "DEU 14:12",
+"end_ref": "05014012",
+"end_ref_usfm": "DEU 14:12"
+},
+{
+"start_ref": "03011017",
+"start_ref_usfm": "LEV 11:17",
+"end_ref": "03011017",
+"end_ref_usfm": "LEV 11:17"
+},
+{
+"start_ref": "05014017",
+"start_ref_usfm": "DEU 14:17",
+"end_ref": "05014017",
+"end_ref_usfm": "DEU 14:17"
+}
+],
+"resource": []
+}
+}
+]
