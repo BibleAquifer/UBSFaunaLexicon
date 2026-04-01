@@ -1,0 +1,938 @@
+[
+{
+"content_id": "FAUNA:4",
+"reference_id": "FAUNA:4",
+"version": "1.0.4",
+"title": "標題：蛇和蜥蜴",
+"media_type": "Text",
+"index_reference": "4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4\"><span class=\"thlex-key\">4</span> 標題：蛇和蜥蜴</h1><nav class=\"thlex-index\"><ul>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.1\" href=\"#FAUNA:4.1\">4.1 蛇和蜥蜴介紹</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.2\" href=\"#FAUNA:4.2\">4.2 爬行動物（reptiles [crawling and creeping things]）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.3\" href=\"#FAUNA:4.3\">4.3 變色龍（chameleon）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.4\" href=\"#FAUNA:4.4\">4.4 眼鏡蛇（cobra）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.5\" href=\"#FAUNA:4.5\">4.5 壁虎（gecko）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.6\" href=\"#FAUNA:4.6\">4.6 蜥蜴（lizard）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.7\" href=\"#FAUNA:4.7\">4.7 巨蜥（monitor）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.8\" href=\"#FAUNA:4.8\">4.8 蛇醫、石龍子（skink）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.9\" href=\"#FAUNA:4.9\">4.9 蛇（snake）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.10\" href=\"#FAUNA:4.10\">4.10 蝰蛇（viper）</a></li>\n</ul></nav>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.1",
+"reference_id": "FAUNA:4.1",
+"version": "1.0.4",
+"title": "標題：蛇和蜥蜴介紹",
+"media_type": "Text",
+"index_reference": "4.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.1\"><span class=\"thlex-key\">4.1</span> 標題：蛇和蜥蜴介紹</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p><strong>一、蛇</strong></p>\n<p>在中東和相鄰的非洲地區，已發現的蛇類至少有40種。有些蛇很小，體長只有15厘米（6英吋），還有一些則可能達到2米（6英呎）。這些蛇的棲息地各種各樣，從沙漠、多石的河道、茂密的灌木叢，一直到河岸都有，並且不同種類的蛇都有各自偏愛的環境。除了響尾蛇科以外，這個地區的蛇包含了所有主要蛇科的代表蛇種。</p>\n<p>中東的很多蛇類都是無毒的，但聖經作者和許多其他民族一樣，都有一種傳統的信念，即蛇都是有毒的。事實上，這個地區的毒蛇比例確實比其他大部分地區都高。猶太人和早期的基督徒都非常怕蛇。因此，聖經中沒有提到過無害的蛇。</p>\n<p>聖經作者不太可能區分蛇的諸多種類，他們大概只是區別了幾種最常見的蛇。當然，他們也使用包含了所有蛇類的通稱。</p>\n<p>有些學者認為，古時的聖經作者相信蛇在咬人的同時也會把舌頭刺入，並且是舌頭的刺入使人中毒。然而也有學者認為，蛇毒固然與舌頭有關聯，但實際上動詞「刺」只是希伯來文對於蛇咬的特殊表達方式。這種觀點有下述證據作為支持：許多語言描述蛇咬的詞語和一般的「咬」是不同的。這些語言使用的詞語有「啄」、「戳」、「燒」、「刺」，等等。</p>\n<p>事實上，大部分讀者都知道，蛇的毒液並非出自舌頭，而是分泌自口和眼睛之間的腺體。毒液經導管注入毒牙；有些蛇的毒牙是中空的，有些則有很深的溝槽。當蛇咬住獵物時，肌肉會把毒腺中的毒液擠入毒牙，繼而注入受害者體內。</p>\n<p>所有蛇類都是肉食動物。除了一些體型較小的蛇以昆蟲和蠕蟲為食之外，其他蛇類會吃青蛙、老鼠、鳥和鳥蛋、蜥蜴，以及別的蛇。這些食物都是被囫圇吞下的，無一例外。蛇的下頜骨可以移位，因此嘴巴可以張得很大，頸部的肌肉和皮膚也有很大的彈性使獵物通過。但是，蛇很少進食，一些體型較大的蛇可以連著幾個月不進食。即使是那些進食比較頻繁的蛇，也只是三四天進食一次。</p>\n<p>所有的蛇都產卵，但蝰蛇的卵會先留在雌蛇體內，直到孵化。因此，有些蛇會下一窩蛋，還有些蛇看似能直接產下小蛇。</p>\n<p>耍蛇術具有悠久的歷史，在聖經時期就為人熟知。耍蛇術通常選用的是埃及眼鏡蛇。埃及眼鏡蛇體型較大，當牠採取眼鏡蛇科的典型姿勢，昂頭直立以示威嚇時，頸部兩側會擴張成扁平的帽兜狀，並且帽兜上面有醒目的斑紋。耍蛇人吹奏一個類似笛子的樂器，蛇就會從籃子或陶罐中爬出來，接著被催眠，開始模仿耍蛇人的動作。人們曾經認為是耍蛇人迷幻的音樂產生了這種效果，可是現代實驗已經證明，眼鏡蛇其實是聾子，但牠對樂聲產生的空氣振動很敏感。然而，催眠並非只是音樂產生的，還有耍蛇人吹笛子時搖擺身體的動作。</p>\n<p>在希伯來文中，用來表示蛇的多個詞語都含有和蛇發出的嘶嘶聲相似的發音。這使得我們很難把一個名稱和某種特定的蛇類聯繫起來。但是因為一些名稱重複出現，所以可以借助上下文來初步區分蛇的種類。</p>\n<p><strong>二、蜥蜴</strong></p>\n<p>在以色列發現的蜥蜴和蜥蜴亞種至少有40種，然而希伯來文似乎只區分了比較明顯的主要種類，而沒有一一區分。在《利未記》所列不潔淨的食物中，這些名稱大多只出現一次，所以很大程度上只能依靠推測來辨別其種類。儘管如此，學者對於經文提到的蜥蜴種類還是達成一些共識，這是因為希伯來文中用來指稱蜥蜴的詞語，多半是依據牠們的具體特徵來命名，所以在很多情況下，可以憑藉這些形象的名稱來識別某一種蜥蜴。</p>\n<p><abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr> 沒有列出經文所述不同種類的蜥蜴，而是把整個清單統一稱為&quot;lizards&quot;（「蜥蜴」）。翻譯者最好在萬不得已時才採用這個方法。因為希伯來文本的蜥蜴清單很明確，所以翻譯者應該首先嘗試找到具體對應的譯詞。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.2",
+"reference_id": "FAUNA:4.2",
+"version": "1.0.4",
+"title": "標題：爬行動物（reptiles [crawling and creeping things]）",
+"media_type": "Text",
+"index_reference": "4.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.2\"><span class=\"thlex-key\">4.2</span> 標題：爬行動物（reptiles [crawling and creeping things]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：זחל</span> <span class=\"thlex-translit\">(音譯：zachal)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:24\">DEU 32:24</a>, <a href=\"https://ref.ly/Mic7:17\">MIC 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：רֶמֶשׂ</span> <span class=\"thlex-translit\">(音譯：remes)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:24\">GEN 1:24</a>, <a href=\"https://ref.ly/Gen1:25\">GEN 1:25</a>, <a href=\"https://ref.ly/Gen1:26\">GEN 1:26</a>, <a href=\"https://ref.ly/Gen6:7\">GEN 6:7</a>, <a href=\"https://ref.ly/Gen6:20\">GEN 6:20</a>, <a href=\"https://ref.ly/Gen7:14\">GEN 7:14</a>, <a href=\"https://ref.ly/Gen7:23\">GEN 7:23</a>, <a href=\"https://ref.ly/Gen8:19\">GEN 8:19</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/Ps104:25\">PSA 104:25</a>, <a href=\"https://ref.ly/Ps148:10\">PSA 148:10</a>, <a href=\"https://ref.ly/Ezek8:10\">EZK 8:10</a>, <a href=\"https://ref.ly/Ezek38:20\">EZK 38:20</a>, <a href=\"https://ref.ly/Hos2:20\">HOS 2:20</a>, <a href=\"https://ref.ly/Hab1:14\">HAB 1:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：שֶׁרֶץ</span> <span class=\"thlex-translit\">(音譯：sherets)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen7:21\">GEN 7:21</a>, <a href=\"https://ref.ly/Lev5:2\">LEV 5:2</a>, <a href=\"https://ref.ly/Lev11:10\">LEV 11:10</a>, <a href=\"https://ref.ly/Lev11:20\">LEV 11:20</a>, <a href=\"https://ref.ly/Lev11:21\">LEV 11:21</a>, <a href=\"https://ref.ly/Lev11:23\">LEV 11:23</a>, <a href=\"https://ref.ly/Lev11:29\">LEV 11:29</a>, <a href=\"https://ref.ly/Lev11:31\">LEV 11:31</a>, <a href=\"https://ref.ly/Lev11:41\">LEV 11:41</a>, <a href=\"https://ref.ly/Lev11:42\">LEV 11:42</a>, <a href=\"https://ref.ly/Lev11:43\">LEV 11:43</a>, <a href=\"https://ref.ly/Lev11:44\">LEV 11:44</a>, <a href=\"https://ref.ly/Lev22:5\">LEV 22:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἑρπετόν</span> <span class=\"thlex-translit\">(音譯：herpeton)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John10:12\">ACT 10:12</a>, <a href=\"https://ref.ly/John11:6\">ACT 11:6</a>, <a href=\"https://ref.ly/Acts1:23\">ROM 1:23</a>, <a href=\"https://ref.ly/Heb3:7\">JAS 3:7</a>, <a href=\"https://ref.ly/Wis10:11\">SIR 10:11</a>, <a href=\"https://ref.ly/Bar1:20\">LJE 1:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：reptilis</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:53\">2ES 6:53</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>zachal</em> 和<em>remes</em> 字面義為「爬行的（東西）」，用來指稱體型較小的不潔淨生物，特別是爬行動物。希伯來文<em>sherets</em> 字面義為「成群的東西」，指成群結隊、貼近地面移動的哺乳動物和爬行動物。在以色列，有些蝰蛇產下的幼蛇生活在離彼此不遠的地方，直到完全成熟。到了交配季節，這些蛇又再次聚集在一起。這些蝰蛇都包含在<em>sherets</em> 一詞中。希臘文<em>herpeton</em> 也是對爬行動物的通稱，包括蛇和蜥蜴。通常，所有的希伯來文、希臘文和拉丁文意指「爬行動物」的詞語，都排除了魚的意思，除了<a href=\"https://ref.ly/Gen1:20\">GEN 1:20</a> 這個可能的例外。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>這些希伯來文詞語含有禮儀上不潔淨的意思。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>如果目標語言有意為「爬行動物」的詞語，那麼該詞可以用在大多數經文中。在沒有這個詞的語言中，可以使用「蛇和蜥蜴」、「蠕動的東西」等短語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032024",
+"start_ref_usfm": "DEU 32:24",
+"end_ref": "05032024",
+"end_ref_usfm": "DEU 32:24"
+},
+{
+"start_ref": "33007017",
+"start_ref_usfm": "MIC 7:17",
+"end_ref": "33007017",
+"end_ref_usfm": "MIC 7:17"
+},
+{
+"start_ref": "01001024",
+"start_ref_usfm": "GEN 1:24",
+"end_ref": "01001024",
+"end_ref_usfm": "GEN 1:24"
+},
+{
+"start_ref": "01001025",
+"start_ref_usfm": "GEN 1:25",
+"end_ref": "01001025",
+"end_ref_usfm": "GEN 1:25"
+},
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001026",
+"end_ref_usfm": "GEN 1:26"
+},
+{
+"start_ref": "01006007",
+"start_ref_usfm": "GEN 6:7",
+"end_ref": "01006007",
+"end_ref_usfm": "GEN 6:7"
+},
+{
+"start_ref": "01006020",
+"start_ref_usfm": "GEN 6:20",
+"end_ref": "01006020",
+"end_ref_usfm": "GEN 6:20"
+},
+{
+"start_ref": "01007014",
+"start_ref_usfm": "GEN 7:14",
+"end_ref": "01007014",
+"end_ref_usfm": "GEN 7:14"
+},
+{
+"start_ref": "01007023",
+"start_ref_usfm": "GEN 7:23",
+"end_ref": "01007023",
+"end_ref_usfm": "GEN 7:23"
+},
+{
+"start_ref": "01008019",
+"start_ref_usfm": "GEN 8:19",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "19104025",
+"start_ref_usfm": "PSA 104:25",
+"end_ref": "19104025",
+"end_ref_usfm": "PSA 104:25"
+},
+{
+"start_ref": "19148010",
+"start_ref_usfm": "PSA 148:10",
+"end_ref": "19148010",
+"end_ref_usfm": "PSA 148:10"
+},
+{
+"start_ref": "26008010",
+"start_ref_usfm": "EZK 8:10",
+"end_ref": "26008010",
+"end_ref_usfm": "EZK 8:10"
+},
+{
+"start_ref": "26038020",
+"start_ref_usfm": "EZK 38:20",
+"end_ref": "26038020",
+"end_ref_usfm": "EZK 38:20"
+},
+{
+"start_ref": "28002020",
+"start_ref_usfm": "HOS 2:20",
+"end_ref": "28002020",
+"end_ref_usfm": "HOS 2:20"
+},
+{
+"start_ref": "35001014",
+"start_ref_usfm": "HAB 1:14",
+"end_ref": "35001014",
+"end_ref_usfm": "HAB 1:14"
+},
+{
+"start_ref": "01007021",
+"start_ref_usfm": "GEN 7:21",
+"end_ref": "01007021",
+"end_ref_usfm": "GEN 7:21"
+},
+{
+"start_ref": "03005002",
+"start_ref_usfm": "LEV 5:2",
+"end_ref": "03005002",
+"end_ref_usfm": "LEV 5:2"
+},
+{
+"start_ref": "03011010",
+"start_ref_usfm": "LEV 11:10",
+"end_ref": "03011010",
+"end_ref_usfm": "LEV 11:10"
+},
+{
+"start_ref": "03011020",
+"start_ref_usfm": "LEV 11:20",
+"end_ref": "03011020",
+"end_ref_usfm": "LEV 11:20"
+},
+{
+"start_ref": "03011021",
+"start_ref_usfm": "LEV 11:21",
+"end_ref": "03011021",
+"end_ref_usfm": "LEV 11:21"
+},
+{
+"start_ref": "03011023",
+"start_ref_usfm": "LEV 11:23",
+"end_ref": "03011023",
+"end_ref_usfm": "LEV 11:23"
+},
+{
+"start_ref": "03011029",
+"start_ref_usfm": "LEV 11:29",
+"end_ref": "03011029",
+"end_ref_usfm": "LEV 11:29"
+},
+{
+"start_ref": "03011031",
+"start_ref_usfm": "LEV 11:31",
+"end_ref": "03011031",
+"end_ref_usfm": "LEV 11:31"
+},
+{
+"start_ref": "03011041",
+"start_ref_usfm": "LEV 11:41",
+"end_ref": "03011041",
+"end_ref_usfm": "LEV 11:41"
+},
+{
+"start_ref": "03011042",
+"start_ref_usfm": "LEV 11:42",
+"end_ref": "03011042",
+"end_ref_usfm": "LEV 11:42"
+},
+{
+"start_ref": "03011043",
+"start_ref_usfm": "LEV 11:43",
+"end_ref": "03011043",
+"end_ref_usfm": "LEV 11:43"
+},
+{
+"start_ref": "03011044",
+"start_ref_usfm": "LEV 11:44",
+"end_ref": "03011044",
+"end_ref_usfm": "LEV 11:44"
+},
+{
+"start_ref": "03022005",
+"start_ref_usfm": "LEV 22:5",
+"end_ref": "03022005",
+"end_ref_usfm": "LEV 22:5"
+},
+{
+"start_ref": "44010012",
+"start_ref_usfm": "ACT 10:12",
+"end_ref": "44010012",
+"end_ref_usfm": "ACT 10:12"
+},
+{
+"start_ref": "44011006",
+"start_ref_usfm": "ACT 11:6",
+"end_ref": "44011006",
+"end_ref_usfm": "ACT 11:6"
+},
+{
+"start_ref": "45001023",
+"start_ref_usfm": "ROM 1:23",
+"end_ref": "45001023",
+"end_ref_usfm": "ROM 1:23"
+},
+{
+"start_ref": "59003007",
+"start_ref_usfm": "JAS 3:7",
+"end_ref": "59003007",
+"end_ref_usfm": "JAS 3:7"
+},
+{
+"start_ref": "72010011",
+"start_ref_usfm": "SIR 10:11",
+"end_ref": "72010011",
+"end_ref_usfm": "SIR 10:11"
+},
+{
+"start_ref": "74001020",
+"start_ref_usfm": "LJE 1:20",
+"end_ref": "74001020",
+"end_ref_usfm": "LJE 1:20"
+},
+{
+"start_ref": "83006053",
+"start_ref_usfm": "2ES 6:53",
+"end_ref": "83006053",
+"end_ref_usfm": "2ES 6:53"
+},
+{
+"start_ref": "01001020",
+"start_ref_usfm": "GEN 1:20",
+"end_ref": "01001020",
+"end_ref_usfm": "GEN 1:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.3",
+"reference_id": "FAUNA:4.3",
+"version": "1.0.4",
+"title": "標題：變色龍（chameleon）",
+"media_type": "Text",
+"index_reference": "4.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.3\"><span class=\"thlex-key\">4.3</span> 標題：變色龍（chameleon）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：תִּנְשֶׁמֶת</span> <span class=\"thlex-translit\">(音譯：tinshemeth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0123_chameleon.jpg\" alt=\"WEB-0123_chameleon\"></figure>這個詞不僅出現在蜥蜴的清單中，還出現在不潔淨的鳥類清單中，因此似乎某種貓頭鷹和某種爬行動物具有相同的名字。在許多語言中，用同一個名字稱呼不同的生物是一種常見的現象。例如，在英文中，&quot;cob&quot;既指雄性天鵝，也指一種用來騎乘的馬，&quot;sable&quot;既是一種小型肉食動物的名稱，也是一種大型羚羊的名稱；在荷蘭文中，鸕鷀（一種鳥）和一種羚羊都叫&quot;duiker&quot;。</p>\n<p>希伯來文<em>tinshemeth</em> 源自一個意為「喘氣或大聲呼吸」的動詞，因此這個詞很可能是指變色龍或變色蜥蜴。當變色龍惱怒、受傷或處於危險時，身體會變黑，很大的肺部會膨脹，使自己看起來更大，然後張開嘴，像蛇一樣發出嘶嘶或呼呼的聲音。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.17.8\" href=\"#FAUNA:3.17.8\">3.17.8 Tinshemeth（希伯來文）</a> ，這是一種貓頭鷹。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>變色龍（學名<em>Chamaeleo chamaeleon</em> ）是一種非常有趣的蜥蜴。牠棲居在草木中，體色通常為綠色，然而可以改變顏色來融入環境，比如變成棕色、淡黃色或灰色，另外還可以改變身體不同部位的明暗度，從而顯得斑駁，或呈現深深淺淺的色塊，巧妙地偽裝在草木之中。變色龍爬行緩慢，並且動作是搖搖擺擺、一走一停的，通常一次只移動一個肢體，很像是微風中搖晃的樹枝。這種蜥蜴的每隻腳都長著對趾，能夠牢牢抓住細枝，從而穩穩地穿行其中。</p>\n<p>變色龍的皮膚很硬，覆有小鱗片和許多疣狀小腫塊，沿著脊椎還有一排尖銳的鱗片。有些種類的頭部和面部有像喇叭一樣的突起。</p>\n<p>變色龍的眼睛是獨一無二的，眼瞼完全蓋住了眼睛，只通過一個小孔看東西。變色龍可以上下左右轉動這個小孔，並且兩個眼瞼獨立動作，從而能夠同時朝兩個方向觀看。變色龍以昆蟲為食，用又長又黏、彈性十足的舌頭來捕捉昆蟲，快如閃電。在颳風或攀爬的角度較大時，變色龍還會利用尾巴纏住樹枝和其他東西來支撐身體。牠可以用尾巴懸掛在枝條或小樹枝上，並經常施展這種技巧從高處的樹枝移到低處。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>變色龍被列為禮儀上不潔淨的動物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>除了沙漠地區，變色龍分佈在非洲各地，部分亞洲熱帶地區也有牠的蹤跡。在變色龍不為人知的地方，可能需要從該地區的主要語言或希伯來文中借用一個詞，如<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 的做法。另外，也可以使用像「慢速蜥蜴」或「發嘶嘶聲的蜥蜴」這樣的短語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.4",
+"reference_id": "FAUNA:4.4",
+"version": "1.0.4",
+"title": "標題：眼鏡蛇（cobra）",
+"media_type": "Text",
+"index_reference": "4.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.4\"><span class=\"thlex-key\">4.4</span> 標題：眼鏡蛇（cobra）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：פֶּתֶן</span> <span class=\"thlex-translit\">(音譯：pethen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a>, <a href=\"https://ref.ly/Job20:14\">JOB 20:14</a>, <a href=\"https://ref.ly/Job20:16\">JOB 20:16</a>, <a href=\"https://ref.ly/Ps58:5\">PSA 58:5</a>, <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a>, <a href=\"https://ref.ly/Isa11:8\">ISA 11:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：צֶפַע, צִפְעוֹנִי</span> <span class=\"thlex-translit\">(音譯：tsefa‘, tsif‘oni)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov23:32\">PRO 23:32</a>, <a href=\"https://ref.ly/Isa11:8\">ISA 11:8</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a>, <a href=\"https://ref.ly/Jer8:17\">JER 8:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἀσπίς</span> <span class=\"thlex-translit\">(音譯：aspis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts3:13\">ROM 3:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0137_cobra.jpg\" alt=\"WEB-0137_cobra\"></figure>現代學者普遍認為，<em>pethen</em> 指的是眼鏡蛇，因為這個詞和耍蛇術緊密關聯。耍蛇術要求蛇身的前半部能夠直立，這是蝰蛇無法做到的。<em>Tsif‘oni</em> 和<em>tsefa‘</em> 也可能是指某種眼鏡蛇，這兩個詞語的上下文提供了有力的證明，其中提到這種蛇住在洞裡，並且產卵，這就排除了所有蝰蛇。</p>\n<p>有些證據表明，<em>pethen</em> 是眼鏡蛇早期的名稱，<em>tsefa‘</em> 和<em>tsif‘oni</em> 是後來的名稱。英文也有類似的情況，&quot;cobra&quot;只在最近的一百年才使用，之前人們稱眼鏡蛇為&quot;asp&quot;。</p>\n<p>「蝮蛇」是蝰蛇科下屬一些蛇類的名稱，因此可能不是翻譯這三個希伯來文詞語的最佳選擇。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>眼鏡蛇的特點是能夠擴張頸部的肋骨，形成一個稱為「兜帽」的寬扁輪廓，讓自己的身體看起來比實際上要粗得多。另外，眼鏡蛇的口腔前部長著較短的固定尖牙。在以色列地生活的眼鏡蛇種類是沙漠眼鏡蛇或沃爾特•英尼斯蛇（學名<em>Walterinnesia aegyptia</em> ），而埃及的眼鏡蛇稱為埃及眼鏡蛇（學名<em>Naja haje</em> ）。眼鏡蛇的體型較大，身長可達2米（6英呎），直徑約50毫米（2英吋）。身體的背部呈深棕色，腹部為淺黃色。有些地區的眼鏡蛇身上有淺黃色的寬條紋，因此還有一個名稱叫「條紋眼鏡蛇」。當這種蛇的身體直立並張開兜帽時，便現出淺黃色的兜帽，以及兜帽上一道很寬的深棕色橫紋。</p>\n<p>眼鏡蛇的毒性很強，而且會快速作用於神經系統。眼鏡蛇以老鼠、沙鼠、鳥類、鳥蛋、蜥蜴、青蛙和其他蛇類為食。牠通過舌頭感知氣味來跟蹤獵物。當接近獵物時，牠會緩慢地直立起頭，突襲毫無防備的獵物。眼鏡蛇主要生活在草原和植被茂密的地方，藏匿在鼠洞、河岸上因被侵蝕而出現的洞穴、中空的樹幹、原木下方，以及露出地面的樹根中間，並且可能會在這些藏匿地的任何一處產卵。天氣寒冷時，眼鏡蛇會蜷縮起來以保持身體的熱量。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>眼鏡蛇除了象徵潛伏的危險外，還和埃及緊密關聯。因此在一些詩歌體經文中，眼鏡蛇被用來喻指以色列的敵人，特別是埃及。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>埃及眼鏡蛇分佈在非洲各地，在當地語言中應該不難找到對應的譯詞。在南亞和東南亞，採用表示眼鏡王蛇（學名<em>Naja hannah</em> ）或其他某種眼鏡蛇的詞語是十分恰當的。在一些地區，眼鏡蛇象徵好運和神靈的臨在，因此可能需要在腳註中說明這個詞在希伯來文中的象徵意義。在眼鏡蛇不為人知的其他地方，翻譯者可以選擇當地一種身體比較長的毒蛇的名稱，但不能是蝰蛇或蝮蛇。</p>\n<p>在談到蛇「刺」的經文中，翻譯者不必選用一個字面義為「刺」的動詞。「刺」只是希伯來文描述蛇咬的一種表達方式。如本章的介紹所述，在許多語言中，描述蛇咬的動詞，與描述狗等其他動物的咬的詞語是不同的。</p>\n<p><a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a> ：這節詩歌體的經文提到杖變成蛇，並且蛇生出更危險的蛇。直譯作：「全非利士啊，不要因擊打你的杖折斷就喜樂。從蛇的根必生出眼鏡蛇；牠所生的是會飛的蝰蛇。」「蛇的根」是雙關語，既指折斷的杖的「根」，也指蛇是眼鏡蛇的「根」或起源。這節經文可以改述為：</p>\n<p>全非利士啊，</p>\n<p>不要因擊打你的杖折斷就喜樂。</p>\n<p>折斷的那一頭是蛇。</p>\n<p>蛇必生出眼鏡蛇，</p>\n<p>牠將生出會飛的毒蝰蛇。</p>\n<p>關於蝰蛇「會飛」，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.10\" href=\"#FAUNA:4.10\">4.10 蝰蛇 (viper)</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032033",
+"start_ref_usfm": "DEU 32:33",
+"end_ref": "05032033",
+"end_ref_usfm": "DEU 32:33"
+},
+{
+"start_ref": "18020014",
+"start_ref_usfm": "JOB 20:14",
+"end_ref": "18020014",
+"end_ref_usfm": "JOB 20:14"
+},
+{
+"start_ref": "18020016",
+"start_ref_usfm": "JOB 20:16",
+"end_ref": "18020016",
+"end_ref_usfm": "JOB 20:16"
+},
+{
+"start_ref": "19058005",
+"start_ref_usfm": "PSA 58:5",
+"end_ref": "19058005",
+"end_ref_usfm": "PSA 58:5"
+},
+{
+"start_ref": "19091013",
+"start_ref_usfm": "PSA 91:13",
+"end_ref": "19091013",
+"end_ref_usfm": "PSA 91:13"
+},
+{
+"start_ref": "23011008",
+"start_ref_usfm": "ISA 11:8",
+"end_ref": "23011008",
+"end_ref_usfm": "ISA 11:8"
+},
+{
+"start_ref": "20023032",
+"start_ref_usfm": "PRO 23:32",
+"end_ref": "20023032",
+"end_ref_usfm": "PRO 23:32"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "23059005",
+"start_ref_usfm": "ISA 59:5",
+"end_ref": "23059005",
+"end_ref_usfm": "ISA 59:5"
+},
+{
+"start_ref": "24008017",
+"start_ref_usfm": "JER 8:17",
+"end_ref": "24008017",
+"end_ref_usfm": "JER 8:17"
+},
+{
+"start_ref": "45003013",
+"start_ref_usfm": "ROM 3:13",
+"end_ref": "45003013",
+"end_ref_usfm": "ROM 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.5",
+"reference_id": "FAUNA:4.5",
+"version": "1.0.4",
+"title": "標題：壁虎（gecko）",
+"media_type": "Text",
+"index_reference": "4.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.5\"><span class=\"thlex-key\">4.5</span> 標題：壁虎（gecko）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：אֲנָקָה</span> <span class=\"thlex-translit\">(音譯：’anaqah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：שְׂמָמִית</span> <span class=\"thlex-translit\">(音譯：semamith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov30:28\">PRO 30:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0258_gecko.jpg\" alt=\"WEB-0258_gecko\"></figure>各譯本都將<em>’anaqah</em> 譯作壁虎。以色列地有許多種類的壁虎，從體型碩大的岩石壁虎（學名<em>Ptyodactylus hasselquistii</em> ）到長僅10厘米（4英吋）的土耳其蜥虎或地中海壁虎（學名<em>Hemidactylus turcicus</em> ）。<em>’Anaqah</em> 可能是所有壁虎的總稱。該詞和一個意為「呼喊」的動詞有關聯，從而提供了辨識這個名稱的線索。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>壁虎是唯一會叫的蜥蜴。「壁虎」（gecko）這個名稱是從馬來文<em>getjok</em> 借來的，模仿的是一種壁虎的叫聲。在許多語言中，不同種類壁虎的名稱也是模仿牠們的雙音節叫聲。例如，在泰國，大壁虎名叫<em>tuk-gae</em> ，家壁虎稱為<em>ching-chok</em> 。</p>\n<p>除了獨特的叫聲之外，所有壁虎的典型特徵是腳趾末端都有小疙瘩（褶襞）。這些趾墊上面覆蓋著納米級的剛毛，因此壁虎可以抓住任何稍微粗糙的表面，能夠在天花板和懸垂物上倒立爬行。</p>\n<p>壁虎以螞蟻、飛蛾、甲蟲、蒼蠅、蚊子和其他昆蟲為食。雄性之間經常打鬥，最後，其中一隻可能會咬掉另一隻的尾巴，並且可能會吃掉斷尾。一些體型較大的壁虎也吃小蜥蜴和小蛇。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>壁虎被列為禮儀上不潔淨的動物。在<a href=\"https://ref.ly/Prov30:28\">PRO 30:28</a> 中，壁虎代表一種雖然不起眼，但卻可以自由出現在王宮裡的動物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>壁虎分佈在非洲、中東、歐洲東南部、亞洲，以及澳大利亞的熱帶地區。在這些地區的當地語言中找到一個對應的譯詞並不困難。在沒有壁虎的地方，通常可以從希伯來文或該地區的主要語言中借用一個詞，然後和表示蜥蜴的詞結合在一起，比如「anaka蜥蜴」或「gecko蜥蜴」。</p>\n<p><abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 把<a href=\"https://ref.ly/Prov30:28\">PRO 30:28</a> 中的<em>semamith</em> 譯成&quot;spider&quot;（「蜘蛛」），但其他譯本和解經家一致將這個詞解釋為「蜥蜴」。這裡可能是指家壁虎，即室內最常見的壁虎。現代解經家大多認為這節經文中的這個動詞是被動語態，意即「蜥蜴，可以被人拿在（或抓在）手中」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+},
+{
+"start_ref": "20030028",
+"start_ref_usfm": "PRO 30:28",
+"end_ref": "20030028",
+"end_ref_usfm": "PRO 30:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.6",
+"reference_id": "FAUNA:4.6",
+"version": "1.0.4",
+"title": "標題：蜥蜴（lizard）",
+"media_type": "Text",
+"index_reference": "4.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.6\"><span class=\"thlex-key\">4.6</span> 標題：蜥蜴（lizard）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：לְטָאָה</span> <span class=\"thlex-translit\">(音譯：leta’ah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：צָב</span> <span class=\"thlex-translit\">(音譯：tsav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:29\">LEV 11:29</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0170_dablizard.jpg\" alt=\"WEB-0170_dablizard\"></figure>學者一致同意，希伯來文<em>leta’ah</em> 指的是正蜥和飛蜥，這兩種蜥蜴在以色列很常見，也很顯眼。正蜥的皮膚柔軟，棲息在靠近道路和房屋的地方。其中一種色彩比較鮮艷的正蜥是敘利亞綠蜥蜴（學名<em>Lacerta trilineata</em> ），生活在果園和樹林中。最常見的飛蜥是彩虹飛蜥（學名<em>Agama stellio</em> ），常出沒在房屋周圍、牆壁和岩石上。</p>\n<p>大多數學者認為，希伯來文<em>tsav</em> 是刺尾蜥蜴（dab lizard）的名稱，以色列有很多種這樣的蜥蜴。最常見的兩種是埃及刺尾蜥（學名<em>Uromastyx aegyptia</em> ）和飾紋刺尾蜥（學名<em>Uromastyx ornata</em> ）。刺尾蜥的阿拉伯文名稱是<em>dhubb</em> 或<em>dhabb</em> ，英文形式是dab；這個阿拉伯文名稱反映在希伯來文<em>tsav</em> 中。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>正蜥（希伯來文<em>leta’ah</em> ）體型很小，體長約15—20厘米（6—8英吋），皮膚光滑亮澤。敘利亞綠蜥蜴呈淺綠色，身上佈有深綠色斑點，腹部為黃綠色。正蜥以蒼蠅、小蟲子、蚊子和螞蟻為食。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0014_agama_lizards.jpg\" alt=\"WEB-0014_agama_lizards\"></figure>彩虹飛蜥的體型要大得多，長達50—60厘米（20—24英吋）。在繁殖季節，雄性會變為明亮的顏色，有藍色的尾巴，綠色的身體，頭部的顏色則根據各亞種有所不同，有的是亮橙色，有的是亮綠色。雌性和非交配期的雄性呈暗灰色。所有飛蜥都有這樣的特點：用前腿做「俯臥撐」，使頭部有力地上下擺動。牠們的尾巴又長又硬，快速爬行的時候會豎起來。以多種昆蟲為食，也捕食較小的蜥蜴。在大部分說阿拉伯語的地方，牠們被稱為<em>hardoun</em> 蜥蜴。一些飛蜥能夠改變顏色以融入周圍環境，就像變色龍那樣。</p>\n<p>刺尾蜥（希伯來文<em>tsav</em> ）是相對較大的沙漠蜥蜴，體長約65厘米（26英吋）。這些蜥蜴的軀幹粗壯，尾巴粗短，上面覆蓋著尖刺，尖刺實際上是錐形的鱗片。刺尾蜥用尾巴來進行防禦。牠們經常爬進岩石洞穴或裂縫裡，然後用帶刺的尾巴堵住入口。刺尾蜥是素食者，以各種多汁的沙漠植物為食。儘管刺尾蜥被列為不潔淨的動物，阿拉伯人和貝都因人還是會把牠們關在籠子裡養肥，然後當作食物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>這些蜥蜴被列為禮儀上不潔淨的動物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0871_thorn-tailed_lizard.jpg\" alt=\"WEB-0871_thorn-tailed_lizard\"></figure>飛蜥遍佈非洲和亞洲熱帶地區。正蜥分佈於歐洲各地。在其他地方，翻譯者可以採用一個蜥蜴的總稱。</p>\n<p>翻譯希伯來文<em>tsav</em> 時，採用「帶刺的大蜥蜴」或「尾巴帶刺的大蜥蜴」等短語通常是最好的譯法。如果目標語言區分了較小的蜥蜴和巨蜥，那麼使用「帶刺的巨蜥」或「尾巴帶刺的巨蜥」等短語更為合適，可以把體型很大的特點更好地傳達出來。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+},
+{
+"start_ref": "03011029",
+"start_ref_usfm": "LEV 11:29",
+"end_ref": "03011029",
+"end_ref_usfm": "LEV 11:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.7",
+"reference_id": "FAUNA:4.7",
+"version": "1.0.4",
+"title": "標題：巨蜥（monitor）",
+"media_type": "Text",
+"index_reference": "4.7",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.7\"><span class=\"thlex-key\">4.7</span> 標題：巨蜥（monitor）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：כֹּחַ</span> <span class=\"thlex-translit\">(音譯：koach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0315_iguana.jpg\" alt=\"WEB-0315_iguana\"></figure>英文譯本有多種譯法，比如<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> &quot;chameleon&quot;（「變色龍」）、<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> &quot;land crocodile&quot;（「陸地鱷魚」）、<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> &quot;sand-gecko&quot;（「沙壁虎」）、<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> &quot;koach&quot;（「小爬行動物」）、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> &quot;monitor lizard&quot;（「巨蜥」）、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> &quot;sand-gecko&quot;（「沙壁虎」）、<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> &quot;chameleon&quot;（「變色龍」）等，這反映出一個事實，就是我們無法確定這是哪一種蜥蜴。<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 的「陸地鱷魚」和<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 的「巨蜥」是同一種蜥蜴。這個建議得到大部分現代學者的支持。這個名稱的希伯來文和一個意為「力量」的詞根有關，並且這個詞根很可能適用於沙漠巨蜥（學名<em>Varanus griseus</em> ）和尼羅河巨蜥（學名<em>Varanus niloticus</em> ）。以色列境內沒有發現尼羅河巨蜥，不過以色列人可能從埃及人那裡得知這種蜥蜴。這兩種巨蜥都是鬣蜥的近緣物種。</p>\n<p>如果這個詞的意思是「變色龍」，那麼可能指的是變色龍的抓握力量。變色龍的爪子可以握住樹枝，一側的三個趾對著另一側的兩個趾，因此能夠牢牢地抓握。然而，這種解釋不如「巨蜥」的可能性大。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0640_lizard.jpg\" alt=\"WEB-0640_lizard\"></figure>沙漠巨蜥是世界上最大的蜥蜴之一，以色列沙漠巨蜥的身體總長接近1.2米（4英呎），其他國家的沙漠巨蜥甚至更長。這些蜥蜴的力氣很大，但通常行動緩慢，只有在逃離危險的時候才會快速爬行。沙漠巨蜥是肉食動物，捕獵的食物種類很廣，包括昆蟲、老鼠、蛇、蜥蜴、鳥蛋、雛鳥和動物的腐肉。沙漠巨蜥的身體呈灰褐色，生活在沙漠和大草原的半沙漠地區。</p>\n<p>尼羅河巨蜥或圓鼻巨蜥（俗稱「水巨蜥」）的樣子和沙漠巨蜥非常相似，但是牠生活在河流附近和比較茂密的草木裡面。尼羅河巨蜥的食物還包括烏龜蛋和鱷魚蛋。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>巨蜥被列為禮儀上不潔淨的動物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在各大洲溫暖地帶的許多國家，以及澳大利亞，都有巨蜥或鬣蜥棲息；在澳大利亞稱為goanna（澳洲巨蜥）。在這些地區的當地語言中，找到一個合適的譯詞並不困難。否則，可以採用「巨大的蜥蜴」這樣的短語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.8",
+"reference_id": "FAUNA:4.8",
+"version": "1.0.4",
+"title": "標題：蛇醫、石龍子（skink）",
+"media_type": "Text",
+"index_reference": "4.8",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.8\"><span class=\"thlex-key\">4.8</span> 標題：蛇醫、石龍子（skink）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：חֹמֶט</span> <span class=\"thlex-translit\">(音譯：chomet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0813_skink.jpg\" alt=\"WEB-0813_skink\"></figure>這個詞的意思仍然存在很大疑問，但是因為以色列和北非的蛇醫（石龍子）非常多，所以這種動物很有可能列在該地區的蜥蜴清單裡面。因此，<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 的譯文列入蛇醫也有其道理。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>蛇醫一般身體細長，呈流線型，皮膚光滑閃亮。蛇醫有大有小，小的只有10厘米（4英吋）長，然而最大的沙漠蛇醫長達50厘米（20英吋）。蛇醫的腿比大多數其他種類的蜥蜴要短，因此看起來很像蛇。有些種類的蛇醫甚至沒有腿。生活在沙漠中的蛇醫以游泳的動作在沙子中穿行。其他種類的蛇醫生活在房屋裡或岩石間，通常隱藏在裂縫中，以及石頭或岩石下面。還有幾種蛇醫生活在洞穴裡，而且爬得很快。蛇醫以蒼蠅、飛蛾、螞蟻等昆蟲為食，偶爾也會吃其他蛇醫的尾巴。</p>\n<p>大部分蛇醫的皮膚為灰色或淺棕色，許多種類長著縱向條紋。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>蛇醫被列為禮儀上不潔淨的動物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>事實上，除了南極和北極地區以外，世界各地都有蛇醫的身影，通常很容易在當地語言中找到對應的譯詞。然而在許多語言中，蛇醫和其他蜥蜴沒有區別，這時「光滑的蜥蜴」或「細長的蜥蜴」等短語可能是最好的譯法。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.9",
+"reference_id": "FAUNA:4.9",
+"version": "1.0.4",
+"title": "標題：蛇（snake）",
+"media_type": "Text",
+"index_reference": "4.9",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.9\"><span class=\"thlex-key\">4.9</span> 標題：蛇（snake）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：נָחָשׁ</span> <span class=\"thlex-translit\">(音譯：nachash)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen3:1\">GEN 3:1</a>, <a href=\"https://ref.ly/Gen3:2\">GEN 3:2</a>, <a href=\"https://ref.ly/Gen3:4\">GEN 3:4</a>, <a href=\"https://ref.ly/Gen3:13\">GEN 3:13</a>, <a href=\"https://ref.ly/Gen3:14\">GEN 3:14</a>, <a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a>, <a href=\"https://ref.ly/Exod4:3\">EXO 4:3</a>, <a href=\"https://ref.ly/Exod7:15\">EXO 7:15</a>, <a href=\"https://ref.ly/Num21:6\">NUM 21:6</a>, <a href=\"https://ref.ly/Num21:7\">NUM 21:7</a>, <a href=\"https://ref.ly/Num21:9\">NUM 21:9</a>, <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>, <a href=\"https://ref.ly/2Kgs18:4\">2KI 18:4</a>, <a href=\"https://ref.ly/Job26:13\">JOB 26:13</a>, <a href=\"https://ref.ly/Ps58:5\">PSA 58:5</a>, <a href=\"https://ref.ly/Ps140:4\">PSA 140:4</a>, <a href=\"https://ref.ly/Prov23:32\">PRO 23:32</a>, <a href=\"https://ref.ly/Prov30:19\">PRO 30:19</a>, <a href=\"https://ref.ly/Eccl10:8\">ECC 10:8</a>, <a href=\"https://ref.ly/Eccl10:11\">ECC 10:11</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a>, <a href=\"https://ref.ly/Jer8:17\">JER 8:17</a>, <a href=\"https://ref.ly/Jer46:22\">JER 46:22</a>, <a href=\"https://ref.ly/Amos5:19\">AMO 5:19</a>, <a href=\"https://ref.ly/Amos9:3\">AMO 9:3</a>, <a href=\"https://ref.ly/Mic7:17\">MIC 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：תַּנִּין</span> <span class=\"thlex-translit\">(音譯：tanin)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod7:9\">EXO 7:9</a>, <a href=\"https://ref.ly/Exod7:10\">EXO 7:10</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a>, <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：δράκων</span> <span class=\"thlex-translit\">(音譯：drakōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr16:10\">WIS 16:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἑρπετόν</span> <span class=\"thlex-translit\">(音譯：herpeton)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr11:15\">WIS 11:15</a>, <a href=\"https://ref.ly/EsthGr17:9\">WIS 17:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ὄφις</span> <span class=\"thlex-translit\">(音譯：ofis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt7:10\">MAT 7:10</a>, <a href=\"https://ref.ly/Matt10:16\">MAT 10:16</a>, <a href=\"https://ref.ly/Matt23:33\">MAT 23:33</a>, <a href=\"https://ref.ly/Matt16:18\">MRK 16:18</a>, <a href=\"https://ref.ly/Mark10:19\">LUK 10:19</a>, <a href=\"https://ref.ly/Mark11:11\">LUK 11:11</a>, <a href=\"https://ref.ly/Luke3:14\">JHN 3:14</a>, <a href=\"https://ref.ly/Rom10:9\">1CO 10:9</a>, <a href=\"https://ref.ly/1Cor11:3\">2CO 11:3</a>, <a href=\"https://ref.ly/Jude9:19\">REV 9:19</a>, <a href=\"https://ref.ly/Jude12:9\">REV 12:9</a>, <a href=\"https://ref.ly/Jude12:14\">REV 12:14</a>, <a href=\"https://ref.ly/Jude12:15\">REV 12:15</a>, <a href=\"https://ref.ly/Jude20:2\">REV 20:2</a>, <a href=\"https://ref.ly/EsthGr16:5\">WIS 16:5</a>, <a href=\"https://ref.ly/Wis21:2\">SIR 21:2</a>, <a href=\"https://ref.ly/Wis25:15\">SIR 25:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0817_snake.jpg\" alt=\"WEB-0817_snake\"></figure>&quot;Serpent&quot;是一個十分古老的英文單詞，曾泛指爬行動物，但後來只用來指蛇。在英文日常用語裡，這個詞已不再用來指真實的蛇，而僅僅用來指神話中的蛇及其形象，特別是在徽章、飾章和旗幟上面的蛇。因此，在聖經原文實際指蛇的地方，現代英文譯本卻出現&quot;serpent&quot;就有點奇怪了。在一些英文譯本中，比如<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> ，舊約採用&quot;serpent&quot;，新約用&quot;snake&quot;。</p>\n<p>這裡的希伯來文和希臘文是通稱，包含所有蛇類。在<a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a> ，有些學者把<em>nachash</em> 解釋為「爬行動物」或「龍」，而不是「蛇」。<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 在<a href=\"https://ref.ly/Jer46:22\">JER 46:22</a> 也作此解釋。</p>\n<p>在19世紀，卡農 特里斯特拉姆（Canon Tristram）的報告中提到，他從阿拉伯人那裡聽聞，如果擠壓蛇頸部的某些神經，特別是眼鏡蛇，蛇就可能會喪失知覺，出現僵硬的痙攣。據說在這種狀態下，蛇會變得像棍子一樣。有些古老的圖畫似乎描繪了這個場景。特里斯特拉姆接著說，他個人並沒有觀察到這種現象。然而，近年來這種技術已經出現在電影中。這個現象可能與《出埃及記》記述人把杖變成蛇、又把蛇變成杖的故事有關。</p>\n<p>另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.4\" href=\"#FAUNA:4.4\">4.4 眼鏡蛇 (cobra)</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.10\" href=\"#FAUNA:4.10\">4.10 蝰蛇 (viper)</a> 。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0180_desertrocksnake.jpg\" alt=\"WEB-0180_desertrocksnake\"></figure>蛇是爬行動物，也就是說，蛇沒有控制血液溫度的內在機制，必須依靠太陽來調節。蛇沒有腿，因此要通過收縮皮膚同時移動肋骨，使身上的鱗片鈎住地面任何不規則的地方，才能蠕動或滑動前行。這種移動方式不是很明顯，因此在許多人看來，蛇的移動似乎很神奇，或者至少很神秘。另外，許多蛇都有毒，所以很多人，包括聖經時期的人，都對蛇有一種迷信般的恐懼。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>對聖經作者來說，蛇象徵潛伏著的、意料之外的危險。他們相信蛇的舌頭有毒，所以把蛇和謊言、欺騙、錯謬的教導聯繫在一起，作為魔鬼的一個縮影。在<a href=\"https://ref.ly/Jude12:9\">REV 12:9</a> ，魔鬼被描述為一條迷惑人的蛇。</p>\n<p>此外，由於眼鏡蛇象徵埃及主要的女神明之一，所以蛇也有異教的含意。對埃及人來說，蛇象徵著長壽。在聖經的某些語境中，蛇是埃及的象徵。</p>\n<p>在新約中，除了上文所述之外，蛇也象徵著狡詐。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>蛇遍佈世界各地，除了北半球和南半球的極地以外，因為那裡漫長而寒冷的冬天不適合蛇生存。在大多數語言中，蛇的總稱並不難找到。某些語言有兩個蛇的總稱：一個指蝮蛇／蝰蛇這一類，另一個指較長、較細的蛇，包括眼鏡蛇、曼巴蛇、巨蟒和紅尾蟒等。在大多數一般語境中，第二個總稱更加可取。</p>\n<p>「火蛇」應該解作人被蛇咬傷之後的感覺，而不是指蛇的外表，因此可以譯成「像火一樣燒灼人的蛇」。</p>\n<p><a href=\"https://ref.ly/Jer46:22\">JER 46:22</a> 的意思是：「她（埃及）將像一條後退的蛇那樣發出嘶嘶聲。」</p>\n<p><a href=\"https://ref.ly/Eccl10:11\">ECC 10:11</a> 的意思是：「尚未行法術，蛇若咬人，行法術的人就得不到什麼好處了。」</p>\n<p>在大多數情況下，<em>tanin</em> 在<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 和<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 中被譯為&quot;dragon&quot;（「龍」）或&quot;whale&quot;（「鯨魚」），在其他版本中被譯為「海獸」。然而，在<a href=\"https://ref.ly/Exod7:0\">EXO 7:0</a> 、<a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a> 和<a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a> 中，該詞和另一個表示「蛇」的詞平行對應，英文譯本傳統譯為&quot;serpent&quot;或&quot;snake&quot;，《和》與《和修》均譯為「大蛇」。</p>\n<p>雖然<em>tanin</em> 可能是指一個海獸，但在上面提到的經文中，這個詞非常可能是指「蛇」。我們無法確定具體指的是哪種蛇，然而大多數學者認為，這個詞在上述語境中的意思和更常見的<em>nachash</em> 一詞相同。換句話說，這個詞是蛇的另一個總稱。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.2\" href=\"#FAUNA:7.2\">7.2 龍、海獸 (dragon, sea monster)</a> 。</p>\n<p>有猶太學者在《出埃及記》註釋書中提出了另外一種可能。他們注意到，雖然經文講到摩西的杖在曠野變成了一條<em>nahash</em> ，但是在尼羅河岸（<a href=\"https://ref.ly/Exod7:0\">EXO 7:0</a> ），亞倫的杖卻是變成了一個<em>tanin</em> ，他們解釋這是指「鱷魚」。每一個神蹟都符合具體的情境：曠野中的蛇，河邊的鱷魚。其中一位學者還指出，在<a href=\"https://ref.ly/Ezek29:3\">EZK 29:3</a> 中，法老被稱為「臥在自己江河中的大鱷魚」（「海怪」原文作<em>tanim</em> &lt; <em>tanin</em> ），而且埃及人過去是崇拜鱷魚的。雖然這種譯法未被任何一個譯本採用，但是仍應予以重視。</p>\n<p>希伯來文<em>qipoz</em> 只出現在<a href=\"https://ref.ly/Isa34:15\">ISA 34:15</a> 中，意思不確定，有些學者將其與蛇聯繫在一起。ERV 譯為&quot;arrowsnake&quot;（「箭蛇」），<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 譯為&quot;viper&quot;（「蝰蛇」）。奇怪的是，&quot;arrowsnake&quot;這個名稱之所以和<em>qipoz</em> 聯繫在一起，是因為據說這個希伯來文詞語是由「跳躍」這個動詞<em>qafaz</em> （<em>qafats</em> ）衍生來的。《聖經中的動物和植物》（<em>Fauna and Flora of the Bible</em> ）甚至提供了這個說明：「箭蛇能把自己的身體向後盤繞，然後像箭一樣向前飛躍，或者從樹上躍起。」事實上，箭蛇（學名<em>Eryx jaculus</em> ）更準確的名字是標槍沙蟒，並且叫這個名字不是因為牠能跳躍，而是因為牠的頭很小，以致很難和牠的細尾巴區分；也就是說，牠的身體比較粗壯，兩端是尖的，就像標槍一樣。標槍沙蟒屬於一種稱為大蟒的蛇類，這類蛇會緊緊纏住獵物，使獵物窒息而死。箭蛇棲息在沙子和岩石中間，而不是樹上，爬行緩慢，長約75厘米（30英吋）。然而，這節經文的語境，以及該節中的詩歌體平行句所用的詞語，都有力地表明，把<em>qipoz</em> 解釋為一種鳥是更恰當的。參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.17.6\" href=\"#FAUNA:3.17.6\">3.17.6 Qipoz（希伯來文）</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003001",
+"end_ref_usfm": "GEN 3:1"
+},
+{
+"start_ref": "01003002",
+"start_ref_usfm": "GEN 3:2",
+"end_ref": "01003002",
+"end_ref_usfm": "GEN 3:2"
+},
+{
+"start_ref": "01003004",
+"start_ref_usfm": "GEN 3:4",
+"end_ref": "01003004",
+"end_ref_usfm": "GEN 3:4"
+},
+{
+"start_ref": "01003013",
+"start_ref_usfm": "GEN 3:13",
+"end_ref": "01003013",
+"end_ref_usfm": "GEN 3:13"
+},
+{
+"start_ref": "01003014",
+"start_ref_usfm": "GEN 3:14",
+"end_ref": "01003014",
+"end_ref_usfm": "GEN 3:14"
+},
+{
+"start_ref": "01049017",
+"start_ref_usfm": "GEN 49:17",
+"end_ref": "01049017",
+"end_ref_usfm": "GEN 49:17"
+},
+{
+"start_ref": "02004003",
+"start_ref_usfm": "EXO 4:3",
+"end_ref": "02004003",
+"end_ref_usfm": "EXO 4:3"
+},
+{
+"start_ref": "02007015",
+"start_ref_usfm": "EXO 7:15",
+"end_ref": "02007015",
+"end_ref_usfm": "EXO 7:15"
+},
+{
+"start_ref": "04021006",
+"start_ref_usfm": "NUM 21:6",
+"end_ref": "04021006",
+"end_ref_usfm": "NUM 21:6"
+},
+{
+"start_ref": "04021007",
+"start_ref_usfm": "NUM 21:7",
+"end_ref": "04021007",
+"end_ref_usfm": "NUM 21:7"
+},
+{
+"start_ref": "04021009",
+"start_ref_usfm": "NUM 21:9",
+"end_ref": "04021009",
+"end_ref_usfm": "NUM 21:9"
+},
+{
+"start_ref": "05008015",
+"start_ref_usfm": "DEU 8:15",
+"end_ref": "05008015",
+"end_ref_usfm": "DEU 8:15"
+},
+{
+"start_ref": "12018004",
+"start_ref_usfm": "2KI 18:4",
+"end_ref": "12018004",
+"end_ref_usfm": "2KI 18:4"
+},
+{
+"start_ref": "18026013",
+"start_ref_usfm": "JOB 26:13",
+"end_ref": "18026013",
+"end_ref_usfm": "JOB 26:13"
+},
+{
+"start_ref": "19058005",
+"start_ref_usfm": "PSA 58:5",
+"end_ref": "19058005",
+"end_ref_usfm": "PSA 58:5"
+},
+{
+"start_ref": "19140004",
+"start_ref_usfm": "PSA 140:4",
+"end_ref": "19140004",
+"end_ref_usfm": "PSA 140:4"
+},
+{
+"start_ref": "20023032",
+"start_ref_usfm": "PRO 23:32",
+"end_ref": "20023032",
+"end_ref_usfm": "PRO 23:32"
+},
+{
+"start_ref": "20030019",
+"start_ref_usfm": "PRO 30:19",
+"end_ref": "20030019",
+"end_ref_usfm": "PRO 30:19"
+},
+{
+"start_ref": "21010008",
+"start_ref_usfm": "ECC 10:8",
+"end_ref": "21010008",
+"end_ref_usfm": "ECC 10:8"
+},
+{
+"start_ref": "21010011",
+"start_ref_usfm": "ECC 10:11",
+"end_ref": "21010011",
+"end_ref_usfm": "ECC 10:11"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "23027001",
+"start_ref_usfm": "ISA 27:1",
+"end_ref": "23027001",
+"end_ref_usfm": "ISA 27:1"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+},
+{
+"start_ref": "24008017",
+"start_ref_usfm": "JER 8:17",
+"end_ref": "24008017",
+"end_ref_usfm": "JER 8:17"
+},
+{
+"start_ref": "24046022",
+"start_ref_usfm": "JER 46:22",
+"end_ref": "24046022",
+"end_ref_usfm": "JER 46:22"
+},
+{
+"start_ref": "30005019",
+"start_ref_usfm": "AMO 5:19",
+"end_ref": "30005019",
+"end_ref_usfm": "AMO 5:19"
+},
+{
+"start_ref": "30009003",
+"start_ref_usfm": "AMO 9:3",
+"end_ref": "30009003",
+"end_ref_usfm": "AMO 9:3"
+},
+{
+"start_ref": "33007017",
+"start_ref_usfm": "MIC 7:17",
+"end_ref": "33007017",
+"end_ref_usfm": "MIC 7:17"
+},
+{
+"start_ref": "02007009",
+"start_ref_usfm": "EXO 7:9",
+"end_ref": "02007009",
+"end_ref_usfm": "EXO 7:9"
+},
+{
+"start_ref": "02007010",
+"start_ref_usfm": "EXO 7:10",
+"end_ref": "02007010",
+"end_ref_usfm": "EXO 7:10"
+},
+{
+"start_ref": "02007012",
+"start_ref_usfm": "EXO 7:12",
+"end_ref": "02007012",
+"end_ref_usfm": "EXO 7:12"
+},
+{
+"start_ref": "05032033",
+"start_ref_usfm": "DEU 32:33",
+"end_ref": "05032033",
+"end_ref_usfm": "DEU 32:33"
+},
+{
+"start_ref": "19091013",
+"start_ref_usfm": "PSA 91:13",
+"end_ref": "19091013",
+"end_ref_usfm": "PSA 91:13"
+},
+{
+"start_ref": "71016010",
+"start_ref_usfm": "WIS 16:10",
+"end_ref": "71016010",
+"end_ref_usfm": "WIS 16:10"
+},
+{
+"start_ref": "71011015",
+"start_ref_usfm": "WIS 11:15",
+"end_ref": "71011015",
+"end_ref_usfm": "WIS 11:15"
+},
+{
+"start_ref": "71017009",
+"start_ref_usfm": "WIS 17:9",
+"end_ref": "71017009",
+"end_ref_usfm": "WIS 17:9"
+},
+{
+"start_ref": "40007010",
+"start_ref_usfm": "MAT 7:10",
+"end_ref": "40007010",
+"end_ref_usfm": "MAT 7:10"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010016",
+"end_ref_usfm": "MAT 10:16"
+},
+{
+"start_ref": "40023033",
+"start_ref_usfm": "MAT 23:33",
+"end_ref": "40023033",
+"end_ref_usfm": "MAT 23:33"
+},
+{
+"start_ref": "41016018",
+"start_ref_usfm": "MRK 16:18",
+"end_ref": "41016018",
+"end_ref_usfm": "MRK 16:18"
+},
+{
+"start_ref": "42010019",
+"start_ref_usfm": "LUK 10:19",
+"end_ref": "42010019",
+"end_ref_usfm": "LUK 10:19"
+},
+{
+"start_ref": "42011011",
+"start_ref_usfm": "LUK 11:11",
+"end_ref": "42011011",
+"end_ref_usfm": "LUK 11:11"
+},
+{
+"start_ref": "43003014",
+"start_ref_usfm": "JHN 3:14",
+"end_ref": "43003014",
+"end_ref_usfm": "JHN 3:14"
+},
+{
+"start_ref": "46010009",
+"start_ref_usfm": "1CO 10:9",
+"end_ref": "46010009",
+"end_ref_usfm": "1CO 10:9"
+},
+{
+"start_ref": "47011003",
+"start_ref_usfm": "2CO 11:3",
+"end_ref": "47011003",
+"end_ref_usfm": "2CO 11:3"
+},
+{
+"start_ref": "66009019",
+"start_ref_usfm": "REV 9:19",
+"end_ref": "66009019",
+"end_ref_usfm": "REV 9:19"
+},
+{
+"start_ref": "66012009",
+"start_ref_usfm": "REV 12:9",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+},
+{
+"start_ref": "66012014",
+"start_ref_usfm": "REV 12:14",
+"end_ref": "66012014",
+"end_ref_usfm": "REV 12:14"
+},
+{
+"start_ref": "66012015",
+"start_ref_usfm": "REV 12:15",
+"end_ref": "66012015",
+"end_ref_usfm": "REV 12:15"
+},
+{
+"start_ref": "66020002",
+"start_ref_usfm": "REV 20:2",
+"end_ref": "66020002",
+"end_ref_usfm": "REV 20:2"
+},
+{
+"start_ref": "71016005",
+"start_ref_usfm": "WIS 16:5",
+"end_ref": "71016005",
+"end_ref_usfm": "WIS 16:5"
+},
+{
+"start_ref": "72021002",
+"start_ref_usfm": "SIR 21:2",
+"end_ref": "72021002",
+"end_ref_usfm": "SIR 21:2"
+},
+{
+"start_ref": "72025015",
+"start_ref_usfm": "SIR 25:15",
+"end_ref": "72025015",
+"end_ref_usfm": "SIR 25:15"
+},
+{
+"start_ref": "02007000",
+"start_ref_usfm": "EXO 7:0",
+"end_ref": "02007000",
+"end_ref_usfm": "EXO 7:0"
+},
+{
+"start_ref": "26029003",
+"start_ref_usfm": "EZK 29:3",
+"end_ref": "26029003",
+"end_ref_usfm": "EZK 29:3"
+},
+{
+"start_ref": "23034015",
+"start_ref_usfm": "ISA 34:15",
+"end_ref": "23034015",
+"end_ref_usfm": "ISA 34:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.10",
+"reference_id": "FAUNA:4.10",
+"version": "1.0.4",
+"title": "標題：蝰蛇（viper）",
+"media_type": "Text",
+"index_reference": "4.10",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.10\"><span class=\"thlex-key\">4.10</span> 標題：蝰蛇（viper）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：אֶפְעֶה</span> <span class=\"thlex-translit\">(音譯：’ef‘eh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job20:16\">JOB 20:16</a>, <a href=\"https://ref.ly/Isa30:6\">ISA 30:6</a>, <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：שָׂרָף</span> <span class=\"thlex-translit\">(音譯：saraf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num21:6\">NUM 21:6</a>, <a href=\"https://ref.ly/Num21:8\">NUM 21:8</a>, <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa30:6\">ISA 30:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來：שְׁפִיפֹן</span> <span class=\"thlex-translit\">(音譯：shefifon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἔχιδνα, ἔχις</span> <span class=\"thlex-translit\">(音譯：echidna, echis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:7\">MAT 3:7</a>, <a href=\"https://ref.ly/Matt12:34\">MAT 12:34</a>, <a href=\"https://ref.ly/Matt23:33\">MAT 23:33</a>, <a href=\"https://ref.ly/Mark3:7\">LUK 3:7</a>, <a href=\"https://ref.ly/John28:3\">ACT 28:3</a>, <a href=\"https://ref.ly/Wis39:30\">SIR 39:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0891_viper.jpg\" alt=\"WEB-0891_viper\"></figure>以色列的很多蛇類都屬於蝰蛇科。根據上下文，我們可以在一兩處經文識別出具體的蛇類。另外，不同的希伯來文詞語也可能是指同一種特定的蛇類。儘管將不同的詞語對應同一種蛇類是基於謹慎的推理，但很大程度上仍屬猜測。</p>\n<p>以色列最常見的蝰蛇是巴勒斯坦蝰蛇（學名<em>Vipera palaestina</em> ）、地毯紋蝰蛇（學名<em>Echis coloratus</em> ）、沙蝰蛇（學名<em>Cerastes vipera</em> ）和角蝰蛇（學名<em>Cerastes cerastes</em> ）。巴勒斯坦蝰蛇是這些蝰蛇中體型最大的，牠們生活在各式各樣的棲息地，從北部的森林到南部曠野邊緣都有牠們的蹤跡。由於這些地區人口最稠密，因此這種蛇咬傷人的可能性比其他蛇類都大。其他三種蝰蛇生活在曠野地區，但棲息地略有不同。沙蝰蛇和角蝰蛇生活在沙地，而地毯紋蝰蛇生活在碎石地帶和岩石之間。這種蛇經常偽裝在乾枯的樹葉中。</p>\n<p>沙漠蝰蛇在沙地爬行時，無法按正常的方式移動，所以採取一種稱為「側行」（sidewinding）的運動方式；即把盤曲的身子側移到頭部前方的位置，再將頭和身體前部盡可能向前拋遠，然後落回到沙子上，如此反覆。沙漠蝰蛇重複完成這個動作的速度很快，因此牠在沙子上作對角移動的速度頗為驚人，儘管比不上正常爬行的速度。沙漠蝰蛇在沙子上留下的平行、細長的S形痕跡似乎是斷開的，看起來就像是一連串的跳躍。一般認為，正是因著這種運動方式，聖經作者把這些蛇稱為「會飛的」蛇。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>蝰蛇和其他蛇類的區別，主要在於牠們會直接生出小蛇。雌蛇會把卵先保存在體內一個特殊的囊內，當卵孵化時，小蛇就會從母蛇的體內出來。較大的蝰蛇一次產出的幼蛇多達60條，較小的沙蝰蛇一次生產的數目較少，約12到15條。這就是施洗約翰所說的「毒蛇的孽種」。</p>\n<p>蝰蛇的長尖牙長在口腔前部。這些尖牙在嘴閉合時會向後折疊。蝰蛇在攻擊時，必須把嘴張得很大，才能把毒牙咬進目標位置。</p>\n<p>在聖經時期的以色列和周圍的大部分地區（從西非到南亞和中亞的一條寬闊地帶），地毯紋蝰蛇（也稱為鋸鱗蝰蛇）非常多。這種蛇很可能就是<em>saraf</em> ，名稱源於一個意為「燃燒某物」的謂語動詞，指人被牠的毒牙咬傷後產生的灼燒感。</p>\n<p>地毯紋蝰蛇有兩種，但差異很小。在以色列和西奈半島，比較常見的是一種紅棕色的蛇，腹部呈灰白色。這種蛇的背部有一排白色的斑點，成對綴連排列，一直延伸到身體後部，形成極好的偽裝。體長可以達到80厘米（32英吋），與大多數典型的蝰蛇相比，這種蛇的頭較小，軀幹也比較細。地毯紋蝰蛇很容易被激怒，攻擊性很強。牠主要在白天活動，因為相比於很多其他蛇類，牠能夠承受更高的溫度。地毯紋蝰蛇生活在沙漠和草原地區，以跳鼠、老鼠和鼴鼠為食。像大多數蝰蛇一樣，牠的毒液有劇毒，會同時作用於血管和血球，但毒性發作較慢。</p>\n<p>在堅實的表面上，地毯紋蝰蛇像其他蛇類一樣蜿蜒爬行，但在沙地上，則以側行的方式移動。</p>\n<p>角蝰蛇是以色列和西奈半島兩種常見的沙蝰蛇之一。顧名思義，這些蝰蛇生活在沙地。憑藉鱗片的排佈，角蝰蛇可以通過小幅側行動作把自己埋在沙子裡，只露出眼睛和鼻孔，以此姿態潛伏著等待獵物，獵物主要是跳鼠和其他小型囓齒動物。當沙子太熱的時候，角蝰蛇會把自己埋得更深些，或者躲到石頭的陰影處。</p>\n<p>角蝰蛇的兩隻眼睛上方各有一片格外細長的鱗片，也就是「角」。角蝰蛇呈斑駁的淺棕色，以側行的方式移動。頭部寬闊，成年蛇的體長約75厘米（30英吋）。</p>\n<p>沙蝰蛇的習性和角蝰蛇相似，但體型略小，以色列的沙蝰蛇體長僅35厘米（14英吋）左右。沙蝰蛇看起來很粗壯，脖子和尾巴很細，但軀幹很粗，呈均勻的淺沙色。</p>\n<p>巴勒斯坦蝰蛇比中東的其他蝰蛇要大得多。成年蛇的體長約1.25米（4英呎），粗約100毫米（4英吋）。這種蛇花紋美麗，大體上呈淺棕色，背部中間有一條帶白邊的深棕色鋸齒狀條紋。鋸齒狀條紋的兩側還有帶白邊的深棕色斑點。頭部有條紋。</p>\n<p>巴勒斯坦蝰蛇以老鼠、蟾蜍和青蛙為食，常見於人類居住地附近，生活在石頭下或草叢裡。前文曾提到，這種蛇咬人最多。希臘文<em>echidna</em> 指的可能就是這種蛇。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義或象徵意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>在聖經中，蝰蛇和其他蛇類的基本含意相同（參上文）。除此之外，雌蝰蛇會把幼蛇帶在體內，然後一次生出大量成型的幼蛇，因此人們把蝰蛇和生育能力聯繫在一起。這也是蝰蛇在埃及和迦南宗教體系中的象徵意義。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>儘管蝰蛇廣泛分佈在世界各地，但不是所有的語言都將蝰蛇和其他蛇類作了區分。如前文所述，地毯紋蝰蛇分佈在非洲中部的西海岸到東海岸，以及中亞和南亞。在這些地區，這種蛇的名稱可以用在所有提到蝰蛇的經文裡。在非洲南部，鼓腹噝蝰（學名<em>Bitis arietans</em> ）可能是最佳翻譯。</p>\n<p>為了保留希伯來文<em>saraf</em> 和動詞「燃燒某物」之間的關聯，翻譯者常會試著採用「燒人的毒蛇」或「火蛇」這樣的表述。然而，只有當表示「燒」的詞語的意思是「用灼熱的東西造成傷口」時，才可以這樣翻譯。翻譯者不應傳達「使人著火的毒蛇」或「燃燒著的毒蛇」這樣的意思。在多數情況下，最好的譯法就是「有毒的蛇」。</p>\n<p><a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a> ：有些註釋認為該蛇是一種沙蝰蛇，因為沙蝰蛇善於隱藏，馬看不到牠，所以馬蹄就會被咬傷。然而，沙蝰蛇生活在沙地，不太可能伏在「道旁」。因此，這裡更可能是具有完美偽裝的地毯紋蝰蛇。</p>\n<p><a href=\"https://ref.ly/Job20:16\">JOB 20:16</a> ：短語「毒蛇的舌頭」，表明希伯來人相信，蛇的毒液是由舌頭產生的。在翻譯時，應該盡量體現希伯來人的這種觀念。從上下文可以清楚地看出，以邪惡手段獲取的利益被比作蛇的毒汁，因此可以考慮如下措辭：</p>\n<p>他吸飲的是眼鏡蛇的毒汁，</p>\n<p>他所得的必像蝰蛇的毒舌毀滅他。</p>\n<p><a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a> ：這是一節難解的經文，解經家的解釋也各不相同。希伯來文本直譯作：</p>\n<p>他們孵眼鏡蛇蛋，結蜘蛛網，</p>\n<p>凡吃這蛋的必死，</p>\n<p>一旦被打破，就孵出蝰蛇來。</p>\n<p>解經的關鍵是在第一個被動分句的主語上。被壓碎、擠壓或打破的對象是誰，或是什麼東西呢？許多解經家認為主語是「蛋」，但也有一些人認為是「惡人」（比較<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> ，英文意為：「如果它們中的一個被壓碎，就孵出蝰蛇來」）。如果按照第一種解釋，這句詩文讀作：</p>\n<p>他們孵眼鏡蛇蛋，結蜘蛛網。</p>\n<p>凡吃這蛋的必死。</p>\n<p>蛋一壓碎，就孵出蝰蛇來。</p>\n<p>然而，許多解經家指出，蝰蛇從眼鏡蛇蛋裡孵出的說法是沒有道理的。這句詩也就根本沒有提出任何新的要點。然而，按照第二種解釋，經文將讀作：</p>\n<p>他們孵眼鏡蛇蛋，結蜘蛛網；</p>\n<p>凡吃這蛋的必死；</p>\n<p>他們被擠壓，就孵出蝰蛇來。</p>\n<p>換句話說，你若在他們惡行的結果上有份就必死；但是如果抵擋他們，你也會有危險。第二種譯法的畫面是：人擠壓一隻將要下仔的雌蛇，牠體內的幼蛇就會出來。有一句古老的阿拉伯諺語說：「擠壓母蛇的，必被牠的七個兒子咬。」這句希伯來詩文可能與這句阿拉伯諺語有著共同的起源。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18020016",
+"start_ref_usfm": "JOB 20:16",
+"end_ref": "18020016",
+"end_ref_usfm": "JOB 20:16"
+},
+{
+"start_ref": "23030006",
+"start_ref_usfm": "ISA 30:6",
+"end_ref": "23030006",
+"end_ref_usfm": "ISA 30:6"
+},
+{
+"start_ref": "23059005",
+"start_ref_usfm": "ISA 59:5",
+"end_ref": "23059005",
+"end_ref_usfm": "ISA 59:5"
+},
+{
+"start_ref": "04021006",
+"start_ref_usfm": "NUM 21:6",
+"end_ref": "04021006",
+"end_ref_usfm": "NUM 21:6"
+},
+{
+"start_ref": "04021008",
+"start_ref_usfm": "NUM 21:8",
+"end_ref": "04021008",
+"end_ref_usfm": "NUM 21:8"
+},
+{
+"start_ref": "05008015",
+"start_ref_usfm": "DEU 8:15",
+"end_ref": "05008015",
+"end_ref_usfm": "DEU 8:15"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "01049017",
+"start_ref_usfm": "GEN 49:17",
+"end_ref": "01049017",
+"end_ref_usfm": "GEN 49:17"
+},
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "40012034",
+"start_ref_usfm": "MAT 12:34",
+"end_ref": "40012034",
+"end_ref_usfm": "MAT 12:34"
+},
+{
+"start_ref": "40023033",
+"start_ref_usfm": "MAT 23:33",
+"end_ref": "40023033",
+"end_ref_usfm": "MAT 23:33"
+},
+{
+"start_ref": "42003007",
+"start_ref_usfm": "LUK 3:7",
+"end_ref": "42003007",
+"end_ref_usfm": "LUK 3:7"
+},
+{
+"start_ref": "44028003",
+"start_ref_usfm": "ACT 28:3",
+"end_ref": "44028003",
+"end_ref_usfm": "ACT 28:3"
+},
+{
+"start_ref": "72039030",
+"start_ref_usfm": "SIR 39:30",
+"end_ref": "72039030",
+"end_ref_usfm": "SIR 39:30"
+}
+],
+"resource": []
+}
+}
+]

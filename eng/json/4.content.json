@@ -1,0 +1,1028 @@
+[
+{
+"content_id": "FAUNA:4",
+"reference_id": "FAUNA:4",
+"version": "1.0.4",
+"title": "Snakes and lizards",
+"media_type": "Text",
+"index_reference": "4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4\"><span class=\"thlex-key\">4</span> Snakes and lizards</h1><nav class=\"thlex-index\"><ul>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.1\" href=\"#FAUNA:4.1\">4.1 Introduction</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.2\" href=\"#FAUNA:4.2\">4.2 Reptiles (crawling and creeping things)</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.3\" href=\"#FAUNA:4.3\">4.3 Chameleon</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.4\" href=\"#FAUNA:4.4\">4.4 Cobra</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.5\" href=\"#FAUNA:4.5\">4.5 Gecko</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.6\" href=\"#FAUNA:4.6\">4.6 Lizard</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.7\" href=\"#FAUNA:4.7\">4.7 Monitor</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.8\" href=\"#FAUNA:4.8\">4.8 Skink</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.9\" href=\"#FAUNA:4.9\">4.9 Snake</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.10\" href=\"#FAUNA:4.10\">4.10 Viper</a></li>\n</ul></nav>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.1",
+"reference_id": "FAUNA:4.1",
+"version": "1.0.4",
+"title": "Introduction to snakes and lizards",
+"media_type": "Text",
+"index_reference": "4.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.1\"><span class=\"thlex-key\">4.1</span> Introduction to snakes and lizards</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p><strong>A. Snakes</strong></p>\n<p>There are at least forty snake species found in the Middle East and adjacent areas of Africa. Some are small, being only about 15 centimeters (6 inches) long, while others may reach 2 meters (6 feet) in length. They live in a variety of habitats, from desert sand to rocky wadis, thick undergrowth, and river banks, with different species preferring their own type of environment. The snakes of this region include representative species of all of the major snake families except the rattlesnake.</p>\n<p>Many of these Middle Eastern snake species are non-poisonous, but the biblical writers, in common with many other peoples around the world, had the traditional belief that all were poisonous. In fact this region has a higher proportion of poisonous species than most other areas of the world. Like many other people too, the Jews and early Christians had a great fear of snakes of all kinds. Thus there is no reference in the Bible to harmless snakes.</p>\n<p>It is unlikely that the biblical writers would have differentiated between many of the individual species. It is more likely that they only made a distinction between the types of snake that were most common. There were, of course, also general words that included all types.</p>\n<p>Some scholars claim that the ancient biblical writers believed that when a snake bit someone, the snake’s tongue stung him at the same time, and that it was this sting that poisoned the man. Others, however, believe that while the poison was certainly associated with the snake’s tongue, the verb “sting” was in fact just the Hebrew way of referring to the rather special way a snake bites. This would be supported by the fact that in many languages around the world the word for a snake’s bite is different from the usual word “bite&quot;. In these languages the words used are equivalent to “peck&quot;, “stab&quot;, “burn&quot;, “sting&quot;, and such like.</p>\n<p>In fact, as most readers will know, snake poison is produced not by the tongue but by glands situated between the snake’s mouth and its eyes, and the poison is conveyed through tube-like vessels to the fangs, which are hollow in some species and deeply grooved in others. When the snake bites, muscles force the liquid poison from the glands into the fangs, thus injecting the poison into the victim.</p>\n<p>All snakes are carnivorous, with some small species eating insects and worms, while the rest may eat frogs, mice, birds and bird eggs, lizards, and other snakes. Without exception this food is swallowed whole. The snake is able to dislocate its jaw, making it possible to open the jaw very wide, and the muscles and skin around the neck are flexible enough to allow the prey to pass. However, snakes eat only very seldom, and some larger snakes are known to have gone many months without food. Even those that eat more frequently do so only every three or four days.</p>\n<p>All snakes lay eggs, but in the case of vipers the eggs are kept inside the female until they hatch. There are thus snakes that appear to give birth to live young, as well as those that lay clutches of eggs.</p>\n<p>Snake charming has a very long history and was well known in Bible times. The snake usually chosen for this purpose was the Egyptian cobra, which is a large snake with the ability to spread its neck into a flat hood when it adopts the upright threatening posture typical of the cobra family. It also has striking markings on the hood. The charmer uses a flute-like musical instrument that he plays. The snake begins to emerge from a basket or clay pot and is then hypnotized by the charmer, and begins to mimic the charmer’s movements. It was believed that it was the charmer’s magical music that produced this effect. Modern experiments have shown that the cobra is actually deaf but is sensitive to the vibrations produced by the music. However, it is not the music alone which produces the trance, but the swaying motions that the charmer makes with the flute.</p>\n<p>The various Hebrew words for snake all contain sounds similar to the puffs and hisses made by snakes. This makes it difficult to associate a name with a particular species. However, with some of the names that occur repeatedly, the contexts help somewhat to make a tentative identification of the type of snake.</p>\n<p><strong>B. Lizards</strong></p>\n<p>There are at least forty species and subspecies of lizard found in the land of Israel, and the Hebrew words, rather than differentiating between them all, seem to make distinctions only between the more obvious main groups of species. Most of these names occur only once, in the list of unclean foods in Leviticus, so identification is only very speculative. In spite of this, however, there is some agreement among scholars about the types of lizard mentioned. This is because the Hebrew words are fairly descriptive, and one can identify a type of lizard with the descriptive name in many cases.</p>\n<p>Rather than trying to list the different kinds, <abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr> sums up the whole list in as “lizards&quot;. As a last resort translators can use this option, but since the Hebrew list is specific, an attempt should first be made to find specific equivalents in the translation.</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.2",
+"reference_id": "FAUNA:4.2",
+"version": "1.0.4",
+"title": "Reptiles (crawling and creeping things)",
+"media_type": "Text",
+"index_reference": "4.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.2\"><span class=\"thlex-key\">4.2</span> Reptiles (crawling and creeping things)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">זחל</span> <span class=\"thlex-translit\">(zachal)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:24\">DEU 32:24</a>, <a href=\"https://ref.ly/Mic7:17\">MIC 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">רֶמֶשׂ</span> <span class=\"thlex-translit\">(remes)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:24\">GEN 1:24</a>, <a href=\"https://ref.ly/Gen1:25\">GEN 1:25</a>, <a href=\"https://ref.ly/Gen1:26\">GEN 1:26</a>, <a href=\"https://ref.ly/Gen6:7\">GEN 6:7</a>, <a href=\"https://ref.ly/Gen6:20\">GEN 6:20</a>, <a href=\"https://ref.ly/Gen7:14\">GEN 7:14</a>, <a href=\"https://ref.ly/Gen7:23\">GEN 7:23</a>, <a href=\"https://ref.ly/Gen8:19\">GEN 8:19</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/Ps104:25\">PSA 104:25</a>, <a href=\"https://ref.ly/Ps148:10\">PSA 148:10</a>, <a href=\"https://ref.ly/Ezek8:10\">EZK 8:10</a>, <a href=\"https://ref.ly/Ezek38:20\">EZK 38:20</a>, <a href=\"https://ref.ly/Hos2:20\">HOS 2:20</a>, <a href=\"https://ref.ly/Hab1:14\">HAB 1:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֶׁרֶץ</span> <span class=\"thlex-translit\">(sherets)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen7:21\">GEN 7:21</a>, <a href=\"https://ref.ly/Lev5:2\">LEV 5:2</a>, <a href=\"https://ref.ly/Lev11:10\">LEV 11:10</a>, <a href=\"https://ref.ly/Lev11:20\">LEV 11:20</a>, <a href=\"https://ref.ly/Lev11:21\">LEV 11:21</a>, <a href=\"https://ref.ly/Lev11:23\">LEV 11:23</a>, <a href=\"https://ref.ly/Lev11:29\">LEV 11:29</a>, <a href=\"https://ref.ly/Lev11:31\">LEV 11:31</a>, <a href=\"https://ref.ly/Lev11:41\">LEV 11:41</a>, <a href=\"https://ref.ly/Lev11:42\">LEV 11:42</a>, <a href=\"https://ref.ly/Lev11:43\">LEV 11:43</a>, <a href=\"https://ref.ly/Lev11:44\">LEV 11:44</a>, <a href=\"https://ref.ly/Lev22:5\">LEV 22:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἑρπετόν</span> <span class=\"thlex-translit\">(herpeton)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John10:12\">ACT 10:12</a>, <a href=\"https://ref.ly/John11:6\">ACT 11:6</a>, <a href=\"https://ref.ly/Acts1:23\">ROM 1:23</a>, <a href=\"https://ref.ly/Heb3:7\">JAS 3:7</a>, <a href=\"https://ref.ly/EsthGr11:15\">WIS 11:15</a>, <a href=\"https://ref.ly/EsthGr17:9\">WIS 17:9</a>, <a href=\"https://ref.ly/Wis10:11\">SIR 10:11</a>, <a href=\"https://ref.ly/Bar1:19\">LJE 1:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">reptilis</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:53\">2ES 6:53</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew words <em>zachal</em> and <em>remes</em> literally mean “creeping [things]” or “crawling [things]&quot;, which is the Hebrew way of referring to small unclean creatures, reptiles in particular. The Hebrew word <em>sherets</em> literally means “swarming things” and refers to mammals and reptiles that move close to the ground in groups or swarms. In Israel some vipers give birth to live offspring that live near each other until full maturity. They congregate near each other again at mating time. These vipers are included in the term <em>sherets</em>. The Greek word <em>herpeton</em> is also a general word for reptile; it includes snakes and lizards. All of the Hebrew, Greek, and Latin words usually exclude fish, the one possible exception being <a href=\"https://ref.ly/Gen1:20\">GEN 1:20</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew words carry the connotation of uncleanness.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In languages which have a word meaning “reptile&quot;, this will fit most contexts. In languages which do not, phrases such as “snakes and lizards&quot;, “wriggling things&quot;, and so forth could be used.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032024",
+"start_ref_usfm": "DEU 32:24",
+"end_ref": "05032024",
+"end_ref_usfm": "DEU 32:24"
+},
+{
+"start_ref": "33007017",
+"start_ref_usfm": "MIC 7:17",
+"end_ref": "33007017",
+"end_ref_usfm": "MIC 7:17"
+},
+{
+"start_ref": "01001024",
+"start_ref_usfm": "GEN 1:24",
+"end_ref": "01001024",
+"end_ref_usfm": "GEN 1:24"
+},
+{
+"start_ref": "01001025",
+"start_ref_usfm": "GEN 1:25",
+"end_ref": "01001025",
+"end_ref_usfm": "GEN 1:25"
+},
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001026",
+"end_ref_usfm": "GEN 1:26"
+},
+{
+"start_ref": "01006007",
+"start_ref_usfm": "GEN 6:7",
+"end_ref": "01006007",
+"end_ref_usfm": "GEN 6:7"
+},
+{
+"start_ref": "01006020",
+"start_ref_usfm": "GEN 6:20",
+"end_ref": "01006020",
+"end_ref_usfm": "GEN 6:20"
+},
+{
+"start_ref": "01007014",
+"start_ref_usfm": "GEN 7:14",
+"end_ref": "01007014",
+"end_ref_usfm": "GEN 7:14"
+},
+{
+"start_ref": "01007023",
+"start_ref_usfm": "GEN 7:23",
+"end_ref": "01007023",
+"end_ref_usfm": "GEN 7:23"
+},
+{
+"start_ref": "01008019",
+"start_ref_usfm": "GEN 8:19",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "19104025",
+"start_ref_usfm": "PSA 104:25",
+"end_ref": "19104025",
+"end_ref_usfm": "PSA 104:25"
+},
+{
+"start_ref": "19148010",
+"start_ref_usfm": "PSA 148:10",
+"end_ref": "19148010",
+"end_ref_usfm": "PSA 148:10"
+},
+{
+"start_ref": "26008010",
+"start_ref_usfm": "EZK 8:10",
+"end_ref": "26008010",
+"end_ref_usfm": "EZK 8:10"
+},
+{
+"start_ref": "26038020",
+"start_ref_usfm": "EZK 38:20",
+"end_ref": "26038020",
+"end_ref_usfm": "EZK 38:20"
+},
+{
+"start_ref": "28002020",
+"start_ref_usfm": "HOS 2:20",
+"end_ref": "28002020",
+"end_ref_usfm": "HOS 2:20"
+},
+{
+"start_ref": "35001014",
+"start_ref_usfm": "HAB 1:14",
+"end_ref": "35001014",
+"end_ref_usfm": "HAB 1:14"
+},
+{
+"start_ref": "01007021",
+"start_ref_usfm": "GEN 7:21",
+"end_ref": "01007021",
+"end_ref_usfm": "GEN 7:21"
+},
+{
+"start_ref": "03005002",
+"start_ref_usfm": "LEV 5:2",
+"end_ref": "03005002",
+"end_ref_usfm": "LEV 5:2"
+},
+{
+"start_ref": "03011010",
+"start_ref_usfm": "LEV 11:10",
+"end_ref": "03011010",
+"end_ref_usfm": "LEV 11:10"
+},
+{
+"start_ref": "03011020",
+"start_ref_usfm": "LEV 11:20",
+"end_ref": "03011020",
+"end_ref_usfm": "LEV 11:20"
+},
+{
+"start_ref": "03011021",
+"start_ref_usfm": "LEV 11:21",
+"end_ref": "03011021",
+"end_ref_usfm": "LEV 11:21"
+},
+{
+"start_ref": "03011023",
+"start_ref_usfm": "LEV 11:23",
+"end_ref": "03011023",
+"end_ref_usfm": "LEV 11:23"
+},
+{
+"start_ref": "03011029",
+"start_ref_usfm": "LEV 11:29",
+"end_ref": "03011029",
+"end_ref_usfm": "LEV 11:29"
+},
+{
+"start_ref": "03011031",
+"start_ref_usfm": "LEV 11:31",
+"end_ref": "03011031",
+"end_ref_usfm": "LEV 11:31"
+},
+{
+"start_ref": "03011041",
+"start_ref_usfm": "LEV 11:41",
+"end_ref": "03011041",
+"end_ref_usfm": "LEV 11:41"
+},
+{
+"start_ref": "03011042",
+"start_ref_usfm": "LEV 11:42",
+"end_ref": "03011042",
+"end_ref_usfm": "LEV 11:42"
+},
+{
+"start_ref": "03011043",
+"start_ref_usfm": "LEV 11:43",
+"end_ref": "03011043",
+"end_ref_usfm": "LEV 11:43"
+},
+{
+"start_ref": "03011044",
+"start_ref_usfm": "LEV 11:44",
+"end_ref": "03011044",
+"end_ref_usfm": "LEV 11:44"
+},
+{
+"start_ref": "03022005",
+"start_ref_usfm": "LEV 22:5",
+"end_ref": "03022005",
+"end_ref_usfm": "LEV 22:5"
+},
+{
+"start_ref": "44010012",
+"start_ref_usfm": "ACT 10:12",
+"end_ref": "44010012",
+"end_ref_usfm": "ACT 10:12"
+},
+{
+"start_ref": "44011006",
+"start_ref_usfm": "ACT 11:6",
+"end_ref": "44011006",
+"end_ref_usfm": "ACT 11:6"
+},
+{
+"start_ref": "45001023",
+"start_ref_usfm": "ROM 1:23",
+"end_ref": "45001023",
+"end_ref_usfm": "ROM 1:23"
+},
+{
+"start_ref": "59003007",
+"start_ref_usfm": "JAS 3:7",
+"end_ref": "59003007",
+"end_ref_usfm": "JAS 3:7"
+},
+{
+"start_ref": "71011015",
+"start_ref_usfm": "WIS 11:15",
+"end_ref": "71011015",
+"end_ref_usfm": "WIS 11:15"
+},
+{
+"start_ref": "71017009",
+"start_ref_usfm": "WIS 17:9",
+"end_ref": "71017009",
+"end_ref_usfm": "WIS 17:9"
+},
+{
+"start_ref": "72010011",
+"start_ref_usfm": "SIR 10:11",
+"end_ref": "72010011",
+"end_ref_usfm": "SIR 10:11"
+},
+{
+"start_ref": "74001019",
+"start_ref_usfm": "LJE 1:19",
+"end_ref": "74001019",
+"end_ref_usfm": "LJE 1:19"
+},
+{
+"start_ref": "83006053",
+"start_ref_usfm": "2ES 6:53",
+"end_ref": "83006053",
+"end_ref_usfm": "2ES 6:53"
+},
+{
+"start_ref": "01001020",
+"start_ref_usfm": "GEN 1:20",
+"end_ref": "01001020",
+"end_ref_usfm": "GEN 1:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.3",
+"reference_id": "FAUNA:4.3",
+"version": "1.0.4",
+"title": "Chameleon",
+"media_type": "Text",
+"index_reference": "4.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.3\"><span class=\"thlex-key\">4.3</span> Chameleon</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:&quot;</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">תִּנְשֶׁמֶת</span> <span class=\"thlex-translit\">(tinshemeth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0123_chameleon.jpg\" alt=\"WEB-0123_chameleon\"></figure>This word appears in the list of unclean birds as well as in the list of lizards, and it seems quite clear that an owl and a reptile had the same name. Giving quite different creatures the same name is a common phenomenon in many languages. For instance, in English the word “cob” is used for a male swan as well as for a type of riding horse, and “sable” is the name of a small carnivorous animal as well the name of a large antelope; in Dutch “duiker” is the name of both the cormorant (a bird) and a type of antelope.</p>\n<p>The Hebrew name <em>tinshemeth</em> is derived from a verb that means “to pant or to breathe loudly&quot;. This makes it very likely that the reference is to the chameleon. When annoyed, hurt, or in danger, the chameleon turns black, inflates its large lungs, making itself look bigger, and then opens its mouth, puffing and hissing like a snake. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.17.8\" href=\"#FAUNA:3.17.8\">3.17.8 Tinshemeth</a>, a type of owl.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Chameleon <em>Chamaeleo chamaeleon</em> is a very interesting lizard. It lives in vegetation. It is basically green but can change color to match its environment. It can become brown, pale yellow, or gray, and can vary the shade at different points of its body so as to become mottled or to have patches of dark and light color. This gives it good camouflage in vegetation. It is slow moving, often moving only one limb at a time in a series of wavering movements, mimicking the movement of twigs in the breeze. It has opposed claws on each foot, enabling it to hold very tight and to walk along thin twigs.</p>\n<p>It has small scales and many small wart-like lumps on its tough skin. It has a row of pointed scales down its spine. Some species of chameleon have horn-like protrusions on their heads and faces.</p>\n<p>The chameleon’s eyes are unique. It has an eyelid that completely covers the eye except for a small hole for the chameleon to see through. The chameleon can move this aperture around with each eyelid working independently of the other, and this enables it to look in two directions at once. It feeds on insects by catching them with its long, sticky, elastic tongue, which it flicks at the prey. The chameleon is also able to use its tail to wrap around twigs and other things to support itself when the wind blows or when climbing at a steep angle. It can hang by this tail from a twig or small branch and often uses this technique to move from a higher branch to a lower one.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>It is listed as an unclean animal.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Chameleons are found all over Africa except in desert areas, and in some parts of tropical Asia. Where chameleons are not known, it may be necessary to borrow a word from the dominant language of the area, or from Hebrew, as <abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> has done. A phrase such as “slow lizard” or “puffer lizard” is another option.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.4",
+"reference_id": "FAUNA:4.4",
+"version": "1.0.4",
+"title": "Cobra",
+"media_type": "Text",
+"index_reference": "4.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.4\"><span class=\"thlex-key\">4.4</span> Cobra</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פֶּתֶן</span> <span class=\"thlex-translit\">(pethen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a>, <a href=\"https://ref.ly/Job20:14\">JOB 20:14</a>, <a href=\"https://ref.ly/Job20:16\">JOB 20:16</a>, <a href=\"https://ref.ly/Ps58:5\">PSA 58:5</a>, <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a>, <a href=\"https://ref.ly/Isa11:8\">ISA 11:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צֶפַע, צִפְעוֹנִי</span> <span class=\"thlex-translit\">(tsefa‘, tsif‘oni)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov23:32\">PRO 23:32</a>, <a href=\"https://ref.ly/Isa11:8\">ISA 11:8</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a>, <a href=\"https://ref.ly/Jer8:17\">JER 8:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀσπίς</span> <span class=\"thlex-translit\">(aspis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts3:13\">ROM 3:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0137_cobra.jpg\" alt=\"WEB-0137_cobra\"></figure>There is general agreement among modern scholars that the word <em>pethen</em> refers to the cobra, since the word is closely associated with snake charming, which requires a snake that can raise the front part of its body vertically, something a viper cannot do. The words <em>tsif‘oni</em> and <em>tsefa‘</em> are also probably references to a type of cobra. This can be well supported by the contexts in which the word occurs, in which reference is made to the fact that it lives in holes and lays eggs. These contexts would rule out any of the vipers.</p>\n<p>There is some evidence that <em>pethen</em> was the earlier name for the cobra, and <em>tsefa‘</em> and <em>tsif‘oni</em> were later names. Something similar is the case with English, where “cobra” has been in use only for the last one hundred years, and previously “asp” was used.</p>\n<p>&quot;Adder” is used as the name for some of the subspecies of viper and is probably not the best word to translate these three Hebrew words.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Cobras are characterized by their ability to spread the ribs in their neck area, so as to form a broad flat profile called the hood. This makes the snake look much thicker than it really is. Cobras also have short fixed fangs in the front of their mouths. The cobra that is found in the land of Israel is the Desert Cobra or Walter Innes’s snake (<em>Walterinnesia aegyptia</em>), while the cobra found in Egypt is the Egyptian Cobra <em>Naja haje</em>. The cobra is a large snake, reaching 2 meters (6 feet) in length, and about 50 millimeters (2 inches) in diameter. It is dark brown with a yellowish underside. In some areas where it is found it has broad yellowish bands, which give it its alternative English name, banded cobra. When it rears up and spreads its hood, the hood has a yellowish background, but displays a broad dark brown horizontal stripe.</p>\n<p>Its bite is very poisonous, and it takes quick effect, acting on the nervous system. The cobra feeds on mice, gerbils, birds, bird’s eggs, lizards, frogs, and other snakes. It hunts by following scent trails, which it senses with its tongue. When within range of its prey, it raises its head slowly vertically, and suddenly strikes at the unsuspecting victim. It lives mainly in grassland and where the vegetation is fairly thick. It takes cover in rat holes, holes in eroded banks, hollow trees, under logs, and among exposed roots. It may lay its eggs in any of these sheltered places. In cold weather it coils itself up to preserve its body heat.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The cobra, besides being a symbol of lurking danger, was also closely associated with Egypt. In some poetic passages, therefore, it is a metaphor for the enemies of Israel, Egypt in particular.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Egyptian cobra is found all over Africa, and a local word should not be difficult to find. In South and Southeast Asia a word for the King Cobra <em>Naja hannah</em> or one of the other cobras would be a good equivalent. In areas where these cobras are symbols of good luck and the presence of a deity, the Hebrew symbolism might need to be explained in a footnote. In other parts of the world, if cobras are unknown, the name of a local long poisonous snake of a type different from vipers and adders is a possible choice.</p>\n<p>In passages where snakes are referred to as “stinging&quot;, it is not necessary to use a verb meaning literally “to sting&quot;. This is just the Hebrew way of referring to the bite of a snake. As mentioned in the introduction to this chapter, in many languages the verb used for a snake’s bite is different from the one used to refer to the bite of something else, such as a dog.</p>\n<p><a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>: This verse is poetic and contains a reference to sticks becoming snakes, and snakes producing even more dangerous ones. A literal translation is “Do not rejoice, all you Philistines, that the rod of striking is broken. From the snake root will spring forth a cobra; its fruit will be a flying viper&quot;. The expression “snake root” is a play on words and refers to the “root” of the broken stick and to the snake as the “root” or origin of the cobra. The verse can be restated as:</p>\n<p>Do not rejoice, all you Philistines,</p>\n<p>That the rod that struck you is broken.</p>\n<p>The broken end is a snake.</p>\n<p>The snake will produce a cobra,</p>\n<p>It will produce a poisonous flying viper.</p>\n<p>See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.10\" href=\"#FAUNA:4.10\">4.10 Viper</a> for note on “flying” viper.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032033",
+"start_ref_usfm": "DEU 32:33",
+"end_ref": "05032033",
+"end_ref_usfm": "DEU 32:33"
+},
+{
+"start_ref": "18020014",
+"start_ref_usfm": "JOB 20:14",
+"end_ref": "18020014",
+"end_ref_usfm": "JOB 20:14"
+},
+{
+"start_ref": "18020016",
+"start_ref_usfm": "JOB 20:16",
+"end_ref": "18020016",
+"end_ref_usfm": "JOB 20:16"
+},
+{
+"start_ref": "19058005",
+"start_ref_usfm": "PSA 58:5",
+"end_ref": "19058005",
+"end_ref_usfm": "PSA 58:5"
+},
+{
+"start_ref": "19091013",
+"start_ref_usfm": "PSA 91:13",
+"end_ref": "19091013",
+"end_ref_usfm": "PSA 91:13"
+},
+{
+"start_ref": "23011008",
+"start_ref_usfm": "ISA 11:8",
+"end_ref": "23011008",
+"end_ref_usfm": "ISA 11:8"
+},
+{
+"start_ref": "20023032",
+"start_ref_usfm": "PRO 23:32",
+"end_ref": "20023032",
+"end_ref_usfm": "PRO 23:32"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "23059005",
+"start_ref_usfm": "ISA 59:5",
+"end_ref": "23059005",
+"end_ref_usfm": "ISA 59:5"
+},
+{
+"start_ref": "24008017",
+"start_ref_usfm": "JER 8:17",
+"end_ref": "24008017",
+"end_ref_usfm": "JER 8:17"
+},
+{
+"start_ref": "45003013",
+"start_ref_usfm": "ROM 3:13",
+"end_ref": "45003013",
+"end_ref_usfm": "ROM 3:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.5",
+"reference_id": "FAUNA:4.5",
+"version": "1.0.4",
+"title": "Gecko",
+"media_type": "Text",
+"index_reference": "4.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.5\"><span class=\"thlex-key\">4.5</span> Gecko</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֲנָקָה</span> <span class=\"thlex-translit\">(’anaqah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שְׂמָמִית</span> <span class=\"thlex-translit\">(semamith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov30:28\">PRO 30:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0258_gecko.jpg\" alt=\"WEB-0258_gecko\"></figure>Translations generally agree that <em>’anaqah</em> indicates the gecko. There are many different species of gecko in the land of Israel, ranging from the fairly large Rock Gecko <em>Ptyodactylus hasselquistii</em> to the small Turkish Gecko or Mediterranean Gecko <em>Hemidactylus turcicus</em>, which is only about 10 centimeters (4 inches) long. <em>’Anaqah</em> is probably a general word for all kinds of gecko. The word is related to a verb meaning “to cry out&quot;, and it is this that gives the clue to the identification of the name.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Geckos are the only lizards that call. The name “gecko” is borrowed from the Malay word <em>getjok</em>, which mimics the call of one type of gecko. In many languages the names for the different kinds of gecko also mimic their two syllable calls. For instance, in Thai the giant gecko is called <em>tuk-gae</em> and the house gecko <em>ching-chok</em>.</p>\n<p>Besides their distinctive calls, all geckos are characterized by the knobs on the end of their toes. These pads are covered in microscopic hairs that catch on any slight roughness of the surface and enable the geckos to walk upside down on ceilings and overhangs.</p>\n<p>Geckos feed on ants, moths, beetles, flies, mosquitoes, and other insects. The males often fight, and one may end up with the detached tail of the other in its mouth. This too may be eaten. Some of the larger geckos also eat small lizards and small snakes.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Geckos are listed as unclean. In the context of <a href=\"https://ref.ly/Prov30:28\">PRO 30:28</a> the gecko is a symbol of an insignificant creature that associates freely with royalty.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Geckos are found throughout Africa, the Middle East, southeastern Europe, Asia, and the tropical parts of Australia. In these areas it will not be hard to find a local word. In areas where they are not found, a word borrowed from Hebrew or the dominant language of the area can usually be combined with the word for lizard; for example, “anaka lizard” or “gecko lizard&quot;.</p>\n<p>While <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> has “spider” for <em>semamith</em> at <a href=\"https://ref.ly/Prov30:28\">PRO 30:28</a>, other translations and commentators are unanimous in interpreting this word as “lizard&quot;. It probably is a reference to the house gecko, which is the most common lizard found inside houses. Most modern commentators take the verb to be a passive in this verse, that is, “the lizard, which can be held [or, caught] in the hand.&quot;</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+},
+{
+"start_ref": "20030028",
+"start_ref_usfm": "PRO 30:28",
+"end_ref": "20030028",
+"end_ref_usfm": "PRO 30:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.6",
+"reference_id": "FAUNA:4.6",
+"version": "1.0.4",
+"title": "Lizard",
+"media_type": "Text",
+"index_reference": "4.6",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.6\"><span class=\"thlex-key\">4.6</span> Lizard</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לְטָאָה</span> <span class=\"thlex-translit\">(leta’ah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צָב</span> <span class=\"thlex-translit\">(tsav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:29\">LEV 11:29</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0170_dablizard.jpg\" alt=\"WEB-0170_dablizard\"></figure>There is a reasonably strong consensus among scholars that <em>leta’ah</em> refers to the lacertid and agama lizards, both of which are common and fairly obvious in Israel. The lacertids are soft-skinned lizards that live in close proximity to roads and houses. One of the more colorful is the Syrian Green Lizard <em>Lacerta trilineata</em>, which lives in orchards and woods. The most common of the agamas is the Rainbow Agama <em>Agama stellio</em>, which is very common around houses and on walls and rocks.</p>\n<p>Most scholars agree that <em>tsav</em> is the name for the dab or thorn-tailed lizards of which there are many species in Israel. Two of the most common are the Egyptian Thorn-tailed Lizard <em>Uromastyx aegyptia</em> and the Colored Thorn-tailed Lizard <em>Uromastyx ornata</em>. The name “dab” is an English version of their Arabic name <em>dhubb</em> or <em>dhabb</em>, which is reflected in the Hebrew <em>tsav</em>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Lacertid lizards (<em>leta’ah</em>) are fairly small, about 15–20 centimeters (6–8 inches) long, and they have a shiny smooth skin. Syrian green lizards have dark green spots on a lighter green background, with a yellow-green belly. They feed on flies, gnats, mosquitoes, and ants.</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0014_agama_lizards.jpg\" alt=\"WEB-0014_agama_lizards\"></figure>The rainbow agama is much larger, reaching 50–60 centimeters (20–24 inches) in length. In the breeding season the male develops bright colors, with a blue tail, green body, and bright orange or bright green head, dependent on the subspecies. The females and non-breeding males are a dull gray color. All agamas are characterized by the fact that they bob their heads vigorously by doing “push-ups” with their front legs. They have long, fairly stiff tails, which they raise when they run. They feed on a wide variety of insects and also prey on smaller lizards. In most of the Arab-speaking world they are known as <em>hardoun</em> lizards. Some agamas have the ability to change color to match their surroundings in the same way that chameleons do.</p>\n<p>The thorn-tailed lizards (<em>tsav</em>) are relatively large desert lizards with a length of about 65 centimeters (26 inches). They have a fairly thick, squat appearance and have a thick short tail covered with sharp spikes, which are actually cone-shaped scales. They use this tail for defense. They often crawl into holes or cracks in rocks and then block the entrance with their thorny tail. They are vegetarian, eating various succulent desert plants. Even though they are on the list of unclean foods, they are commonly eaten by Arabs and Bedouin, who keep them in cages and fatten them.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>They are listed as unclean.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0871_thorn-tailed_lizard.jpg\" alt=\"WEB-0871_thorn-tailed_lizard\"></figure>Agamas are found throughout Africa and in tropical Asia. Lacertids are found all over Europe. Elsewhere a general word for lizard can be used.</p>\n<p>For <em>tsav</em> a phrase, such as “big thorny lizard” or “big lizard with a thorny tail&quot;, is usually the best option. Where languages differentiate between smaller lizards and monitor lizards, “thorny monitor” or “monitor with a thorny tail” will better convey the idea of large size.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+},
+{
+"start_ref": "03011029",
+"start_ref_usfm": "LEV 11:29",
+"end_ref": "03011029",
+"end_ref_usfm": "LEV 11:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.7",
+"reference_id": "FAUNA:4.7",
+"version": "1.0.4",
+"title": "Monitor",
+"media_type": "Text",
+"index_reference": "4.7",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.7\"><span class=\"thlex-key\">4.7</span> Monitor</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:&quot;</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כֹּחַ</span> <span class=\"thlex-translit\">(koach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0315_iguana.jpg\" alt=\"WEB-0315_iguana\"></figure>The English versions (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> “chameleon&quot;; <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> “land crocodile&quot;; <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> “sand-gecko&quot;; <abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> “koach&quot;; <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> “monitor lizard&quot;; <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> “sand-gecko&quot;; <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> “chameleon&quot;) reflect the fact that no certain identification can be made of what lizard this is. The <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> term “land crocodile” is the same lizard as the “monitor lizard” of <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>. This suggestion has the most support among modern scholars. The Hebrew name is related to a root meaning “strength,” which could well apply to either the Desert Monitor <em>Varanus griseus</em> or the Nile Monitor <em>Varanus niloticus</em>. The latter creature is not found in Israel, but it would have been well-known from Egypt. Both of these giant lizards are related to the iguanas.</p>\n<p>If this word means “chameleon&quot;, then the reference is probably to the strength of its grip. It has claws that can close around twigs, with three toes on one side opposed to two on the other, giving it a very tenacious grip. However, this interpretation is not as likely as “monitor lizard&quot;.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0640_lizard.jpg\" alt=\"WEB-0640_lizard\"></figure>The desert monitor is one of the largest lizards in the world, reaching a total length of nearly 1.2 meters (4 feet) in Israel and even longer in other countries. They are powerful, but normally slow-moving, except when escaping from danger. They are carnivorous, eating a wide variety of prey, including insects, mice, snakes, lizards, birds’ eggs, nestlings, and carrion from animal carcasses. They are a greyish brown and live in desert and savannah semidesert regions.</p>\n<p>The Nile or water monitor is very similar in appearance, but it lives near rivers and in thicker vegetation. It includes turtle and crocodile eggs in its diet.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>They are listed as unclean.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Either monitor lizards or iguanas are found in many countries of the world in the warmer parts of all continents and in Australia (where they are called goannas). In these areas a local word will not be hard to find. Elsewhere a phrase such as “giant lizard” can be used.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.8",
+"reference_id": "FAUNA:4.8",
+"version": "1.0.4",
+"title": "Skink",
+"media_type": "Text",
+"index_reference": "4.8",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.8\"><span class=\"thlex-key\">4.8</span> Skink</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:&quot;</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חֹמֶט</span> <span class=\"thlex-translit\">(chomet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:30\">LEV 11:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0813_skink.jpg\" alt=\"WEB-0813_skink\"></figure>There is considerable doubt about the meaning of this word, but since skinks are very plentiful in Israel and North Africa, one would expect them to be in any list of the region’s lizards. Thus there is some justification for the <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> and <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> rendering.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Skinks are generally thin and streamlined and have smooth shiny skins. There are small and large species, with the smaller types about 10 centimeters (4 inches) long, while the largest desert skinks reach 50 centimeters (20 inches) in length. Skinks have shorter legs than most other types of lizard, and this gives them a rather snake-like appearance. Some species have no legs at all. Species that live in the desert sand move through the sand with a swimming motion. Other species live in houses or among rocks, typically hiding in cracks and under stones or rocks. A few species live in holes and are very fast runners. They eat insects such as flies, moths, ants, and others; they occasionally eat each others’ tails as well.</p>\n<p>Most skinks are grey or light brown, and many have longitudinal stripes.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>They are listed as an unclean animal.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Skinks are found virtually worldwide outside of the Arctic and Antarctic regions, and a local word is often easy to find. In many languages, however, skinks are not differentiated from other lizards, and a phrase such as “smooth lizard” or “thin lizard” may be the best equivalent.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011030",
+"start_ref_usfm": "LEV 11:30",
+"end_ref": "03011030",
+"end_ref_usfm": "LEV 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.9",
+"reference_id": "FAUNA:4.9",
+"version": "1.0.4",
+"title": "Snake",
+"media_type": "Text",
+"index_reference": "4.9",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.9\"><span class=\"thlex-key\">4.9</span> Snake</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נָחָשׁ</span> <span class=\"thlex-translit\">(nachash)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen3:1\">GEN 3:1</a>, <a href=\"https://ref.ly/Gen3:2\">GEN 3:2</a>, <a href=\"https://ref.ly/Gen3:4\">GEN 3:4</a>, <a href=\"https://ref.ly/Gen3:13\">GEN 3:13</a>, <a href=\"https://ref.ly/Gen3:14\">GEN 3:14</a>, <a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a>, <a href=\"https://ref.ly/Exod4:3\">EXO 4:3</a>, <a href=\"https://ref.ly/Exod7:15\">EXO 7:15</a>, <a href=\"https://ref.ly/Num21:6\">NUM 21:6</a>, <a href=\"https://ref.ly/Num21:7\">NUM 21:7</a>, <a href=\"https://ref.ly/Num21:9\">NUM 21:9</a>, <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>, <a href=\"https://ref.ly/2Kgs18:4\">2KI 18:4</a>, <a href=\"https://ref.ly/Job26:13\">JOB 26:13</a>, <a href=\"https://ref.ly/Ps58:5\">PSA 58:5</a>, <a href=\"https://ref.ly/Ps140:4\">PSA 140:4</a>, <a href=\"https://ref.ly/Prov23:32\">PRO 23:32</a>, <a href=\"https://ref.ly/Prov30:19\">PRO 30:19</a>, <a href=\"https://ref.ly/Eccl10:8\">ECC 10:8</a>, <a href=\"https://ref.ly/Eccl10:11\">ECC 10:11</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a>, <a href=\"https://ref.ly/Jer8:17\">JER 8:17</a>, <a href=\"https://ref.ly/Jer46:22\">JER 46:22</a>, <a href=\"https://ref.ly/Amos5:19\">AMO 5:19</a>, <a href=\"https://ref.ly/Amos9:3\">AMO 9:3</a>, <a href=\"https://ref.ly/Mic7:17\">MIC 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">תַּנִּין</span> <span class=\"thlex-translit\">(tanin)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod7:9\">EXO 7:9</a>, <a href=\"https://ref.ly/Exod7:10\">EXO 7:10</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a>, <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">δράκων</span> <span class=\"thlex-translit\">(drakōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt1:1\">ESG 1:1</a>, <a href=\"https://ref.ly/Jdt10:3\">ESG 10:3</a>, <a href=\"https://ref.ly/EsthGr16:10\">WIS 16:10</a>, <a href=\"https://ref.ly/Wis25:16\">SIR 25:16</a>, <a href=\"https://ref.ly/Sus1:23\">BEL 1:23</a>, <a href=\"https://ref.ly/Sus1:25\">BEL 1:25</a>, <a href=\"https://ref.ly/Sus1:27\">BEL 1:27</a>, <a href=\"https://ref.ly/Sus1:28\">BEL 1:28</a>, <a href=\"https://ref.ly/AddPs2:33\">ODA 2:33</a>, <a href=\"https://ref.ly/Odes2:25\">PSS 2:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἑρπετόν</span> <span class=\"thlex-translit\">(herpeton)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr11:15\">WIS 11:15</a>, <a href=\"https://ref.ly/EsthGr17:9\">WIS 17:9</a>, <a href=\"https://ref.ly/Wis10:11\">SIR 10:11</a>, <a href=\"https://ref.ly/Bar1:19\">LJE 1:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὄφις</span> <span class=\"thlex-translit\">(ofis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt7:10\">MAT 7:10</a>, <a href=\"https://ref.ly/Matt10:16\">MAT 10:16</a>, <a href=\"https://ref.ly/Matt23:33\">MAT 23:33</a>, <a href=\"https://ref.ly/Matt16:18\">MRK 16:18</a>, <a href=\"https://ref.ly/Mark10:19\">LUK 10:19</a>, <a href=\"https://ref.ly/Mark11:11\">LUK 11:11</a>, <a href=\"https://ref.ly/Luke3:14\">JHN 3:14</a>, <a href=\"https://ref.ly/Rom10:9\">1CO 10:9</a>, <a href=\"https://ref.ly/1Cor11:3\">2CO 11:3</a>, <a href=\"https://ref.ly/Jude9:19\">REV 9:19</a>, <a href=\"https://ref.ly/Jude12:9\">REV 12:9</a>, <a href=\"https://ref.ly/Jude12:14\">REV 12:14</a>, <a href=\"https://ref.ly/Jude12:15\">REV 12:15</a>, <a href=\"https://ref.ly/Jude20:2\">REV 20:2</a>, <a href=\"https://ref.ly/EsthGr16:5\">WIS 16:5</a>, <a href=\"https://ref.ly/Wis21:2\">SIR 21:2</a>, <a href=\"https://ref.ly/Wis25:15\">SIR 25:15</a>, <a href=\"https://ref.ly/3Macc18:8\">4MA 18:8</a>, <a href=\"https://ref.ly/Odes4:9\">PSS 4:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0817_snake.jpg\" alt=\"WEB-0817_snake\"></figure>The word “serpent” is a fairly archaic English word, once meaning any kind of reptile, but later only used for snakes. It is no longer used in everyday speech to refer to actual snakes but only to mythological ones and representations of them, especially representations on badges, crests, and flags. It is therefore somewhat strange to find “serpent” in modern English translations, where actual snakes are referred to in the original text. In some of these translations, <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> for example, “serpent” is used in the Old Testament and “snake” in the New Testament.</p>\n<p>The Hebrew and Greek words are general terms including all types of snake. In <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a> some scholars interpret the word <em>nachash</em> as meaning “reptile” or “dragon” rather than “snake&quot;. <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> also has this meaning in <a href=\"https://ref.ly/Jer46:22\">JER 46:22</a>.</p>\n<p>In the nineteenth century Canon Tristram reported hearing from Arabs that snakes, especially cobras, could be rendered unconscious in a rigid spasm by squeezing certain nerves on the side of their necks. In this state the snake was said to become like a stick. Some ancient pictures seem to illustrate people doing this. Tristram went on to say that he had not observed this phenomenon personally. However, in recent years this technique has been demonstrated on film. It may be of relevance for the accounts in Exodus of people turning rods into snakes and vice versa.</p>\n<p>See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.4\" href=\"#FAUNA:4.4\">4.4 Cobra</a> and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.10\" href=\"#FAUNA:4.10\">4.10 Viper</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0180_desertrocksnake.jpg\" alt=\"WEB-0180_desertrocksnake\"></figure>Snakes are reptiles, that is, they have no internal mechanism to control the temperature of their blood and have to rely on the sun to do this. They have no legs but propel themselves by wriggling or by gliding along by moving their skin in combination with their many ribs, so that their scales hook onto any small irregularities on the surface they are moving on. This means of moving along is not very obvious, and snakes seem to many peoples to move magically or at least mysteriously. This and the fact that many of them have a poisonous bite have caused many peoples, including the ancient biblical peoples, to have a superstitious dread of them.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>To the biblical writers snakes were a symbol of lurking, unexpected danger. The belief that snakes had poisonous tongues led people to associate them with lies, deception, and misleading teaching, as epitomized by the Devil himself, who is portrayed as a deceiving snake in <a href=\"https://ref.ly/Jude12:9\">REV 12:9</a>.</p>\n<p>Furthermore, since the cobra was the symbol of one of the major Egyptian goddesses, snakes also had connotations of heathen religion. To the Egyptians the snake was a symbol of long life. In some contexts in the Bible the snake is a symbol for Egypt.</p>\n<p>In the New Testament, besides the above, the snake becomes a symbol for cunning wisdom.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Snakes are found all over the world, except in the far Northern and Southern Hemispheres, where the lengthy cold winters are unsuited to their existence. In most languages a general word for snake is not difficult to find. In some languages there are two general words for snake, one for the viper/adder type and the other for longer, slimmer snakes, including cobras, mambas, pythons, and boas. In such cases the latter word is preferable in most general contexts.</p>\n<p>The references to “fiery snakes” should probably be interpreted as referring to the effects of the snake’s bite rather than to its appearance; for example, “snakes that can burn people like fire.&quot;</p>\n<p><a href=\"https://ref.ly/Jer46:22\">JER 46:22</a> means “she [Egypt] will hiss like a retreating snake.&quot;</p>\n<p><a href=\"https://ref.ly/Eccl10:11\">ECC 10:11</a> means “if the snake bites before it is charmed, that [the bite] is all the income the snake charmer gets.&quot;</p>\n<p>In most contexts the word <em>tanin</em> is translated as “dragon” or “whale” in <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> and <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and as “sea monster” in the other versions. However, the word is traditionally translated as “serpent” or “snake” in <a href=\"https://ref.ly/Exod7:0\">EXO 7:0</a>, and in <a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a> and <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a>, where the word occurs in parallel with another word for “snake&quot;.</p>\n<p>While <em>tanin</em> probably does refer to a sea monster, it most likely means “snake” in the passages mentioned. It is impossible to identify the actual type of snake referred to, and most scholars take this word to have the same meaning in these particular contexts as the more usual word <em>nachash</em>. In other words it is an alternative word for snakes in general. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.2\" href=\"#FAUNA:7.2\">7.2 Dragon, sea monster</a>.</p>\n<p>Another possibility has been suggested by Jewish scholars in their commentaries on Exodus. They note that, while in Moses’ rod is said to turn into a <em>nachash</em> in the desert, along the banks of the Nile (<a href=\"https://ref.ly/Exod7:0\">EXO 7:0</a>) Aaron’s rod turns into a <em>tanin</em>, which they interpret to mean “crocodile&quot;. Each miracle would then be appropriate to its setting: a snake in the desert, a crocodile by the river. One scholar also points out that in <a href=\"https://ref.ly/Ezek29:3\">EZK 29:3</a> Pharaoh is called “the great crocodile [<em>tanim</em> &lt; <em>tanin</em> ] that lies in the midst of his rivers,” and that the Egyptians used to worship the crocodile. While no translation has adopted this proposal, it should be given serious consideration.</p>\n<p>The problematic Hebrew word <em>qipoz</em>, which occurs only in <a href=\"https://ref.ly/Isa34:15\">ISA 34:15</a>, has been associated by some scholars with a snake. The English Revised Version has “arrowsnake&quot;, and <abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> has “viper&quot;. Rather strangely, the name “arrowsnake” is associated with <em>qipoz</em> because the word is said to be derived from a verb <em>qafaz</em> (<em>qafats</em>), which means “to leap.” <em>Fauna and Flora of the Bible</em> even has this note: “The arrowsnake is a serpent which is able to coil itself back and dart forward quickly like an arrow, or to leap from a tree.” In fact the arrowsnake <em>Eryx jaculus</em>, more correctly called the javelin sand boa, is so-called, not because it can leap, but because it has a small head that is hard to distinguish from its narrow tail; that is, it is pointed at both ends of its fairly thick body like a javelin. It belongs to the category of snakes called constrictors, which coil around their prey and suffocate them by crushing the breath out of them. It lives in the sand and among rocks, rather than in trees, and is slow-moving. It reaches about 75 centimeters (30 inches) in length. Nevertheless, the context of the verse and the other words used in poetic parallelism to it indicate fairly conclusively that <em>qipoz</em> is better interpreted as a bird. See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.17.6\" href=\"#FAUNA:3.17.6\">3.17.6 Qipoz</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003001",
+"end_ref_usfm": "GEN 3:1"
+},
+{
+"start_ref": "01003002",
+"start_ref_usfm": "GEN 3:2",
+"end_ref": "01003002",
+"end_ref_usfm": "GEN 3:2"
+},
+{
+"start_ref": "01003004",
+"start_ref_usfm": "GEN 3:4",
+"end_ref": "01003004",
+"end_ref_usfm": "GEN 3:4"
+},
+{
+"start_ref": "01003013",
+"start_ref_usfm": "GEN 3:13",
+"end_ref": "01003013",
+"end_ref_usfm": "GEN 3:13"
+},
+{
+"start_ref": "01003014",
+"start_ref_usfm": "GEN 3:14",
+"end_ref": "01003014",
+"end_ref_usfm": "GEN 3:14"
+},
+{
+"start_ref": "01049017",
+"start_ref_usfm": "GEN 49:17",
+"end_ref": "01049017",
+"end_ref_usfm": "GEN 49:17"
+},
+{
+"start_ref": "02004003",
+"start_ref_usfm": "EXO 4:3",
+"end_ref": "02004003",
+"end_ref_usfm": "EXO 4:3"
+},
+{
+"start_ref": "02007015",
+"start_ref_usfm": "EXO 7:15",
+"end_ref": "02007015",
+"end_ref_usfm": "EXO 7:15"
+},
+{
+"start_ref": "04021006",
+"start_ref_usfm": "NUM 21:6",
+"end_ref": "04021006",
+"end_ref_usfm": "NUM 21:6"
+},
+{
+"start_ref": "04021007",
+"start_ref_usfm": "NUM 21:7",
+"end_ref": "04021007",
+"end_ref_usfm": "NUM 21:7"
+},
+{
+"start_ref": "04021009",
+"start_ref_usfm": "NUM 21:9",
+"end_ref": "04021009",
+"end_ref_usfm": "NUM 21:9"
+},
+{
+"start_ref": "05008015",
+"start_ref_usfm": "DEU 8:15",
+"end_ref": "05008015",
+"end_ref_usfm": "DEU 8:15"
+},
+{
+"start_ref": "12018004",
+"start_ref_usfm": "2KI 18:4",
+"end_ref": "12018004",
+"end_ref_usfm": "2KI 18:4"
+},
+{
+"start_ref": "18026013",
+"start_ref_usfm": "JOB 26:13",
+"end_ref": "18026013",
+"end_ref_usfm": "JOB 26:13"
+},
+{
+"start_ref": "19058005",
+"start_ref_usfm": "PSA 58:5",
+"end_ref": "19058005",
+"end_ref_usfm": "PSA 58:5"
+},
+{
+"start_ref": "19140004",
+"start_ref_usfm": "PSA 140:4",
+"end_ref": "19140004",
+"end_ref_usfm": "PSA 140:4"
+},
+{
+"start_ref": "20023032",
+"start_ref_usfm": "PRO 23:32",
+"end_ref": "20023032",
+"end_ref_usfm": "PRO 23:32"
+},
+{
+"start_ref": "20030019",
+"start_ref_usfm": "PRO 30:19",
+"end_ref": "20030019",
+"end_ref_usfm": "PRO 30:19"
+},
+{
+"start_ref": "21010008",
+"start_ref_usfm": "ECC 10:8",
+"end_ref": "21010008",
+"end_ref_usfm": "ECC 10:8"
+},
+{
+"start_ref": "21010011",
+"start_ref_usfm": "ECC 10:11",
+"end_ref": "21010011",
+"end_ref_usfm": "ECC 10:11"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "23027001",
+"start_ref_usfm": "ISA 27:1",
+"end_ref": "23027001",
+"end_ref_usfm": "ISA 27:1"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+},
+{
+"start_ref": "24008017",
+"start_ref_usfm": "JER 8:17",
+"end_ref": "24008017",
+"end_ref_usfm": "JER 8:17"
+},
+{
+"start_ref": "24046022",
+"start_ref_usfm": "JER 46:22",
+"end_ref": "24046022",
+"end_ref_usfm": "JER 46:22"
+},
+{
+"start_ref": "30005019",
+"start_ref_usfm": "AMO 5:19",
+"end_ref": "30005019",
+"end_ref_usfm": "AMO 5:19"
+},
+{
+"start_ref": "30009003",
+"start_ref_usfm": "AMO 9:3",
+"end_ref": "30009003",
+"end_ref_usfm": "AMO 9:3"
+},
+{
+"start_ref": "33007017",
+"start_ref_usfm": "MIC 7:17",
+"end_ref": "33007017",
+"end_ref_usfm": "MIC 7:17"
+},
+{
+"start_ref": "02007009",
+"start_ref_usfm": "EXO 7:9",
+"end_ref": "02007009",
+"end_ref_usfm": "EXO 7:9"
+},
+{
+"start_ref": "02007010",
+"start_ref_usfm": "EXO 7:10",
+"end_ref": "02007010",
+"end_ref_usfm": "EXO 7:10"
+},
+{
+"start_ref": "02007012",
+"start_ref_usfm": "EXO 7:12",
+"end_ref": "02007012",
+"end_ref_usfm": "EXO 7:12"
+},
+{
+"start_ref": "05032033",
+"start_ref_usfm": "DEU 32:33",
+"end_ref": "05032033",
+"end_ref_usfm": "DEU 32:33"
+},
+{
+"start_ref": "19091013",
+"start_ref_usfm": "PSA 91:13",
+"end_ref": "19091013",
+"end_ref_usfm": "PSA 91:13"
+},
+{
+"start_ref": "70001001",
+"start_ref_usfm": "ESG 1:1",
+"end_ref": "70001001",
+"end_ref_usfm": "ESG 1:1"
+},
+{
+"start_ref": "70010003",
+"start_ref_usfm": "ESG 10:3",
+"end_ref": "70010003",
+"end_ref_usfm": "ESG 10:3"
+},
+{
+"start_ref": "71016010",
+"start_ref_usfm": "WIS 16:10",
+"end_ref": "71016010",
+"end_ref_usfm": "WIS 16:10"
+},
+{
+"start_ref": "72025016",
+"start_ref_usfm": "SIR 25:16",
+"end_ref": "72025016",
+"end_ref_usfm": "SIR 25:16"
+},
+{
+"start_ref": "77001023",
+"start_ref_usfm": "BEL 1:23",
+"end_ref": "77001023",
+"end_ref_usfm": "BEL 1:23"
+},
+{
+"start_ref": "77001025",
+"start_ref_usfm": "BEL 1:25",
+"end_ref": "77001025",
+"end_ref_usfm": "BEL 1:25"
+},
+{
+"start_ref": "77001027",
+"start_ref_usfm": "BEL 1:27",
+"end_ref": "77001027",
+"end_ref_usfm": "BEL 1:27"
+},
+{
+"start_ref": "77001028",
+"start_ref_usfm": "BEL 1:28",
+"end_ref": "77001028",
+"end_ref_usfm": "BEL 1:28"
+},
+{
+"start_ref": "86002033",
+"start_ref_usfm": "ODA 2:33",
+"end_ref": "86002033",
+"end_ref_usfm": "ODA 2:33"
+},
+{
+"start_ref": "87002025",
+"start_ref_usfm": "PSS 2:25",
+"end_ref": "87002025",
+"end_ref_usfm": "PSS 2:25"
+},
+{
+"start_ref": "71011015",
+"start_ref_usfm": "WIS 11:15",
+"end_ref": "71011015",
+"end_ref_usfm": "WIS 11:15"
+},
+{
+"start_ref": "71017009",
+"start_ref_usfm": "WIS 17:9",
+"end_ref": "71017009",
+"end_ref_usfm": "WIS 17:9"
+},
+{
+"start_ref": "72010011",
+"start_ref_usfm": "SIR 10:11",
+"end_ref": "72010011",
+"end_ref_usfm": "SIR 10:11"
+},
+{
+"start_ref": "74001019",
+"start_ref_usfm": "LJE 1:19",
+"end_ref": "74001019",
+"end_ref_usfm": "LJE 1:19"
+},
+{
+"start_ref": "40007010",
+"start_ref_usfm": "MAT 7:10",
+"end_ref": "40007010",
+"end_ref_usfm": "MAT 7:10"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010016",
+"end_ref_usfm": "MAT 10:16"
+},
+{
+"start_ref": "40023033",
+"start_ref_usfm": "MAT 23:33",
+"end_ref": "40023033",
+"end_ref_usfm": "MAT 23:33"
+},
+{
+"start_ref": "41016018",
+"start_ref_usfm": "MRK 16:18",
+"end_ref": "41016018",
+"end_ref_usfm": "MRK 16:18"
+},
+{
+"start_ref": "42010019",
+"start_ref_usfm": "LUK 10:19",
+"end_ref": "42010019",
+"end_ref_usfm": "LUK 10:19"
+},
+{
+"start_ref": "42011011",
+"start_ref_usfm": "LUK 11:11",
+"end_ref": "42011011",
+"end_ref_usfm": "LUK 11:11"
+},
+{
+"start_ref": "43003014",
+"start_ref_usfm": "JHN 3:14",
+"end_ref": "43003014",
+"end_ref_usfm": "JHN 3:14"
+},
+{
+"start_ref": "46010009",
+"start_ref_usfm": "1CO 10:9",
+"end_ref": "46010009",
+"end_ref_usfm": "1CO 10:9"
+},
+{
+"start_ref": "47011003",
+"start_ref_usfm": "2CO 11:3",
+"end_ref": "47011003",
+"end_ref_usfm": "2CO 11:3"
+},
+{
+"start_ref": "66009019",
+"start_ref_usfm": "REV 9:19",
+"end_ref": "66009019",
+"end_ref_usfm": "REV 9:19"
+},
+{
+"start_ref": "66012009",
+"start_ref_usfm": "REV 12:9",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+},
+{
+"start_ref": "66012014",
+"start_ref_usfm": "REV 12:14",
+"end_ref": "66012014",
+"end_ref_usfm": "REV 12:14"
+},
+{
+"start_ref": "66012015",
+"start_ref_usfm": "REV 12:15",
+"end_ref": "66012015",
+"end_ref_usfm": "REV 12:15"
+},
+{
+"start_ref": "66020002",
+"start_ref_usfm": "REV 20:2",
+"end_ref": "66020002",
+"end_ref_usfm": "REV 20:2"
+},
+{
+"start_ref": "71016005",
+"start_ref_usfm": "WIS 16:5",
+"end_ref": "71016005",
+"end_ref_usfm": "WIS 16:5"
+},
+{
+"start_ref": "72021002",
+"start_ref_usfm": "SIR 21:2",
+"end_ref": "72021002",
+"end_ref_usfm": "SIR 21:2"
+},
+{
+"start_ref": "72025015",
+"start_ref_usfm": "SIR 25:15",
+"end_ref": "72025015",
+"end_ref_usfm": "SIR 25:15"
+},
+{
+"start_ref": "81018008",
+"start_ref_usfm": "4MA 18:8",
+"end_ref": "81018008",
+"end_ref_usfm": "4MA 18:8"
+},
+{
+"start_ref": "87004009",
+"start_ref_usfm": "PSS 4:9",
+"end_ref": "87004009",
+"end_ref_usfm": "PSS 4:9"
+},
+{
+"start_ref": "02007000",
+"start_ref_usfm": "EXO 7:0",
+"end_ref": "02007000",
+"end_ref_usfm": "EXO 7:0"
+},
+{
+"start_ref": "26029003",
+"start_ref_usfm": "EZK 29:3",
+"end_ref": "26029003",
+"end_ref_usfm": "EZK 29:3"
+},
+{
+"start_ref": "23034015",
+"start_ref_usfm": "ISA 34:15",
+"end_ref": "23034015",
+"end_ref_usfm": "ISA 34:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:4.10",
+"reference_id": "FAUNA:4.10",
+"version": "1.0.4",
+"title": "Viper",
+"media_type": "Text",
+"index_reference": "4.10",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:4.10\"><span class=\"thlex-key\">4.10</span> Viper</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֶפְעֶה</span> <span class=\"thlex-translit\">(’ef‘eh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job20:16\">JOB 20:16</a>, <a href=\"https://ref.ly/Isa30:6\">ISA 30:6</a>, <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שָׂרָף</span> <span class=\"thlex-translit\">(saraf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num21:6\">NUM 21:6</a>, <a href=\"https://ref.ly/Num21:8\">NUM 21:8</a>, <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa30:6\">ISA 30:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שְׁפִיפֹן</span> <span class=\"thlex-translit\">(shefifon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἔχιδνα, ἔχις</span> <span class=\"thlex-translit\">(echidna, echis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:7\">MAT 3:7</a>, <a href=\"https://ref.ly/Matt12:34\">MAT 12:34</a>, <a href=\"https://ref.ly/Matt23:33\">MAT 23:33</a>, <a href=\"https://ref.ly/Mark3:7\">LUK 3:7</a>, <a href=\"https://ref.ly/John28:3\">ACT 28:3</a>, <a href=\"https://ref.ly/Wis39:30\">SIR 39:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0891_viper.jpg\" alt=\"WEB-0891_viper\"></figure>There are a large number of snake species belonging to the viper family in Israel. From the contexts it is possible in one or two places to identify the particular species, and it is possible that the various Hebrew words actually refer to particular species. However, associating the various words with the corresponding species is largely conjecture, even though based on careful deduction.</p>\n<p>The most common vipers in Israel are the Palestinian Viper <em>Vipera palaestina</em>, the Carpet Viper <em>Echis coloratus</em>, the Sand Viper <em>Cerastes vipera</em>, and the Horned Viper <em>Cerastes cerastes</em>. The Palestinian viper is the largest of these vipers and is found in a variety of habitats, from the woods of the north to the desert’s edge. Since this is the most inhabited area, people are bitten by this snake more than any other. The other four vipers mentioned are found in desert areas, but in slightly different habitats. The sand viper and the horned viper live in the sand, while the carpet viper lives in gravelly areas and among rocks. It often camouflages itself among dried leaves.</p>\n<p>The desert vipers, when moving in sand, cannot move in the normal way, so they adopt a movement known as “sidewinding&quot;. They do this by moving a coil sideways to a position in front of the head, then the snake moves its head and the front part of its body in the air, arching over the sand as far as it can reach before falling back onto the sand. Then it repeats the movement again. This is done at some speed, and the snake moves diagonally across the sand surprisingly quickly, although not as quickly as another snake moving normally. The parallel elongated S-shaped marks it leaves in the sand look as though it has moved in a series of jumps, since they seem not to be connected. It is generally accepted that this motion caused the biblical writers to refer to these snakes as “flying&quot;.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Vipers are different from other snakes mainly in that they give birth to live offspring. The females retain their eggs in a special sac in their bodies, and when the eggs hatch the small snakes emerge from the mother. The larger vipers produce as many as sixty young snakes at a time, while the smaller sand vipers have smaller broods of about twelve to fifteen. This is what John the Baptist refers to by his well-known phrase “brood of vipers&quot;.</p>\n<p>The vipers have long hinged fangs located in the front of their mouths. These fangs fold back as they close their mouths. When striking, vipers have to open their mouths very wide in order to get these fangs into the required position.</p>\n<p>The carpet viper (also known as the saw-scaled viper) was very numerous in biblical Israel, and in most other areas of its range (it is found in a broad continuous band from West Africa to South and Central Asia). It is likely that this was the <em>saraf</em>, a name derived from a finite verb meaning “to burn something,” a reference to the burning effect of its poisonous bite.</p>\n<p>This snake occurs in two slightly different forms. The most common type in Israel and the Sinai Peninsula is a reddish brown snake with a pale underside. It has a row of pale blotches arranged side-by-side in pairs all the way down its back. These blotches give it excellent camouflage. It grows to about 80 centimeters (32 inches) in length, and its head is smaller and its body thinner than most typical vipers. It is very easily provoked and quite an aggressive snake. It is mainly active in the daytime, as it can stand higher temperatures than many other snakes. It lives in desert and grassland areas and feeds on jerboas, mice, and mole rats. Its venom, like that of most vipers, is highly poisonous, attacking both the blood vessels and the blood corpuscles, but, like the poison of most other vipers, it is slow-acting.</p>\n<p>Carpet vipers move like other snakes on firm surfaces, but in sand they move by side-winding.</p>\n<p>The horned viper is one of the two common sand vipers found in Israel and the Sinai Peninsula. As the species name suggests, these vipers live in sand. They have scales arranged so that with small sideways movements they can bury themselves in the sand, with only their eyes and nostrils showing. This is how they lie in wait for their prey, mainly jerboas and other small rodents. When the sand gets too hot for comfort, they bury themselves even deeper, or they move to the shade of a stone.</p>\n<p>The horned viper has an unusually elongated scale above each eye, the “horns&quot;. It is a light brown mottled color and moves by sidewinding. It has a broad head and grows to a length of about 75 centimeters (30 inches).</p>\n<p>The sand viper is similar in habits to the horned viper, but it is slightly smaller, reaching about 35 centimeters (14 inches) in length in Israel. It is a fairly squat looking snake with a thin neck and tail but a thick body. It is a uniform pale sandy color.</p>\n<p>The Palestinian viper is much larger than the other vipers of the Middle East. It grows to about 1.25 meters (4 feet) in length, and may be 100 millimeters (4 inches) thick. It is a beautifully marked snake, basically a light brown, with a dark brown zigzag stripe with a pale border down the middle of its back. It also has dark brown blotches with pale borders on each side of the zigzag stripe. Its head is striped.</p>\n<p>This snake feeds on mice, toads, and frogs and is often found close to human dwellings. It lives under stones or in vegetation. As mentioned above, more people are bitten by this snake than any other. It is likely that this is the snake referred to by the Greek word <em>echidna</em>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Vipers have the same basic significance in the Bible as other snakes, (see above) with one additional feature. Since the young are carried alive inside the female viper, which then gives birth to large numbers of well-developed young, all at the same time, the viper was associated with fertility. This was also their significance in the Egyptian and Canaanite religious systems.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Although vipers are found widely all over the world, not all languages distinguish them from other types of snake. As mentioned above, the carpet viper is found across Central Africa, from the west to east coasts, and into Central and South Asia. In these areas the name for this snake can be used in all the verses that refer to vipers. In southern Africa the Puff Adder <em>Bitis arietans</em> is probably the best equivalent.</p>\n<p>In order to retain the relationship of the word <em>saraf</em> with the verb “to burn something,” translators often try to use expressions such as “vipers that burn [people]” or “fiery serpents&quot;. This is only possible where the word used for “burn” means “to cause a wound with something hot.” One should not convey the idea of “a viper that sets people on fire” or “a viper that is burning.” Often it is better to use a phrase meaning simply “poisonous vipers&quot;.</p>\n<p><a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a>: Some commentaries have identified this snake as one of the sand vipers, since these conceal themselves so well that the horse may not see the snake and so be bitten on the heel. However, these snakes live in sand and would not be too likely to lie “by the path.” It is more likely to have been the carpet viper with its perfect camouflage.</p>\n<p><a href=\"https://ref.ly/Job20:16\">JOB 20:16</a>: The phrase “the tongue of a viper” reflects the Hebrew belief that a snake’s poison was produced by its tongue. This belief should be reflected in the translation if possible. The context clearly shows that profit made by evil means is likened to snake venom, so wording such as the following could be considered:</p>\n<p>What he sucks in is cobra’s venom,</p>\n<p>What he gains destroys him like the poisonous tongue of a viper.</p>\n<p><a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a>: This is a difficult verse, and commentators interpret it differently. A literal translation of the Hebrew is:</p>\n<p>They hatch cobras’ eggs, they spin spiders’ webs,</p>\n<p>The one who eats their eggs dies,</p>\n<p>The one who/which is pressed, a viper is hatched/born.</p>\n<p>The problem in interpretation centers around the subject of the first passive clause. Who or what is squashed, squeezed, or pressed? Many commentators take the subject to be the egg, but a few take it to mean the evil people (compare <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>: “if one of them is pressed, it will hatch as a viper&quot;). If the first interpretation is followed, then the poem would read:</p>\n<p>They hatch cobras’ eggs and spin spiders’ web.</p>\n<p>Whoever eats their eggs dies,</p>\n<p>And if one of their eggs is squashed a viper breaks out.</p>\n<p>However, many have pointed out that it makes little sense to say a viper emerges from a cobra’s egg. The poetry would be making no new point at all. However, if the second interpretation is followed, the poem reads:</p>\n<p>They hatch cobras’ eggs and spin spiders’ webs;</p>\n<p>Whoever eats their eggs dies;</p>\n<p>And if one of these people is squeezed, a viper emerges.</p>\n<p>In other words, if you share the results of their deeds, you are destroyed, but if you oppose them, you are also in danger. The image in this latter rendering would be someone squashing a pregnant female viper whose eggs are due to be hatched. Living baby vipers would emerge. An ancient Arabic saying says “Crush the mother viper, and be bitten by her seven sons.” It is possible that both the Arabic saying and the Hebrew poem have common roots.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18020016",
+"start_ref_usfm": "JOB 20:16",
+"end_ref": "18020016",
+"end_ref_usfm": "JOB 20:16"
+},
+{
+"start_ref": "23030006",
+"start_ref_usfm": "ISA 30:6",
+"end_ref": "23030006",
+"end_ref_usfm": "ISA 30:6"
+},
+{
+"start_ref": "23059005",
+"start_ref_usfm": "ISA 59:5",
+"end_ref": "23059005",
+"end_ref_usfm": "ISA 59:5"
+},
+{
+"start_ref": "04021006",
+"start_ref_usfm": "NUM 21:6",
+"end_ref": "04021006",
+"end_ref_usfm": "NUM 21:6"
+},
+{
+"start_ref": "04021008",
+"start_ref_usfm": "NUM 21:8",
+"end_ref": "04021008",
+"end_ref_usfm": "NUM 21:8"
+},
+{
+"start_ref": "05008015",
+"start_ref_usfm": "DEU 8:15",
+"end_ref": "05008015",
+"end_ref_usfm": "DEU 8:15"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "01049017",
+"start_ref_usfm": "GEN 49:17",
+"end_ref": "01049017",
+"end_ref_usfm": "GEN 49:17"
+},
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "40012034",
+"start_ref_usfm": "MAT 12:34",
+"end_ref": "40012034",
+"end_ref_usfm": "MAT 12:34"
+},
+{
+"start_ref": "40023033",
+"start_ref_usfm": "MAT 23:33",
+"end_ref": "40023033",
+"end_ref_usfm": "MAT 23:33"
+},
+{
+"start_ref": "42003007",
+"start_ref_usfm": "LUK 3:7",
+"end_ref": "42003007",
+"end_ref_usfm": "LUK 3:7"
+},
+{
+"start_ref": "44028003",
+"start_ref_usfm": "ACT 28:3",
+"end_ref": "44028003",
+"end_ref_usfm": "ACT 28:3"
+},
+{
+"start_ref": "72039030",
+"start_ref_usfm": "SIR 39:30",
+"end_ref": "72039030",
+"end_ref_usfm": "SIR 39:30"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,425 @@
+[
+{
+"content_id": "FAUNA:7",
+"reference_id": "FAUNA:7",
+"version": "1.0.4",
+"title": "Mythical monsters",
+"media_type": "Text",
+"index_reference": "7",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:7\"><span class=\"thlex-key\">7</span> Mythical monsters</h1><nav class=\"thlex-index\"><ul>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.1\" href=\"#FAUNA:7.1\">7.1 Behemoth</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.2\" href=\"#FAUNA:7.2\">7.2 Dragon, sea monster</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.3\" href=\"#FAUNA:7.3\">7.3 Leviathan</a></li>\n</ul></nav>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:7.1",
+"reference_id": "FAUNA:7.1",
+"version": "1.0.4",
+"title": "Behemoth",
+"media_type": "Text",
+"index_reference": "7.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:7.1\"><span class=\"thlex-key\">7.1</span> Behemoth</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:&quot;</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בְּהֵמוֹת</span> <span class=\"thlex-translit\">(behemoth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job40:15\">JOB 40:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In other contexts the Hebrew word <em>behemah</em> refers generally to any large animal and specifically to cattle (see Chapter <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:1\" href=\"#FAUNA:1\">1 Animals, general</a>), but in <a href=\"https://ref.ly/Job40:15\">JOB 40:15</a> (where the Hebrew word is plural) the animal is described, and this identifies it as one particular kind of animal. There are basically three possible interpretations:</p>\n<p>a) A mythical monster, symbolic of the forces of evil. Later rabbinical writings make reference to this monster, who is said to engage in a critical fight with another monster, Leviathan. In some of these writings it is said that the meat to be eaten at the Great Feast of Abraham in the last days will be the meat of Behemoth. It was associated with the “great sea monsters” mentioned in <a href=\"https://ref.ly/Gen1:21\">GEN 1:21</a>.</p>\n<p>b) The Hippopotamus <em>Hippopotamus amphibious</em>. This suggestion has been widely accepted and included in various English versions in footnotes. The hippopotamus was certainly well-known in Egypt and possibly in parts of Mesopotamia. However, the description in <a href=\"https://ref.ly/Job40:15-Job40:20\">JOB 40:15–JOB 40:20</a> does not fit the hippopotamus at many points:</p>\n<p>For one thing the strength and the powerful muscles of Behemoth mentioned in could hardly be associated with the hippopotamus, which spends most of its time quietly grazing or just resting in the water. (The jaws of a hippo are enormously strong, and bull hippos are dangerous animals, but overall, even a careful observer would not be struck with awe at its muscles and strength.)</p>\n<p>Secondly, the very small stubby tail of the hippopotamus cannot be raised and is only used for scattering dung as the hippo defecates. It could hardly be likened to a cedar as <a href=\"https://ref.ly/Job40:17\">JOB 40:17</a> says.</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0296_hippo.jpg\" alt=\"WEB-0296_hippo\"></figure>And finally, in <a href=\"https://ref.ly/Job40:20\">JOB 40:20</a> Behemoth is said to be fed by the grass of the mountains, but hippos normally feed on riverbanks, or in the vicinity of flood plains and river valleys, and are rarely, if ever, found in hills, since their extremely short legs and great weight make it difficult for them to step over rocks or climb steep slopes. (<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr>, <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>, and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> overcome this problem by drastically reinterpreting verse 20, which is not very clear in Hebrew.)</p>\n<p>c) The elephant. Both the African Elephant <em>Loxodonta Africana</em>, which lived in the Nile valley in southern Egypt, Sudan, and Ethiopia, and the Indian Elephant <em>Elephas maximus</em>, which lived in northern Mesopotamia, were known in Old Testament times. The description of Behemoth fits the elephant better than the hippopotamus. Its great strength is very evident. When running, elephants also hold their tails out straight. However, the Hebrew word translated as “tail” could also refer to the trunk. The mention of “lying down under the thorn trees, in the cover of the reeds in the marsh” (<a href=\"https://ref.ly/Job40:21\">JOB 40:21</a>) could refer to the well-known habit elephants have of taking dust baths and wallowing in mudholes and rivers.</p>\n<p>It has sometimes been argued that the references to frequenting rivers and eating grass cannot apply to elephants. But in fact, riverine grasses are a favorite food of elephants, and they often spend hours at a time in rivers and waterholes. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:2.14\" href=\"#FAUNA:2.14\">2.14 Elephant</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>It is probably best to use an expression like “the monster Behemoth” in the body of the text with a footnote indicating that this possibly refers to the elephant, assuming of course that elephants are known to the readers. If they are unknown it would be better to omit the footnote.</p>\n<p>Note: <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> translate <em>behemoth</em> as “crocodile” simply because <a href=\"https://ref.ly/Job40:15-Job40:20\">JOB 40:15–JOB 40:20</a> is transposed to follow verse 30 of chapter 39. When this is done, the description in <a href=\"https://ref.ly/Job40:21-Job41:25\">JOB 40:21–JOB 41:25</a> then reads as if it is referring to the same animal as <a href=\"https://ref.ly/Job40:15\">JOB 40:15</a>. Very few scholars would support this transposition, as it requires numerous emendations to the Hebrew text in an effort to make the description fit the crocodile.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18040015",
+"start_ref_usfm": "JOB 40:15",
+"end_ref": "18040015",
+"end_ref_usfm": "JOB 40:15"
+},
+{
+"start_ref": "01001021",
+"start_ref_usfm": "GEN 1:21",
+"end_ref": "01001021",
+"end_ref_usfm": "GEN 1:21"
+},
+{
+"start_ref": "18040020",
+"start_ref_usfm": "JOB 40:20",
+"end_ref": "18040020",
+"end_ref_usfm": "JOB 40:20"
+},
+{
+"start_ref": "18040017",
+"start_ref_usfm": "JOB 40:17",
+"end_ref": "18040017",
+"end_ref_usfm": "JOB 40:17"
+},
+{
+"start_ref": "18040021",
+"start_ref_usfm": "JOB 40:21",
+"end_ref": "18040021",
+"end_ref_usfm": "JOB 40:21"
+},
+{
+"start_ref": "18041025",
+"start_ref_usfm": "JOB 41:25",
+"end_ref": "18041025",
+"end_ref_usfm": "JOB 41:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:7.2",
+"reference_id": "FAUNA:7.2",
+"version": "1.0.4",
+"title": "Dragon, sea monster",
+"media_type": "Text",
+"index_reference": "7.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:7.2\"><span class=\"thlex-key\">7.2</span> Dragon, sea monster</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">תַּנִּין</span> <span class=\"thlex-translit\">(tannin)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:21\">GEN 1:21</a>, <a href=\"https://ref.ly/Job7:12\">JOB 7:12</a>, <a href=\"https://ref.ly/Ps74:13\">PSA 74:13</a>, <a href=\"https://ref.ly/Ps148:7\">PSA 148:7</a>, <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a>, <a href=\"https://ref.ly/Isa51:9\">ISA 51:9</a>, <a href=\"https://ref.ly/Jer51:34\">JER 51:34</a>, <a href=\"https://ref.ly/Ezek29:3\">EZK 29:3</a>, <a href=\"https://ref.ly/Ezek32:2\">EZK 32:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">δράκων</span> <span class=\"thlex-translit\">(drakōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude12:3\">REV 12:3</a>, <a href=\"https://ref.ly/Jude12:4\">REV 12:4</a>, <a href=\"https://ref.ly/Jude12:7\">REV 12:7</a>, <a href=\"https://ref.ly/Jude12:7\">REV 12:7</a>, <a href=\"https://ref.ly/Jude12:9\">REV 12:9</a>, <a href=\"https://ref.ly/Jude12:13\">REV 12:13</a>, <a href=\"https://ref.ly/Jude12:16\">REV 12:16</a>, <a href=\"https://ref.ly/Jude12:17\">REV 12:17</a>, <a href=\"https://ref.ly/Jude13:2\">REV 13:2</a>, <a href=\"https://ref.ly/Jude13:4\">REV 13:4</a>, <a href=\"https://ref.ly/Jude13:11\">REV 13:11</a>, <a href=\"https://ref.ly/Jude16:13\">REV 16:13</a>, <a href=\"https://ref.ly/Jude20:2\">REV 20:2</a>, <a href=\"https://ref.ly/Jdt1:1\">ESG 1:1</a>, <a href=\"https://ref.ly/Jdt10:3\">ESG 10:3</a>, <a href=\"https://ref.ly/EsthGr16:10\">WIS 16:10</a>, <a href=\"https://ref.ly/Wis25:16\">SIR 25:16</a>, <a href=\"https://ref.ly/Sus1:23\">BEL 1:23</a>, <a href=\"https://ref.ly/Sus1:25\">BEL 1:25</a>, <a href=\"https://ref.ly/Sus1:27\">BEL 1:27</a>, <a href=\"https://ref.ly/Sus1:28\">BEL 1:28</a>, <a href=\"https://ref.ly/AddPs2:33\">ODA 2:33</a>, <a href=\"https://ref.ly/Odes2:25\">PSS 2:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κῆτος</span> <span class=\"thlex-translit\">(kētos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis43:25\">SIR 43:25</a>, <a href=\"https://ref.ly/2Macc6:8\">3MA 6:8</a>, <a href=\"https://ref.ly/AddPs8:79\">ODA 8:79</a>, <a href=\"https://ref.ly/INVALID\">112 3:79</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">draco</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd15:29\">2ES 15:29</a>, <a href=\"https://ref.ly/1Esd15:31\">2ES 15:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">monstrum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd5:8\">2ES 5:8</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0187_dragons.jpg\" alt=\"WEB-0187_dragons\"></figure>The word <em>tannin</em> is traditionally translated as “serpent” or “snake” in <a href=\"https://ref.ly/Exod7:1\">EXO 7:1</a> and also in <a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a> and <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a>, where the word occurs in parallel with another word for “snake&quot;. (See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:4.9\" href=\"#FAUNA:4.9\">4.9 Snake</a>.) Apart from these references and <a href=\"https://ref.ly/Neh2:13\">NEH 2:13</a> and <a href=\"https://ref.ly/Lam4:3\">LAM 4:3</a> (where the word means “jackal&quot;), in all other occurrences <em>tannin</em> is used to refer to a mythical sea monster. It seems likely that <em>tannin</em> is a generic word for all such mythical sea monsters, and that <em>behemoth</em> and <em>livyathan</em> are the names of two specific monsters. In later Rabbinic literature the beliefs about these monsters were expanded and developed, and they were used in apocalyptic writings, where the monsters represent the enemies of Israel.</p>\n<p>Another possibility has been suggested by the Jewish scholars Cassuto and Hacham in their commentaries on Exodus. They note that, while in Moses’ rod is said to turn into a <em>nahash</em> in the desert, along the banks of the Nile (<a href=\"https://ref.ly/Exod7:0\">EXO 7:0</a>) Aaron’s rod turns into a <em>tannin</em>, which they interpret to mean “crocodile&quot;. Each miracle would then be appropriate to its setting: a snake in the desert, a crocodile by the river. Hacham also points out that in <a href=\"https://ref.ly/Ezek29:3\">EZK 29:3</a> Pharaoh is called “the great crocodile [<em>tanim</em> ] that lies in the midst of his rivers,” and that the Egyptians used to worship the crocodile. While no translation has adopted this proposal, it should be given serious consideration. (A picture of a crocodile appears below in <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.3\" href=\"#FAUNA:7.3\">7.3 Leviathan</a>.)</p>\n<p>The Greek word <em>drakōn</em> is translated as “dragon” in all English versions, except in the <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> translation of <a href=\"https://ref.ly/Wis25:16\">SIR 25:16</a>, where it is translated as “snake&quot;. In the Septuagint translation of the Hebrew Bible, <em>drakōn</em> is normally used to translate the Hebrew <em>tannin</em>.</p>\n<p>The Greek word <em>kētos</em> refers to any giant creature. In most cases it is used for sea monsters, but in <a href=\"https://ref.ly/INVALID\">112 3:79</a> <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> translates this word as “whale&quot;.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>There are no detailed descriptions of these mythical monsters in the Bible, but the few contexts that shed light on their appearance hint that they were seen as some sort of gigantic serpents that lived in the sea.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Jewish thought viewed the sea monster or dragon as a) the embodiment of the chaos that existed in the primary stages of creation, and b) the symbol of the nations that were the enemies of Israel. In the New Testament this second idea is taken up and modified slightly so that the dragon is the symbol of the evil forces that are at war against the church of Jesus Christ.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Most translations use a phrase meaning sea-monster, or a more descriptive phrase, such as “enormous sea animal” or “enormous sea snake&quot;. In some cultures, dragons are a symbol of good fortune and prosperity, and in others sea monsters or giant serpents represent benevolent spirits, often associated with rain. In these cultures it is necessary to include footnotes to indicate that the monster of the Scripture passage symbolized the chaos that existed in the early stages of creation (in contexts where this is clearly the case), or that the monster represents the enemies of Israel or the church (in those contexts where this is clearly the case).</p>\n<p>In the Septuagint <em>kētos</em> is the word used for the “great fish” in <a href=\"https://ref.ly/Jonah2:0\">JON 2:0</a>. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:5.1\" href=\"#FAUNA:5.1\">5.1 Fish</a>.</p>\n<p><a href=\"https://ref.ly/Lam4:3\">LAM 4:3</a>: This should be read as <em>tanim</em> “jackals” rather than as <em>tannin</em> “sea-monster” (compare <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, and <abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr>). <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, surprisingly, have “whales” but this is unlikely and has little support from commentators.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001021",
+"start_ref_usfm": "GEN 1:21",
+"end_ref": "01001021",
+"end_ref_usfm": "GEN 1:21"
+},
+{
+"start_ref": "18007012",
+"start_ref_usfm": "JOB 7:12",
+"end_ref": "18007012",
+"end_ref_usfm": "JOB 7:12"
+},
+{
+"start_ref": "19074013",
+"start_ref_usfm": "PSA 74:13",
+"end_ref": "19074013",
+"end_ref_usfm": "PSA 74:13"
+},
+{
+"start_ref": "19148007",
+"start_ref_usfm": "PSA 148:7",
+"end_ref": "19148007",
+"end_ref_usfm": "PSA 148:7"
+},
+{
+"start_ref": "23027001",
+"start_ref_usfm": "ISA 27:1",
+"end_ref": "23027001",
+"end_ref_usfm": "ISA 27:1"
+},
+{
+"start_ref": "23051009",
+"start_ref_usfm": "ISA 51:9",
+"end_ref": "23051009",
+"end_ref_usfm": "ISA 51:9"
+},
+{
+"start_ref": "24051034",
+"start_ref_usfm": "JER 51:34",
+"end_ref": "24051034",
+"end_ref_usfm": "JER 51:34"
+},
+{
+"start_ref": "26029003",
+"start_ref_usfm": "EZK 29:3",
+"end_ref": "26029003",
+"end_ref_usfm": "EZK 29:3"
+},
+{
+"start_ref": "26032002",
+"start_ref_usfm": "EZK 32:2",
+"end_ref": "26032002",
+"end_ref_usfm": "EZK 32:2"
+},
+{
+"start_ref": "66012003",
+"start_ref_usfm": "REV 12:3",
+"end_ref": "66012003",
+"end_ref_usfm": "REV 12:3"
+},
+{
+"start_ref": "66012004",
+"start_ref_usfm": "REV 12:4",
+"end_ref": "66012004",
+"end_ref_usfm": "REV 12:4"
+},
+{
+"start_ref": "66012007",
+"start_ref_usfm": "REV 12:7",
+"end_ref": "66012007",
+"end_ref_usfm": "REV 12:7"
+},
+{
+"start_ref": "66012009",
+"start_ref_usfm": "REV 12:9",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+},
+{
+"start_ref": "66012013",
+"start_ref_usfm": "REV 12:13",
+"end_ref": "66012013",
+"end_ref_usfm": "REV 12:13"
+},
+{
+"start_ref": "66012016",
+"start_ref_usfm": "REV 12:16",
+"end_ref": "66012016",
+"end_ref_usfm": "REV 12:16"
+},
+{
+"start_ref": "66012017",
+"start_ref_usfm": "REV 12:17",
+"end_ref": "66012017",
+"end_ref_usfm": "REV 12:17"
+},
+{
+"start_ref": "66013002",
+"start_ref_usfm": "REV 13:2",
+"end_ref": "66013002",
+"end_ref_usfm": "REV 13:2"
+},
+{
+"start_ref": "66013004",
+"start_ref_usfm": "REV 13:4",
+"end_ref": "66013004",
+"end_ref_usfm": "REV 13:4"
+},
+{
+"start_ref": "66013011",
+"start_ref_usfm": "REV 13:11",
+"end_ref": "66013011",
+"end_ref_usfm": "REV 13:11"
+},
+{
+"start_ref": "66016013",
+"start_ref_usfm": "REV 16:13",
+"end_ref": "66016013",
+"end_ref_usfm": "REV 16:13"
+},
+{
+"start_ref": "66020002",
+"start_ref_usfm": "REV 20:2",
+"end_ref": "66020002",
+"end_ref_usfm": "REV 20:2"
+},
+{
+"start_ref": "70001001",
+"start_ref_usfm": "ESG 1:1",
+"end_ref": "70001001",
+"end_ref_usfm": "ESG 1:1"
+},
+{
+"start_ref": "70010003",
+"start_ref_usfm": "ESG 10:3",
+"end_ref": "70010003",
+"end_ref_usfm": "ESG 10:3"
+},
+{
+"start_ref": "71016010",
+"start_ref_usfm": "WIS 16:10",
+"end_ref": "71016010",
+"end_ref_usfm": "WIS 16:10"
+},
+{
+"start_ref": "72025016",
+"start_ref_usfm": "SIR 25:16",
+"end_ref": "72025016",
+"end_ref_usfm": "SIR 25:16"
+},
+{
+"start_ref": "77001023",
+"start_ref_usfm": "BEL 1:23",
+"end_ref": "77001023",
+"end_ref_usfm": "BEL 1:23"
+},
+{
+"start_ref": "77001025",
+"start_ref_usfm": "BEL 1:25",
+"end_ref": "77001025",
+"end_ref_usfm": "BEL 1:25"
+},
+{
+"start_ref": "77001027",
+"start_ref_usfm": "BEL 1:27",
+"end_ref": "77001027",
+"end_ref_usfm": "BEL 1:27"
+},
+{
+"start_ref": "77001028",
+"start_ref_usfm": "BEL 1:28",
+"end_ref": "77001028",
+"end_ref_usfm": "BEL 1:28"
+},
+{
+"start_ref": "86002033",
+"start_ref_usfm": "ODA 2:33",
+"end_ref": "86002033",
+"end_ref_usfm": "ODA 2:33"
+},
+{
+"start_ref": "87002025",
+"start_ref_usfm": "PSS 2:25",
+"end_ref": "87002025",
+"end_ref_usfm": "PSS 2:25"
+},
+{
+"start_ref": "72043025",
+"start_ref_usfm": "SIR 43:25",
+"end_ref": "72043025",
+"end_ref_usfm": "SIR 43:25"
+},
+{
+"start_ref": "80006008",
+"start_ref_usfm": "3MA 6:8",
+"end_ref": "80006008",
+"end_ref_usfm": "3MA 6:8"
+},
+{
+"start_ref": "86008079",
+"start_ref_usfm": "ODA 8:79",
+"end_ref": "86008079",
+"end_ref_usfm": "ODA 8:79"
+},
+{
+"start_ref": "83015029",
+"start_ref_usfm": "2ES 15:29",
+"end_ref": "83015029",
+"end_ref_usfm": "2ES 15:29"
+},
+{
+"start_ref": "83015031",
+"start_ref_usfm": "2ES 15:31",
+"end_ref": "83015031",
+"end_ref_usfm": "2ES 15:31"
+},
+{
+"start_ref": "83005008",
+"start_ref_usfm": "2ES 5:8",
+"end_ref": "83005008",
+"end_ref_usfm": "2ES 5:8"
+},
+{
+"start_ref": "02007001",
+"start_ref_usfm": "EXO 7:1",
+"end_ref": "02007001",
+"end_ref_usfm": "EXO 7:1"
+},
+{
+"start_ref": "05032033",
+"start_ref_usfm": "DEU 32:33",
+"end_ref": "05032033",
+"end_ref_usfm": "DEU 32:33"
+},
+{
+"start_ref": "19091013",
+"start_ref_usfm": "PSA 91:13",
+"end_ref": "19091013",
+"end_ref_usfm": "PSA 91:13"
+},
+{
+"start_ref": "16002013",
+"start_ref_usfm": "NEH 2:13",
+"end_ref": "16002013",
+"end_ref_usfm": "NEH 2:13"
+},
+{
+"start_ref": "25004003",
+"start_ref_usfm": "LAM 4:3",
+"end_ref": "25004003",
+"end_ref_usfm": "LAM 4:3"
+},
+{
+"start_ref": "02007000",
+"start_ref_usfm": "EXO 7:0",
+"end_ref": "02007000",
+"end_ref_usfm": "EXO 7:0"
+},
+{
+"start_ref": "32002000",
+"start_ref_usfm": "JON 2:0",
+"end_ref": "32002000",
+"end_ref_usfm": "JON 2:0"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:7.3",
+"reference_id": "FAUNA:7.3",
+"version": "1.0.4",
+"title": "Leviathan",
+"media_type": "Text",
+"index_reference": "7.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:7.3\"><span class=\"thlex-key\">7.3</span> Leviathan</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לִוְיָתָן</span> <span class=\"thlex-translit\">(livyathan)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job3:8\">JOB 3:8</a>, <a href=\"https://ref.ly/Job40:25\">JOB 40:25</a>, <a href=\"https://ref.ly/Ps74:14\">PSA 74:14</a>, <a href=\"https://ref.ly/Ps104:26\">PSA 104:26</a>, <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a>, <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">Leviathan</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:49\">2ES 6:49</a>, <a href=\"https://ref.ly/1Esd6:52\">2ES 6:52</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0162_crocodile.jpg\" alt=\"WEB-0162_crocodile\"></figure>Scholars are divided in the details of the meaning of this word, but all are agreed that it refers to a monster that lives in water. The word seems to be related to a Hebrew root that means “to twist.” Some believe that the notion of <em>livyathan</em> is related to ancient Egyptian beliefs about a mythical monster crocodile that was thought to be responsible for the annual flooding of the Nile and for causing eclipses of the sun. The passages in <a href=\"https://ref.ly/Job41:1\">JOB 41:1</a> and <a href=\"https://ref.ly/Ps74:14\">PSA 74:14</a> support this view. In <a href=\"https://ref.ly/Ps74:13\">PSA 74:13</a>; <a href=\"https://ref.ly/Ps74:14\">PSA 74:14</a> <em>livyathan</em> occurs in parallel with another word <em>tannin</em>, which refers to a monster that lives in the water. In <a href=\"https://ref.ly/Ezek29:3\">EZK 29:3</a> <em>tanim</em> is described as having powerful jaws and scales. The similarity to a crocodile has been noted by many commentators.</p>\n<p>Others relate this monster to Babylonian myths about the chaos dragon Tiamat. The Ugaritic texts refer to a similar monster called <em>lotan</em>, which is the Ugaritic form of <em>livyathan</em>. It seems possible that this is the reference in <a href=\"https://ref.ly/Isa27:1\">ISA 27:1</a>. The probability is that the name is used in both senses in the Bible.</p>\n<p>The <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> rendering of this word as “whale” in <a href=\"https://ref.ly/Job41:1\">JOB 41:1</a> is very radical, especially in the light of the fact that they translate <em>behemoth</em> as crocodile in the previous chapter. There is very little scholarly support for either of these renderings.</p>\n<p>There is general agreement among Jewish scholars that <em>tannin</em> is the more generic word for “sea monster&quot;, while <em>behemoth</em> and <em>livyathan</em> are the names of two of those monsters. This is reflected in <a href=\"https://ref.ly/1Esd6:49\">2ES 6:49</a>; <a href=\"https://ref.ly/1Esd6:52\">2ES 6:52</a>, where <em>leviathan</em> is clearly a proper name for one of these monsters.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Crocodiles are the largest of all reptiles. The species found in the Nile valley is the Nile Crocodile <em>Crocodylus niloticus</em>. In biblical times these crocodiles also lived in the larger rivers of the land of Israel, and another species lived in the Tigris and Euphrates rivers in Mesopotamia.</p>\n<p>Crocodiles look like enormous lizards with large teeth, and they often reach more than 5 meters (16 feet) in length. Their skin is covered in thick fleshy scales. They live in rivers and in river estuaries and come out of the water onto land to sun themselves for long periods each day. When they are in the water they can stay submerged for ten minutes or more.</p>\n<p>They feed on fish that they catch in the water, or lie in wait, wholly or partly submerged until some animal or person comes to drink. They then leap out of the water and seize their prey and throw or drag it into the water where they drown it. They then wedge the prey under a log or between rocks or reeds and tear large pieces from the carcass by seizing the flesh in their teeth and twisting themselves over and over until the flesh comes loose. They then swallow the meat without chewing it. In areas where these crocodiles live, people are killed every year by them.</p>\n<p>The monster crocodile of the Egyptians, however, was not a real crocodile but a mythical one of gigantic proportions, which was associated with the annual flooding of the Nile River. It was believed to be so big that whenever it entered the Nile, it caused the river to overflow its banks.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Leviathan symbolized the Egyptian nation and probably its gods; it also symbolized the two mighty nations of Assyria and Babylon. Thus it symbolized the great enemies of Israel.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In most translations the word is transliterated from the Hebrew rather than translated, but the name by itself conveys little to the average reader. In languages where crocodiles are well known, the more meaningful expression “the giant crocodile Leviathan” can be used in the Job and Psalms passages. Then, in the Isaiah passage, where the text itself identifies Leviathan as a serpent (or reptile), the name can be used by itself. In some societies, where there are beliefs about mythical monster serpents or crocodiles associated with the flooding of rivers, the local name for the mythical monster can be used, with a footnote to indicate that in Hebrew the monster’s name is livyathan and that it represented the enemies of Israel.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18003008",
+"start_ref_usfm": "JOB 3:8",
+"end_ref": "18003008",
+"end_ref_usfm": "JOB 3:8"
+},
+{
+"start_ref": "18040025",
+"start_ref_usfm": "JOB 40:25",
+"end_ref": "18040025",
+"end_ref_usfm": "JOB 40:25"
+},
+{
+"start_ref": "19074014",
+"start_ref_usfm": "PSA 74:14",
+"end_ref": "19074014",
+"end_ref_usfm": "PSA 74:14"
+},
+{
+"start_ref": "19104026",
+"start_ref_usfm": "PSA 104:26",
+"end_ref": "19104026",
+"end_ref_usfm": "PSA 104:26"
+},
+{
+"start_ref": "23027001",
+"start_ref_usfm": "ISA 27:1",
+"end_ref": "23027001",
+"end_ref_usfm": "ISA 27:1"
+},
+{
+"start_ref": "83006049",
+"start_ref_usfm": "2ES 6:49",
+"end_ref": "83006049",
+"end_ref_usfm": "2ES 6:49"
+},
+{
+"start_ref": "83006052",
+"start_ref_usfm": "2ES 6:52",
+"end_ref": "83006052",
+"end_ref_usfm": "2ES 6:52"
+},
+{
+"start_ref": "18041001",
+"start_ref_usfm": "JOB 41:1",
+"end_ref": "18041001",
+"end_ref_usfm": "JOB 41:1"
+},
+{
+"start_ref": "19074013",
+"start_ref_usfm": "PSA 74:13",
+"end_ref": "19074013",
+"end_ref_usfm": "PSA 74:13"
+},
+{
+"start_ref": "26029003",
+"start_ref_usfm": "EZK 29:3",
+"end_ref": "26029003",
+"end_ref_usfm": "EZK 29:3"
+}
+],
+"resource": []
+}
+}
+]
