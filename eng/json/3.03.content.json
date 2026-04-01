@@ -1,0 +1,120 @@
+[
+{
+"content_id": "FAUNA:3.3",
+"reference_id": "FAUNA:3.3",
+"version": "1.0.4",
+"title": "Chicken, rooster, hen",
+"media_type": "Text",
+"index_reference": "3.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:3.3\"><span class=\"thlex-key\">3.3</span> Chicken, rooster, hen</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">זַרְזִיר</span> <span class=\"thlex-translit\">(zarzir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov30:31\">PRO 30:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֶׂכְוִי</span> <span class=\"thlex-translit\">(sekwi)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job38:36\">JOB 38:36</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀλεκτρυών</span> <span class=\"thlex-translit\">(alektruōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc5:23\">3MA 5:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀλέκτωρ</span> <span class=\"thlex-translit\">(alektōr)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt26:34\">MAT 26:34</a>, <a href=\"https://ref.ly/Matt26:74\">MAT 26:74</a>, <a href=\"https://ref.ly/Matt26:75\">MAT 26:75</a>, <a href=\"https://ref.ly/Matt14:30\">MRK 14:30</a>, <a href=\"https://ref.ly/Matt14:68\">MRK 14:68</a>, <a href=\"https://ref.ly/Matt14:72\">MRK 14:72</a>, <a href=\"https://ref.ly/Matt14:72\">MRK 14:72</a>, <a href=\"https://ref.ly/Mark22:34\">LUK 22:34</a>, <a href=\"https://ref.ly/Mark22:60\">LUK 22:60</a>, <a href=\"https://ref.ly/Mark22:61\">LUK 22:61</a>, <a href=\"https://ref.ly/Luke13:38\">JHN 13:38</a>, <a href=\"https://ref.ly/Luke18:27\">JHN 18:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">νοσσίον, νοσσιά</span> <span class=\"thlex-translit\">(nossion, nossia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a>, <a href=\"https://ref.ly/Mark13:34\">LUK 13:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὄρνις</span> <span class=\"thlex-translit\">(ornis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a>, <a href=\"https://ref.ly/Mark13:34\">LUK 13:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">gallina</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd1:30\">2ES 1:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p>There is considerable doubt about the meaning of the word <em>sekwi</em>. However, the rendering “cock” or “rooster” has support from the Vulgate and one of the Targums, as well as the majority of commentaries. In the context of <a href=\"https://ref.ly/Job38:36\">JOB 38:36</a> the reference seems to be to the way in which the ibis is able to announce the flooding of the Nile, and the rooster is able to announce the coming of the dawn (compare <abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> and <abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr>). Both of these abilities are mentioned quite often in Egyptian literature.</p>\n<p>The word <em>zarzir</em> is probably related to a word meaning “narrow waisted,” but most commentaries and translations interpret this as a reference to the rooster.</p>\n<p>The Greek word <em>ornis</em> and the Latin word <em>gallina</em> mean “hen,” and the Greek words <em>nossia</em> and <em>nossion</em> mean “chick,” that is, a baby fowl.</p>\n<p>All modern domestic fowls are descended from the jungle fowl of India, Southeast Asia, and China. These were domesticated very early in the history of that region, almost as soon as the farming of rice and other grains began. According to the Talmud, it was forbidden to keep domestic poultry in Jerusalem, but there is evidence from ancient Hebrew seals that chickens were known in the land as early as 600 B.C. The reference to the cock crowing on the night of the crucifixion would indicate that chickens were kept near, if not in, Jerusalem.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0767_rooster.jpg\" alt=\"WEB-0767_rooster\"></figure>Ancient domestic fowls would still have looked very much like the Jungle Fowl <em>Gallus gallus</em> from which they were descended. Jungle fowl roosters are dark, brownish red, with orange-red neck hackles, a smallish red comb on the top of their heads, and red lappets on each side under the beak. They have a white spot on their backs near the base of their long glossy black and green tails. The hens are a lighter brownish red, have no white spot or long tail, and have a smaller comb on their heads. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.9\" href=\"#FAUNA:3.9\">3.9 Goose</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Domestic fowl had connotations of fertility to the Egyptians and Persians. This seems to have been adopted later in Judaism, since it became the practice to carry a cock and a hen in front of the bride and groom at a wedding. However, their significance in the Bible seems related to the fact that cocks crow very early in the morning, thus announcing the coming dawn before humans are aware of it.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Domestic fowl have now spread around the world and are well-known, apart from some areas of the tundra region.</p>\n<p>The words <em>sekwi</em>, <em>zarzir</em>, <em>alektruōn</em>, and <em>alektōr</em> are probably best translated as “rooster,” <em>ornis</em> (in the passages listed above, but not elsewhere) as “hen,” and <em>nossion</em> and <em>nossia</em> as “chickens.” In some languages where roosters and hens are not normally differentiated, it may not be necessary to do so in the gospel passages, since the verb “crow” will usually be sufficient context to make the meaning clear. However, in the Job and Proverbs passages it may still be necessary in some languages to say something like “male chicken.&quot;</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "20030031",
+"start_ref_usfm": "PRO 30:31",
+"end_ref": "20030031",
+"end_ref_usfm": "PRO 30:31"
+},
+{
+"start_ref": "18038036",
+"start_ref_usfm": "JOB 38:36",
+"end_ref": "18038036",
+"end_ref_usfm": "JOB 38:36"
+},
+{
+"start_ref": "80005023",
+"start_ref_usfm": "3MA 5:23",
+"end_ref": "80005023",
+"end_ref_usfm": "3MA 5:23"
+},
+{
+"start_ref": "40026034",
+"start_ref_usfm": "MAT 26:34",
+"end_ref": "40026034",
+"end_ref_usfm": "MAT 26:34"
+},
+{
+"start_ref": "40026074",
+"start_ref_usfm": "MAT 26:74",
+"end_ref": "40026074",
+"end_ref_usfm": "MAT 26:74"
+},
+{
+"start_ref": "40026075",
+"start_ref_usfm": "MAT 26:75",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+},
+{
+"start_ref": "41014030",
+"start_ref_usfm": "MRK 14:30",
+"end_ref": "41014030",
+"end_ref_usfm": "MRK 14:30"
+},
+{
+"start_ref": "41014068",
+"start_ref_usfm": "MRK 14:68",
+"end_ref": "41014068",
+"end_ref_usfm": "MRK 14:68"
+},
+{
+"start_ref": "41014072",
+"start_ref_usfm": "MRK 14:72",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
+},
+{
+"start_ref": "42022034",
+"start_ref_usfm": "LUK 22:34",
+"end_ref": "42022034",
+"end_ref_usfm": "LUK 22:34"
+},
+{
+"start_ref": "42022060",
+"start_ref_usfm": "LUK 22:60",
+"end_ref": "42022060",
+"end_ref_usfm": "LUK 22:60"
+},
+{
+"start_ref": "42022061",
+"start_ref_usfm": "LUK 22:61",
+"end_ref": "42022061",
+"end_ref_usfm": "LUK 22:61"
+},
+{
+"start_ref": "43013038",
+"start_ref_usfm": "JHN 13:38",
+"end_ref": "43013038",
+"end_ref_usfm": "JHN 13:38"
+},
+{
+"start_ref": "43018027",
+"start_ref_usfm": "JHN 18:27",
+"end_ref": "43018027",
+"end_ref_usfm": "JHN 18:27"
+},
+{
+"start_ref": "40023037",
+"start_ref_usfm": "MAT 23:37",
+"end_ref": "40023037",
+"end_ref_usfm": "MAT 23:37"
+},
+{
+"start_ref": "42013034",
+"start_ref_usfm": "LUK 13:34",
+"end_ref": "42013034",
+"end_ref_usfm": "LUK 13:34"
+},
+{
+"start_ref": "83001030",
+"start_ref_usfm": "2ES 1:30",
+"end_ref": "83001030",
+"end_ref_usfm": "2ES 1:30"
+}
+],
+"resource": []
+}
+}
+]

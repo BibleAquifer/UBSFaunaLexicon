@@ -1,0 +1,42 @@
+[
+{
+"content_id": "FAUNA:3.15",
+"reference_id": "FAUNA:3.15",
+"version": "1.0.4",
+"title": "Osprey",
+"media_type": "Text",
+"index_reference": "3.15",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:3.15\"><span class=\"thlex-key\">3.15</span> Osprey</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עָזְנִיָּה</span> <span class=\"thlex-translit\">(‘ozniyah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:13\">LEV 11:13</a>, <a href=\"https://ref.ly/Deut14:12\">DEU 14:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שָׁלָךְ</span> <span class=\"thlex-translit\">(shalak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev11:17\">LEV 11:17</a>, <a href=\"https://ref.ly/Deut14:17\">DEU 14:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0690_osprey.jpg\" alt=\"WEB-0690_osprey\"></figure>There is also considerable doubt about the meaning of the word <em>‘ozniyah</em>. Its meaning is basically derived from its position in the list of unclean birds, and this makes reference to a type of vulture more likely than the osprey. Since the Black Vulture <em>Aegypius monachus</em> is slightly smaller than the lappet-faced vulture but slightly larger than the bearded vulture, this seems to be the most likely candidate. It probably represents a grouping of eagles and buzzards the same size as itself. In modern Hebrew <em>‘ozniyah</em> is the name for the lappet-faced and black vultures. See the primary discussion at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.8\" href=\"#FAUNA:3.8\">3.8 Eagle, vulture</a></p>\n<p>Although the translation of <em>shalak</em> as cormorant has a tradition going back to the seventeenth century, there has always been considerable doubt about this translation. For one thing, the root of the Hebrew word <em>shalak</em> means “to throw or hurl&quot;, which would indicate that the bird with this name “throws” itself down onto its prey, something cormorants do not do. They swim low in the water and dive underwater to hunt their prey.</p>\n<p>This led the late G. R. Driver to suggest the translation “fisher owl” and this has been followed in <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>. However, there are problems with this suggestion too. The fisher owl, or more correctly, the Brown Fish Owl <em>Scotopelia ceylonensis</em> is not likely to have been well known; its fishing habits would only have been seen by fishermen on moonlit nights, and that very rarely.</p>\n<p>In modern Hebrew <em>shalak</em> is the name given to the Osprey <em>Pandion haliaetus</em>, a type of fishing eagle that plunges into the water from a height and catches fish in its claws. Some Israeli scholars have also suggested that it may have been the ancient name for the Smyrna Kingfisher <em>Halcyon smyrnensis</em> or the Gannet <em>Sula bassana</em>, both of which drop down from a height onto their prey, which they catch underwater in their beaks.</p>\n<p>Since there is so much doubt about the identification of this bird, the translation “osprey” seems to have as much, if not more, justification than “cormorant&quot;. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:3.4\" href=\"#FAUNA:3.4\">3.4 Cormorant</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Osprey <em>Pandion haliaetus</em> is an eagle-like bird that feeds on fish. It has a white head, chest, and belly, with a dark brown back and wings. It has a dark stripe from the edge of the beak through the eye to the back of the neck and a faint stripe on its chest. In flight it looks mainly white with dark brown wing tips. Faint bands of brown can be seen on the flight feathers and tail.</p>\n<p>It is found on seacoasts and near lakes and large rivers. It spends most of its time perched on posts, logs, or rocks near the water and hunts periodically by flying slowly over the water. When it sees a fish, it hovers briefly, then dives with its wings raised nearly vertically. It often dives right under the water, then surfaces, shakes its wings, and takes off with the fish held in its talons. In Africa it is often robbed of its prey while it is flying by the larger, faster African fish eagle.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance or symbolism:</h2>\n<div class=\"thlex-paragraphs\">\n<p>It is listed as an unclean bird.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The osprey is found almost worldwide, but is not very common in parts of Africa where the conspicuous African Fish Eagle <em>Haliaetus vocifer</em>, with its white head and tail and loud cry, is much better known. In these areas in Africa the name for this better known bird can be used. In languages where there is no word for the osprey, a phrase such as “fishing hawk” or “fishing eagle” can usually be used.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011013",
+"start_ref_usfm": "LEV 11:13",
+"end_ref": "03011013",
+"end_ref_usfm": "LEV 11:13"
+},
+{
+"start_ref": "05014012",
+"start_ref_usfm": "DEU 14:12",
+"end_ref": "05014012",
+"end_ref_usfm": "DEU 14:12"
+},
+{
+"start_ref": "03011017",
+"start_ref_usfm": "LEV 11:17",
+"end_ref": "03011017",
+"end_ref_usfm": "LEV 11:17"
+},
+{
+"start_ref": "05014017",
+"start_ref_usfm": "DEU 14:17",
+"end_ref": "05014017",
+"end_ref_usfm": "DEU 14:17"
+}
+],
+"resource": []
+}
+}
+]
