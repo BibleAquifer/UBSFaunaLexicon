@@ -45,7 +45,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-04-01T13:42:29.010921"
+"dateCreated": "2026-04-01T15:16:07.080902"
 },
 "idAuthorities": {
 "aquifer": {
@@ -59,7 +59,7 @@
 "primary": {
 "aquifer": {
 "UBSFaunaLexicon": {
-"timestamp": "2026-04-01T13:42:29.010921"
+"timestamp": "2026-04-01T15:16:07.080902"
 }
 }
 },
@@ -89,957 +89,125 @@
 }
 },
 "ingredients": {
-"json/000001.content.json": {
+"json/0.content.json": {
 "mimeType": "text/json",
-"size": 4066
+"size": 21973
 },
-"json/000002.content.json": {
+"json/1.content.json": {
 "mimeType": "text/json",
-"size": 17910
+"size": 71818
 },
-"json/000003.content.json": {
+"json/2.content.json": {
 "mimeType": "text/json",
-"size": 25982
+"size": 761788
 },
-"json/000004.content.json": {
+"json/3.content.json": {
 "mimeType": "text/json",
-"size": 18613
+"size": 324389
 },
-"json/000005.content.json": {
+"json/4.content.json": {
 "mimeType": "text/json",
-"size": 6260
+"size": 103399
 },
-"json/000006.content.json": {
+"json/5.content.json": {
 "mimeType": "text/json",
-"size": 20972
+"size": 39766
 },
-"json/000007.content.json": {
+"json/6.content.json": {
 "mimeType": "text/json",
-"size": 7838
+"size": 129427
 },
-"json/000008.content.json": {
+"json/7.content.json": {
 "mimeType": "text/json",
-"size": 8001
+"size": 37028
 },
-"json/000009.content.json": {
-"mimeType": "text/json",
-"size": 7447
-},
-"json/000010.content.json": {
-"mimeType": "text/json",
-"size": 2503
-},
-"json/000011.content.json": {
-"mimeType": "text/json",
-"size": 6101
-},
-"json/000012.content.json": {
-"mimeType": "text/json",
-"size": 5792
-},
-"json/000013.content.json": {
-"mimeType": "text/json",
-"size": 36161
-},
-"json/000014.content.json": {
-"mimeType": "text/json",
-"size": 5999
-},
-"json/000015.content.json": {
-"mimeType": "text/json",
-"size": 9716
-},
-"json/000016.content.json": {
-"mimeType": "text/json",
-"size": 9870
-},
-"json/000017.content.json": {
-"mimeType": "text/json",
-"size": 23094
-},
-"json/000018.content.json": {
-"mimeType": "text/json",
-"size": 6427
-},
-"json/000019.content.json": {
-"mimeType": "text/json",
-"size": 100581
-},
-"json/000020.content.json": {
-"mimeType": "text/json",
-"size": 15753
-},
-"json/000021.content.json": {
-"mimeType": "text/json",
-"size": 16341
-},
-"json/000022.content.json": {
-"mimeType": "text/json",
-"size": 8853
-},
-"json/000023.content.json": {
-"mimeType": "text/json",
-"size": 15842
-},
-"json/000024.content.json": {
-"mimeType": "text/json",
-"size": 9265
-},
-"json/000025.content.json": {
-"mimeType": "text/json",
-"size": 36496
-},
-"json/000026.content.json": {
-"mimeType": "text/json",
-"size": 7922
-},
-"json/000027.content.json": {
-"mimeType": "text/json",
-"size": 5935
-},
-"json/000028.content.json": {
-"mimeType": "text/json",
-"size": 50368
-},
-"json/000029.content.json": {
-"mimeType": "text/json",
-"size": 13950
-},
-"json/000030.content.json": {
-"mimeType": "text/json",
-"size": 10875
-},
-"json/000031.content.json": {
-"mimeType": "text/json",
-"size": 11077
-},
-"json/000032.content.json": {
-"mimeType": "text/json",
-"size": 25084
-},
-"json/000033.content.json": {
-"mimeType": "text/json",
-"size": 9693
-},
-"json/000034.content.json": {
-"mimeType": "text/json",
-"size": 57237
-},
-"json/000035.content.json": {
-"mimeType": "text/json",
-"size": 7340
-},
-"json/000036.content.json": {
-"mimeType": "text/json",
-"size": 6412
-},
-"json/000037.content.json": {
-"mimeType": "text/json",
-"size": 12117
-},
-"json/000038.content.json": {
-"mimeType": "text/json",
-"size": 9046
-},
-"json/000039.content.json": {
-"mimeType": "text/json",
-"size": 6727
-},
-"json/000040.content.json": {
-"mimeType": "text/json",
-"size": 10540
-},
-"json/000041.content.json": {
-"mimeType": "text/json",
-"size": 80136
-},
-"json/000042.content.json": {
-"mimeType": "text/json",
-"size": 62749
-},
-"json/000043.content.json": {
-"mimeType": "text/json",
-"size": 8588
-},
-"json/000044.content.json": {
-"mimeType": "text/json",
-"size": 7010
-},
-"json/000045.content.json": {
-"mimeType": "text/json",
-"size": 14330
-},
-"json/000046.content.json": {
-"mimeType": "text/json",
-"size": 12689
-},
-"json/000047.content.json": {
-"mimeType": "text/json",
-"size": 5875
-},
-"json/000048.content.json": {
-"mimeType": "text/json",
-"size": 31896
-},
-"json/000049.content.json": {
-"mimeType": "text/json",
-"size": 21786
-},
-"json/000050.content.json": {
-"mimeType": "text/json",
-"size": 10969
-},
-"json/000051.content.json": {
-"mimeType": "text/json",
-"size": 7764
-},
-"json/000052.content.json": {
-"mimeType": "text/json",
-"size": 10622
-},
-"json/000053.content.json": {
-"mimeType": "text/json",
-"size": 10413
-},
-"json/000054.content.json": {
-"mimeType": "text/json",
-"size": 19232
-},
-"json/000055.content.json": {
-"mimeType": "text/json",
-"size": 37412
-},
-"json/000056.content.json": {
-"mimeType": "text/json",
-"size": 7278
-},
-"json/000057.content.json": {
-"mimeType": "text/json",
-"size": 7312
-},
-"json/000058.content.json": {
-"mimeType": "text/json",
-"size": 4732
-},
-"json/000059.content.json": {
-"mimeType": "text/json",
-"size": 5186
-},
-"json/000060.content.json": {
-"mimeType": "text/json",
-"size": 9551
-},
-"json/000061.content.json": {
-"mimeType": "text/json",
-"size": 5917
-},
-"json/000062.content.json": {
-"mimeType": "text/json",
-"size": 8051
-},
-"json/000063.content.json": {
-"mimeType": "text/json",
-"size": 7911
-},
-"json/000064.content.json": {
-"mimeType": "text/json",
-"size": 4375
-},
-"json/000065.content.json": {
-"mimeType": "text/json",
-"size": 7871
-},
-"json/000066.content.json": {
-"mimeType": "text/json",
-"size": 6539
-},
-"json/000067.content.json": {
-"mimeType": "text/json",
-"size": 4645
-},
-"json/000068.content.json": {
-"mimeType": "text/json",
-"size": 5112
-},
-"json/000069.content.json": {
-"mimeType": "text/json",
-"size": 5955
-},
-"json/000070.content.json": {
-"mimeType": "text/json",
-"size": 4156
-},
-"json/000071.content.json": {
-"mimeType": "text/json",
-"size": 7542
-},
-"json/000072.content.json": {
-"mimeType": "text/json",
-"size": 6213
-},
-"json/000073.content.json": {
-"mimeType": "text/json",
-"size": 19728
-},
-"json/000074.content.json": {
-"mimeType": "text/json",
-"size": 6860
-},
-"json/000075.content.json": {
-"mimeType": "text/json",
-"size": 5803
-},
-"json/000076.content.json": {
-"mimeType": "text/json",
-"size": 11122
-},
-"json/000077.content.json": {
-"mimeType": "text/json",
-"size": 7135
-},
-"json/000078.content.json": {
-"mimeType": "text/json",
-"size": 9519
-},
-"json/000079.content.json": {
-"mimeType": "text/json",
-"size": 3798
-},
-"json/000080.content.json": {
-"mimeType": "text/json",
-"size": 7655
-},
-"json/000081.content.json": {
-"mimeType": "text/json",
-"size": 11708
-},
-"json/000082.content.json": {
-"mimeType": "text/json",
-"size": 6361
-},
-"json/000083.content.json": {
-"mimeType": "text/json",
-"size": 10149
-},
-"json/000084.content.json": {
-"mimeType": "text/json",
-"size": 6268
-},
-"json/000085.content.json": {
-"mimeType": "text/json",
-"size": 7099
-},
-"json/000086.content.json": {
-"mimeType": "text/json",
-"size": 6139
-},
-"json/000087.content.json": {
-"mimeType": "text/json",
-"size": 4878
-},
-"json/000088.content.json": {
-"mimeType": "text/json",
-"size": 23428
-},
-"json/000089.content.json": {
-"mimeType": "text/json",
-"size": 15946
-},
-"json/000090.content.json": {
-"mimeType": "text/json",
-"size": 2830
-},
-"json/000091.content.json": {
-"mimeType": "text/json",
-"size": 20433
-},
-"json/000092.content.json": {
-"mimeType": "text/json",
-"size": 7140
-},
-"json/000093.content.json": {
-"mimeType": "text/json",
-"size": 4604
-},
-"json/000094.content.json": {
-"mimeType": "text/json",
-"size": 4771
-},
-"json/000095.content.json": {
-"mimeType": "text/json",
-"size": 4292
-},
-"json/000096.content.json": {
-"mimeType": "text/json",
-"size": 4395
-},
-"json/000097.content.json": {
-"mimeType": "text/json",
-"size": 6570
-},
-"json/000098.content.json": {
-"mimeType": "text/json",
-"size": 6107
-},
-"json/000099.content.json": {
-"mimeType": "text/json",
-"size": 9938
-},
-"json/000100.content.json": {
-"mimeType": "text/json",
-"size": 3989
-},
-"json/000101.content.json": {
-"mimeType": "text/json",
-"size": 13675
-},
-"json/000102.content.json": {
-"mimeType": "text/json",
-"size": 7894
-},
-"json/000103.content.json": {
-"mimeType": "text/json",
-"size": 5287
-},
-"json/000104.content.json": {
-"mimeType": "text/json",
-"size": 33553
-},
-"json/000105.content.json": {
-"mimeType": "text/json",
-"size": 7751
-},
-"json/000106.content.json": {
-"mimeType": "text/json",
-"size": 8028
-},
-"json/000107.content.json": {
-"mimeType": "text/json",
-"size": 5311
-},
-"json/000108.content.json": {
-"mimeType": "text/json",
-"size": 12676
-},
-"json/000109.content.json": {
-"mimeType": "text/json",
-"size": 2681
-},
-"json/000110.content.json": {
-"mimeType": "text/json",
-"size": 8556
-},
-"json/000111.content.json": {
-"mimeType": "text/json",
-"size": 16168
-},
-"json/000112.content.json": {
-"mimeType": "text/json",
-"size": 9632
-},
-"json/000113.content.json": {
+"json/8.content.json": {
 "mimeType": "text/json",
 "size": 18815
 },
-"json/000114.content.json": {
+"json/9.content.json": {
 "mimeType": "text/json",
 "size": 15977
 },
-"md/000001.content.md": {
+"md/0.content.md": {
 "mimeType": "text/markdown",
-"size": 1092
+"size": 15048
 },
-"md/000002.content.md": {
+"md/1.content.md": {
 "mimeType": "text/markdown",
-"size": 14440
+"size": 26664
 },
-"md/000003.content.md": {
+"md/2.content.md": {
 "mimeType": "text/markdown",
-"size": 10494
+"size": 354226
 },
-"md/000004.content.md": {
+"md/3.content.md": {
 "mimeType": "text/markdown",
-"size": 6213
+"size": 165331
 },
-"md/000005.content.md": {
+"md/4.content.md": {
 "mimeType": "text/markdown",
-"size": 2925
+"size": 51320
 },
-"md/000006.content.md": {
+"md/5.content.md": {
 "mimeType": "text/markdown",
-"size": 8484
+"size": 14734
 },
-"md/000007.content.md": {
+"md/6.content.md": {
 "mimeType": "text/markdown",
-"size": 1735
+"size": 64614
 },
-"md/000008.content.md": {
+"md/7.content.md": {
 "mimeType": "text/markdown",
-"size": 4191
+"size": 17379
 },
-"md/000009.content.md": {
-"mimeType": "text/markdown",
-"size": 4559
-},
-"md/000010.content.md": {
-"mimeType": "text/markdown",
-"size": 609
-},
-"md/000011.content.md": {
-"mimeType": "text/markdown",
-"size": 3548
-},
-"md/000012.content.md": {
-"mimeType": "text/markdown",
-"size": 3075
-},
-"md/000013.content.md": {
-"mimeType": "text/markdown",
-"size": 15036
-},
-"md/000014.content.md": {
-"mimeType": "text/markdown",
-"size": 3035
-},
-"md/000015.content.md": {
-"mimeType": "text/markdown",
-"size": 5231
-},
-"md/000016.content.md": {
-"mimeType": "text/markdown",
-"size": 6743
-},
-"md/000017.content.md": {
-"mimeType": "text/markdown",
-"size": 11986
-},
-"md/000018.content.md": {
-"mimeType": "text/markdown",
-"size": 3880
-},
-"md/000019.content.md": {
-"mimeType": "text/markdown",
-"size": 42172
-},
-"md/000020.content.md": {
-"mimeType": "text/markdown",
-"size": 9613
-},
-"md/000021.content.md": {
-"mimeType": "text/markdown",
-"size": 8229
-},
-"md/000022.content.md": {
-"mimeType": "text/markdown",
-"size": 4648
-},
-"md/000023.content.md": {
-"mimeType": "text/markdown",
-"size": 7875
-},
-"md/000024.content.md": {
-"mimeType": "text/markdown",
-"size": 4668
-},
-"md/000025.content.md": {
-"mimeType": "text/markdown",
-"size": 15952
-},
-"md/000026.content.md": {
-"mimeType": "text/markdown",
-"size": 2799
-},
-"md/000027.content.md": {
-"mimeType": "text/markdown",
-"size": 3422
-},
-"md/000028.content.md": {
-"mimeType": "text/markdown",
-"size": 22252
-},
-"md/000029.content.md": {
-"mimeType": "text/markdown",
-"size": 9176
-},
-"md/000030.content.md": {
-"mimeType": "text/markdown",
-"size": 7630
-},
-"md/000031.content.md": {
-"mimeType": "text/markdown",
-"size": 7084
-},
-"md/000032.content.md": {
-"mimeType": "text/markdown",
-"size": 15376
-},
-"md/000033.content.md": {
-"mimeType": "text/markdown",
-"size": 5768
-},
-"md/000034.content.md": {
-"mimeType": "text/markdown",
-"size": 34156
-},
-"md/000035.content.md": {
-"mimeType": "text/markdown",
-"size": 4234
-},
-"md/000036.content.md": {
-"mimeType": "text/markdown",
-"size": 3788
-},
-"md/000037.content.md": {
-"mimeType": "text/markdown",
-"size": 7456
-},
-"md/000038.content.md": {
-"mimeType": "text/markdown",
-"size": 3984
-},
-"md/000039.content.md": {
-"mimeType": "text/markdown",
-"size": 4035
-},
-"md/000040.content.md": {
-"mimeType": "text/markdown",
-"size": 4468
-},
-"md/000041.content.md": {
-"mimeType": "text/markdown",
-"size": 32662
-},
-"md/000042.content.md": {
-"mimeType": "text/markdown",
-"size": 21988
-},
-"md/000043.content.md": {
-"mimeType": "text/markdown",
-"size": 4263
-},
-"md/000044.content.md": {
-"mimeType": "text/markdown",
-"size": 4062
-},
-"md/000045.content.md": {
-"mimeType": "text/markdown",
-"size": 10169
-},
-"md/000046.content.md": {
-"mimeType": "text/markdown",
-"size": 7545
-},
-"md/000047.content.md": {
-"mimeType": "text/markdown",
-"size": 1305
-},
-"md/000048.content.md": {
-"mimeType": "text/markdown",
-"size": 10751
-},
-"md/000049.content.md": {
-"mimeType": "text/markdown",
-"size": 14737
-},
-"md/000050.content.md": {
-"mimeType": "text/markdown",
-"size": 5227
-},
-"md/000051.content.md": {
-"mimeType": "text/markdown",
-"size": 4926
-},
-"md/000052.content.md": {
-"mimeType": "text/markdown",
-"size": 7201
-},
-"md/000053.content.md": {
-"mimeType": "text/markdown",
-"size": 6033
-},
-"md/000054.content.md": {
-"mimeType": "text/markdown",
-"size": 9951
-},
-"md/000055.content.md": {
-"mimeType": "text/markdown",
-"size": 26576
-},
-"md/000056.content.md": {
-"mimeType": "text/markdown",
-"size": 4698
-},
-"md/000057.content.md": {
-"mimeType": "text/markdown",
-"size": 3727
-},
-"md/000058.content.md": {
-"mimeType": "text/markdown",
-"size": 2088
-},
-"md/000059.content.md": {
-"mimeType": "text/markdown",
-"size": 2562
-},
-"md/000060.content.md": {
-"mimeType": "text/markdown",
-"size": 5414
-},
-"md/000061.content.md": {
-"mimeType": "text/markdown",
-"size": 3224
-},
-"md/000062.content.md": {
-"mimeType": "text/markdown",
-"size": 4663
-},
-"md/000063.content.md": {
-"mimeType": "text/markdown",
-"size": 5047
-},
-"md/000064.content.md": {
-"mimeType": "text/markdown",
-"size": 2412
-},
-"md/000065.content.md": {
-"mimeType": "text/markdown",
-"size": 4340
-},
-"md/000066.content.md": {
-"mimeType": "text/markdown",
-"size": 3326
-},
-"md/000067.content.md": {
-"mimeType": "text/markdown",
-"size": 1954
-},
-"md/000068.content.md": {
-"mimeType": "text/markdown",
-"size": 2433
-},
-"md/000069.content.md": {
-"mimeType": "text/markdown",
-"size": 3048
-},
-"md/000070.content.md": {
-"mimeType": "text/markdown",
-"size": 1485
-},
-"md/000071.content.md": {
-"mimeType": "text/markdown",
-"size": 4500
-},
-"md/000072.content.md": {
-"mimeType": "text/markdown",
-"size": 3268
-},
-"md/000073.content.md": {
-"mimeType": "text/markdown",
-"size": 14850
-},
-"md/000074.content.md": {
-"mimeType": "text/markdown",
-"size": 3319
-},
-"md/000075.content.md": {
-"mimeType": "text/markdown",
-"size": 3118
-},
-"md/000076.content.md": {
-"mimeType": "text/markdown",
-"size": 4295
-},
-"md/000077.content.md": {
-"mimeType": "text/markdown",
-"size": 3968
-},
-"md/000078.content.md": {
-"mimeType": "text/markdown",
-"size": 5889
-},
-"md/000079.content.md": {
-"mimeType": "text/markdown",
-"size": 905
-},
-"md/000080.content.md": {
-"mimeType": "text/markdown",
-"size": 5845
-},
-"md/000081.content.md": {
-"mimeType": "text/markdown",
-"size": 4143
-},
-"md/000082.content.md": {
-"mimeType": "text/markdown",
-"size": 3741
-},
-"md/000083.content.md": {
-"mimeType": "text/markdown",
-"size": 5898
-},
-"md/000084.content.md": {
-"mimeType": "text/markdown",
-"size": 3388
-},
-"md/000085.content.md": {
-"mimeType": "text/markdown",
-"size": 4127
-},
-"md/000086.content.md": {
-"mimeType": "text/markdown",
-"size": 3198
-},
-"md/000087.content.md": {
-"mimeType": "text/markdown",
-"size": 2362
-},
-"md/000088.content.md": {
-"mimeType": "text/markdown",
-"size": 11428
-},
-"md/000089.content.md": {
-"mimeType": "text/markdown",
-"size": 11125
-},
-"md/000090.content.md": {
-"mimeType": "text/markdown",
-"size": 707
-},
-"md/000091.content.md": {
-"mimeType": "text/markdown",
-"size": 8644
-},
-"md/000092.content.md": {
-"mimeType": "text/markdown",
-"size": 2820
-},
-"md/000093.content.md": {
-"mimeType": "text/markdown",
-"size": 2246
-},
-"md/000094.content.md": {
-"mimeType": "text/markdown",
-"size": 2253
-},
-"md/000095.content.md": {
-"mimeType": "text/markdown",
-"size": 1024
-},
-"md/000096.content.md": {
-"mimeType": "text/markdown",
-"size": 1848
-},
-"md/000097.content.md": {
-"mimeType": "text/markdown",
-"size": 3305
-},
-"md/000098.content.md": {
-"mimeType": "text/markdown",
-"size": 3185
-},
-"md/000099.content.md": {
-"mimeType": "text/markdown",
-"size": 4829
-},
-"md/000100.content.md": {
-"mimeType": "text/markdown",
-"size": 1730
-},
-"md/000101.content.md": {
-"mimeType": "text/markdown",
-"size": 9082
-},
-"md/000102.content.md": {
-"mimeType": "text/markdown",
-"size": 4524
-},
-"md/000103.content.md": {
-"mimeType": "text/markdown",
-"size": 2823
-},
-"md/000104.content.md": {
-"mimeType": "text/markdown",
-"size": 22516
-},
-"md/000105.content.md": {
-"mimeType": "text/markdown",
-"size": 3350
-},
-"md/000106.content.md": {
-"mimeType": "text/markdown",
-"size": 3363
-},
-"md/000107.content.md": {
-"mimeType": "text/markdown",
-"size": 2608
-},
-"md/000108.content.md": {
-"mimeType": "text/markdown",
-"size": 6719
-},
-"md/000109.content.md": {
-"mimeType": "text/markdown",
-"size": 677
-},
-"md/000110.content.md": {
-"mimeType": "text/markdown",
-"size": 5124
-},
-"md/000111.content.md": {
-"mimeType": "text/markdown",
-"size": 7310
-},
-"md/000112.content.md": {
-"mimeType": "text/markdown",
-"size": 5720
-},
-"md/000113.content.md": {
+"md/8.content.md": {
 "mimeType": "text/markdown",
 "size": 15390
 },
-"md/000114.content.md": {
+"md/9.content.md": {
 "mimeType": "text/markdown",
 "size": 12647
 },
 "pdf/0.content.pdf": {
 "mimeType": "application/pdf",
-"size": 112870
+"size": 113152
 },
 "pdf/1.content.pdf": {
 "mimeType": "application/pdf",
-"size": 231490
+"size": 231305
 },
 "pdf/2.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64809527
+"size": 64809128
 },
 "pdf/3.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83911310
+"size": 83910874
 },
 "pdf/4.content.pdf": {
 "mimeType": "application/pdf",
-"size": 15917898
+"size": 15917095
 },
 "pdf/5.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54719263
+"size": 54718683
 },
 "pdf/6.content.pdf": {
 "mimeType": "application/pdf",
-"size": 35603051
+"size": 35602651
 },
 "pdf/7.content.pdf": {
 "mimeType": "application/pdf",
-"size": 6655275
+"size": 6654877
 },
 "pdf/8.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71530
+"size": 71330
 },
 "pdf/9.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83097
+"size": 82530
 }
 },
 "copyright": {

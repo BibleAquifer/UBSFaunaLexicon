@@ -1,0 +1,567 @@
+[
+{
+"content_id": "FAUNA:5",
+"reference_id": "FAUNA:5",
+"version": "1.0.4",
+"title": "标题：鱼、青蛙和软件动物",
+"media_type": "Text",
+"index_reference": "5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:5\"><span class=\"thlex-key\">5</span> 标题：鱼、青蛙和软件动物</h1><nav class=\"thlex-index\"><ul>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:5.1\" href=\"#FAUNA:5.1\">5.1 鱼（fish）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:5.2\" href=\"#FAUNA:5.2\">5.2 青蛙（frog）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:5.3\" href=\"#FAUNA:5.3\">5.3 凤螺（onycha）</a></li>\n<li><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:5.4\" href=\"#FAUNA:5.4\">5.4 蜗牛（snail）</a></li>\n</ul></nav>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:5.1",
+"reference_id": "FAUNA:5.1",
+"version": "1.0.4",
+"title": "标题：鱼（fish）",
+"media_type": "Text",
+"index_reference": "5.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:5.1\"><span class=\"thlex-key\">5.1</span> 标题：鱼（fish）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：דָּג, דָּגָה</span> <span class=\"thlex-translit\">(音译：dag, dagah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:26\">GEN 1:26</a>, <a href=\"https://ref.ly/Gen1:28\">GEN 1:28</a>, <a href=\"https://ref.ly/Gen9:2\">GEN 9:2</a>, <a href=\"https://ref.ly/Exod7:18\">EXO 7:18</a>, <a href=\"https://ref.ly/Exod7:21\">EXO 7:21</a>, <a href=\"https://ref.ly/Num11:5\">NUM 11:5</a>, <a href=\"https://ref.ly/Num11:22\">NUM 11:22</a>, <a href=\"https://ref.ly/Deut4:18\">DEU 4:18</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/2Chr33:14\">2CH 33:14</a>, <a href=\"https://ref.ly/Neh3:3\">NEH 3:3</a>, <a href=\"https://ref.ly/Neh12:39\">NEH 12:39</a>, <a href=\"https://ref.ly/Neh13:16\">NEH 13:16</a>, <a href=\"https://ref.ly/Job12:8\">JOB 12:8</a>, <a href=\"https://ref.ly/Job40:31\">JOB 40:31</a>, <a href=\"https://ref.ly/Ps8:9\">PSA 8:9</a>, <a href=\"https://ref.ly/Ps105:29\">PSA 105:29</a>, <a href=\"https://ref.ly/Eccl9:12\">ECC 9:12</a>, <a href=\"https://ref.ly/Isa50:2\">ISA 50:2</a>, <a href=\"https://ref.ly/Ezek29:4\">EZK 29:4</a>, <a href=\"https://ref.ly/Ezek29:4\">EZK 29:4</a>, <a href=\"https://ref.ly/Ezek29:5\">EZK 29:5</a>, <a href=\"https://ref.ly/Ezek38:20\">EZK 38:20</a>, <a href=\"https://ref.ly/Ezek47:9\">EZK 47:9</a>, <a href=\"https://ref.ly/Ezek47:10\">EZK 47:10</a>, <a href=\"https://ref.ly/Ezek47:10\">EZK 47:10</a>, <a href=\"https://ref.ly/Hos4:3\">HOS 4:3</a>, <a href=\"https://ref.ly/Jonah2:1\">JON 2:1</a>, <a href=\"https://ref.ly/Jonah2:1\">JON 2:1</a>, <a href=\"https://ref.ly/Jonah2:2\">JON 2:2</a>, <a href=\"https://ref.ly/Jonah2:11\">JON 2:11</a>, <a href=\"https://ref.ly/Hab1:14\">HAB 1:14</a>, <a href=\"https://ref.ly/Zeph1:3\">ZEP 1:3</a>, <a href=\"https://ref.ly/Zeph1:10\">ZEP 1:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἐνάλιον</span> <span class=\"thlex-translit\">(音译：enalion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb3:7\">JAS 3:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἔνυδρος</span> <span class=\"thlex-translit\">(音译：enudros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr19:10\">WIS 19:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἰχθύς</span> <span class=\"thlex-translit\">(音译：ichthus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt7:10\">MAT 7:10</a>, <a href=\"https://ref.ly/Matt14:17\">MAT 14:17</a>, <a href=\"https://ref.ly/Matt14:19\">MAT 14:19</a>, <a href=\"https://ref.ly/Matt15:36\">MAT 15:36</a>, <a href=\"https://ref.ly/Matt17:27\">MAT 17:27</a>, <a href=\"https://ref.ly/Matt6:38\">MRK 6:38</a>, <a href=\"https://ref.ly/Matt6:41\">MRK 6:41</a>, <a href=\"https://ref.ly/Matt6:41\">MRK 6:41</a>, <a href=\"https://ref.ly/Matt6:43\">MRK 6:43</a>, <a href=\"https://ref.ly/Mark5:6\">LUK 5:6</a>, <a href=\"https://ref.ly/Mark5:9\">LUK 5:9</a>, <a href=\"https://ref.ly/Mark9:13\">LUK 9:13</a>, <a href=\"https://ref.ly/Mark9:16\">LUK 9:16</a>, <a href=\"https://ref.ly/Mark11:11\">LUK 11:11</a>, <a href=\"https://ref.ly/Mark11:11\">LUK 11:11</a>, <a href=\"https://ref.ly/Mark24:42\">LUK 24:42</a>, <a href=\"https://ref.ly/Luke21:6\">JHN 21:6</a>, <a href=\"https://ref.ly/Luke21:8\">JHN 21:8</a>, <a href=\"https://ref.ly/Luke21:11\">JHN 21:11</a>, <a href=\"https://ref.ly/Rom15:39\">1CO 15:39</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἰχθύδιον</span> <span class=\"thlex-translit\">(音译：ichthudion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt15:34\">MAT 15:34</a>, <a href=\"https://ref.ly/Matt8:7\">MRK 8:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κῆτος</span> <span class=\"thlex-translit\">(音译：kētos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:40\">MAT 12:40</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：νηκτός</span> <span class=\"thlex-translit\">(音译：nēktos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr19:19\">WIS 19:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ὀψάριον</span> <span class=\"thlex-translit\">(音译：opsarion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke6:9\">JHN 6:9</a>, <a href=\"https://ref.ly/Luke6:11\">JHN 6:11</a>, <a href=\"https://ref.ly/Luke21:9\">JHN 21:9</a>, <a href=\"https://ref.ly/Luke21:10\">JHN 21:10</a>, <a href=\"https://ref.ly/Luke21:13\">JHN 21:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：προσφάγιον</span> <span class=\"thlex-translit\">(音译：prosfagion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke21:5\">JHN 21:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：piscis</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd5:7\">2ES 5:7</a>, <a href=\"https://ref.ly/1Esd6:47\">2ES 6:47</a>, <a href=\"https://ref.ly/1Esd16:12\">2ES 16:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0224_fish_hans.jpg\" alt=\"WEB-0224_fish_hans\"></figure>以色列人只吃有鳍有鳞的鱼。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0226_fishes.jpg\" alt=\"WEB-0226_fishes\"></figure>虽然圣经中经常提到鱼，但旧约并没有直接提到捕鱼，这可能有两个主要原因：（1）希伯来人是游牧民族，他们在寄居埃及之前很可能不常吃鱼；（2）他们惧怕海洋，因此很可能直到较晚的时期才开始从事商业性的捕鱼活动。不过，希伯来人在埃及寄居的时候，鱼类一定是饭桌上经常出现的菜肴。尼罗河盛产多种美味的鱼，例如尼罗河鲈鱼、罗非鱼（吴郭鱼）和巨鲶鱼，不过希伯来人一定不会吃最后这种巨鲶鱼，因为没有明显的鱼鳞。</p>\n<p>然而，圣经很多次提到，以色列人自从出埃及之后，他们确实吃鱼，另外还提到了几种渔网、鱼叉和钓鱼钩。考古学家发现，埃及人、巴比伦人和亚述人在池塘里养殖鱼类，因此，以色列人也有可能这样做。商业性捕鱼大多是由非利士人和其他腓尼基民族所从事的。非利士人敬拜鱼神亚她吉特（Atargatis）女神，这种异教发源于叙利亚。</p>\n<p>在马加比时期之前，犹太人似乎没有在加利利海中捕鱼，而是在河流和溪流中捕鱼，有可能也在池塘中养鱼，但鱼干都是向沿海民族买的。</p>\n<p>希伯来文<em>dag</em> 和<em>dagah</em> 是个统称，并不指任何特定的鱼的种类。地中海东部的海水鱼数量并不很多，因为这片水域的养分较少。在这个地区，数量足以用网捕捞的鱼类只有沙丁鱼和鲱鱼。在少数靠近海岸、礁石较浅的地方，有一些热带岩礁鱼类，并且可能有人垂钓这些鱼种。</p>\n<p>同样地，希腊文<em>ichthus</em> 和拉丁文<em>piscis</em> 也是指鱼类的统称。然而，<em>ichthudion</em> （字面意为&quot;小鱼&quot;）很可能是指加利利海沙丁鱼或圣地沙丁鱼（学名<em>Mirogrex terrae sanctae</em> ，有时称为欧鲌鱼），加利利海盛产这种鱼，捕捞已有数百年之久。这是一种小型的淡水沙丁鱼，与在非洲各大湖泊中发现的卡彭塔鱼（<em>kapenta</em> ）类似。加利利海还有大量的罗非鱼（吴郭鱼）。</p>\n<p>希腊文<em>enalion</em> 一词有鱼类的意思，但指的是海洋里所有的生物，包括甲壳类动物和海豚。<em>Opsarion</em> 指的是已经烹饪好的熟鱼或是马上要烹食的鱼。在<a href=\"https://ref.ly/Luke21:5\">JHN 21:5</a> 的上下文中，<em>prosfagion</em> 指的是早餐吃的鱼。<em>Nēktos</em> 的字面意思是&quot;会游泳的动物&quot;，包含了其他的水生动物，例如青蛙。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在大多数情况下，翻译者可以使用表示鱼类的统称。在<a href=\"https://ref.ly/Job40:31\">JOB 40:31</a> （《和》41:7）中，希伯来文本作&quot;鱼叉&quot;。请注意，这种鱼叉只是削尖了的芦苇，并不是带金属头的矛枪。</p>\n<p>在翻译<em>ichthudion</em> 的时候，可以采用当地已知的淡水沙丁鱼的词语，或者意为&quot;小鱼&quot;的惯用语。<em>Opsarion</em> 可以译作&quot;熟鱼&quot;。至于<em>prosfagion</em> ，因为这个词出现在&quot;你们打到鱼没有&quot;这个问句中，所以应该选用这类问话所常用的词语。</p>\n<p>希腊文<em>enalion</em> 最好译为&quot;海洋生物&quot;或&quot;生活在海里的东西&quot;。</p>\n<p>希腊文<em>kētos</em> 不是指称鱼类的常用词语，大多数解经家认为这个词的意思是海怪或巨大的怪物鱼，因此最好翻译为&quot;怪物鱼&quot;、&quot;海怪&quot;或&quot;巨大的鱼&quot;。</p>\n<p>备注：鱼在第2世纪成为基督信仰的象征，这是根据希腊文短语<em>Iēsous CHristos THeou ‘Uios Sōtēr</em> （&quot;耶稣基督，上帝的儿子，救主&quot;）。这几个希腊文单词的首字母拼在一起就是<em>ICHTHUS</em> ，即希腊文的&quot;鱼&quot;这个字。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001026",
+"end_ref_usfm": "GEN 1:26"
+},
+{
+"start_ref": "01001028",
+"start_ref_usfm": "GEN 1:28",
+"end_ref": "01001028",
+"end_ref_usfm": "GEN 1:28"
+},
+{
+"start_ref": "01009002",
+"start_ref_usfm": "GEN 9:2",
+"end_ref": "01009002",
+"end_ref_usfm": "GEN 9:2"
+},
+{
+"start_ref": "02007018",
+"start_ref_usfm": "EXO 7:18",
+"end_ref": "02007018",
+"end_ref_usfm": "EXO 7:18"
+},
+{
+"start_ref": "02007021",
+"start_ref_usfm": "EXO 7:21",
+"end_ref": "02007021",
+"end_ref_usfm": "EXO 7:21"
+},
+{
+"start_ref": "04011005",
+"start_ref_usfm": "NUM 11:5",
+"end_ref": "04011005",
+"end_ref_usfm": "NUM 11:5"
+},
+{
+"start_ref": "04011022",
+"start_ref_usfm": "NUM 11:22",
+"end_ref": "04011022",
+"end_ref_usfm": "NUM 11:22"
+},
+{
+"start_ref": "05004018",
+"start_ref_usfm": "DEU 4:18",
+"end_ref": "05004018",
+"end_ref_usfm": "DEU 4:18"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "14033014",
+"start_ref_usfm": "2CH 33:14",
+"end_ref": "14033014",
+"end_ref_usfm": "2CH 33:14"
+},
+{
+"start_ref": "16003003",
+"start_ref_usfm": "NEH 3:3",
+"end_ref": "16003003",
+"end_ref_usfm": "NEH 3:3"
+},
+{
+"start_ref": "16012039",
+"start_ref_usfm": "NEH 12:39",
+"end_ref": "16012039",
+"end_ref_usfm": "NEH 12:39"
+},
+{
+"start_ref": "16013016",
+"start_ref_usfm": "NEH 13:16",
+"end_ref": "16013016",
+"end_ref_usfm": "NEH 13:16"
+},
+{
+"start_ref": "18012008",
+"start_ref_usfm": "JOB 12:8",
+"end_ref": "18012008",
+"end_ref_usfm": "JOB 12:8"
+},
+{
+"start_ref": "18040031",
+"start_ref_usfm": "JOB 40:31",
+"end_ref": "18040031",
+"end_ref_usfm": "JOB 40:31"
+},
+{
+"start_ref": "19008009",
+"start_ref_usfm": "PSA 8:9",
+"end_ref": "19008009",
+"end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "19105029",
+"start_ref_usfm": "PSA 105:29",
+"end_ref": "19105029",
+"end_ref_usfm": "PSA 105:29"
+},
+{
+"start_ref": "21009012",
+"start_ref_usfm": "ECC 9:12",
+"end_ref": "21009012",
+"end_ref_usfm": "ECC 9:12"
+},
+{
+"start_ref": "23050002",
+"start_ref_usfm": "ISA 50:2",
+"end_ref": "23050002",
+"end_ref_usfm": "ISA 50:2"
+},
+{
+"start_ref": "26029004",
+"start_ref_usfm": "EZK 29:4",
+"end_ref": "26029004",
+"end_ref_usfm": "EZK 29:4"
+},
+{
+"start_ref": "26029005",
+"start_ref_usfm": "EZK 29:5",
+"end_ref": "26029005",
+"end_ref_usfm": "EZK 29:5"
+},
+{
+"start_ref": "26038020",
+"start_ref_usfm": "EZK 38:20",
+"end_ref": "26038020",
+"end_ref_usfm": "EZK 38:20"
+},
+{
+"start_ref": "26047009",
+"start_ref_usfm": "EZK 47:9",
+"end_ref": "26047009",
+"end_ref_usfm": "EZK 47:9"
+},
+{
+"start_ref": "26047010",
+"start_ref_usfm": "EZK 47:10",
+"end_ref": "26047010",
+"end_ref_usfm": "EZK 47:10"
+},
+{
+"start_ref": "28004003",
+"start_ref_usfm": "HOS 4:3",
+"end_ref": "28004003",
+"end_ref_usfm": "HOS 4:3"
+},
+{
+"start_ref": "32002001",
+"start_ref_usfm": "JON 2:1",
+"end_ref": "32002001",
+"end_ref_usfm": "JON 2:1"
+},
+{
+"start_ref": "32002002",
+"start_ref_usfm": "JON 2:2",
+"end_ref": "32002002",
+"end_ref_usfm": "JON 2:2"
+},
+{
+"start_ref": "32002011",
+"start_ref_usfm": "JON 2:11",
+"end_ref": "32002011",
+"end_ref_usfm": "JON 2:11"
+},
+{
+"start_ref": "35001014",
+"start_ref_usfm": "HAB 1:14",
+"end_ref": "35001014",
+"end_ref_usfm": "HAB 1:14"
+},
+{
+"start_ref": "36001003",
+"start_ref_usfm": "ZEP 1:3",
+"end_ref": "36001003",
+"end_ref_usfm": "ZEP 1:3"
+},
+{
+"start_ref": "36001010",
+"start_ref_usfm": "ZEP 1:10",
+"end_ref": "36001010",
+"end_ref_usfm": "ZEP 1:10"
+},
+{
+"start_ref": "59003007",
+"start_ref_usfm": "JAS 3:7",
+"end_ref": "59003007",
+"end_ref_usfm": "JAS 3:7"
+},
+{
+"start_ref": "71019010",
+"start_ref_usfm": "WIS 19:10",
+"end_ref": "71019010",
+"end_ref_usfm": "WIS 19:10"
+},
+{
+"start_ref": "40007010",
+"start_ref_usfm": "MAT 7:10",
+"end_ref": "40007010",
+"end_ref_usfm": "MAT 7:10"
+},
+{
+"start_ref": "40014017",
+"start_ref_usfm": "MAT 14:17",
+"end_ref": "40014017",
+"end_ref_usfm": "MAT 14:17"
+},
+{
+"start_ref": "40014019",
+"start_ref_usfm": "MAT 14:19",
+"end_ref": "40014019",
+"end_ref_usfm": "MAT 14:19"
+},
+{
+"start_ref": "40015036",
+"start_ref_usfm": "MAT 15:36",
+"end_ref": "40015036",
+"end_ref_usfm": "MAT 15:36"
+},
+{
+"start_ref": "40017027",
+"start_ref_usfm": "MAT 17:27",
+"end_ref": "40017027",
+"end_ref_usfm": "MAT 17:27"
+},
+{
+"start_ref": "41006038",
+"start_ref_usfm": "MRK 6:38",
+"end_ref": "41006038",
+"end_ref_usfm": "MRK 6:38"
+},
+{
+"start_ref": "41006041",
+"start_ref_usfm": "MRK 6:41",
+"end_ref": "41006041",
+"end_ref_usfm": "MRK 6:41"
+},
+{
+"start_ref": "41006043",
+"start_ref_usfm": "MRK 6:43",
+"end_ref": "41006043",
+"end_ref_usfm": "MRK 6:43"
+},
+{
+"start_ref": "42005006",
+"start_ref_usfm": "LUK 5:6",
+"end_ref": "42005006",
+"end_ref_usfm": "LUK 5:6"
+},
+{
+"start_ref": "42005009",
+"start_ref_usfm": "LUK 5:9",
+"end_ref": "42005009",
+"end_ref_usfm": "LUK 5:9"
+},
+{
+"start_ref": "42009013",
+"start_ref_usfm": "LUK 9:13",
+"end_ref": "42009013",
+"end_ref_usfm": "LUK 9:13"
+},
+{
+"start_ref": "42009016",
+"start_ref_usfm": "LUK 9:16",
+"end_ref": "42009016",
+"end_ref_usfm": "LUK 9:16"
+},
+{
+"start_ref": "42011011",
+"start_ref_usfm": "LUK 11:11",
+"end_ref": "42011011",
+"end_ref_usfm": "LUK 11:11"
+},
+{
+"start_ref": "42024042",
+"start_ref_usfm": "LUK 24:42",
+"end_ref": "42024042",
+"end_ref_usfm": "LUK 24:42"
+},
+{
+"start_ref": "43021006",
+"start_ref_usfm": "JHN 21:6",
+"end_ref": "43021006",
+"end_ref_usfm": "JHN 21:6"
+},
+{
+"start_ref": "43021008",
+"start_ref_usfm": "JHN 21:8",
+"end_ref": "43021008",
+"end_ref_usfm": "JHN 21:8"
+},
+{
+"start_ref": "43021011",
+"start_ref_usfm": "JHN 21:11",
+"end_ref": "43021011",
+"end_ref_usfm": "JHN 21:11"
+},
+{
+"start_ref": "46015039",
+"start_ref_usfm": "1CO 15:39",
+"end_ref": "46015039",
+"end_ref_usfm": "1CO 15:39"
+},
+{
+"start_ref": "40015034",
+"start_ref_usfm": "MAT 15:34",
+"end_ref": "40015034",
+"end_ref_usfm": "MAT 15:34"
+},
+{
+"start_ref": "41008007",
+"start_ref_usfm": "MRK 8:7",
+"end_ref": "41008007",
+"end_ref_usfm": "MRK 8:7"
+},
+{
+"start_ref": "40012040",
+"start_ref_usfm": "MAT 12:40",
+"end_ref": "40012040",
+"end_ref_usfm": "MAT 12:40"
+},
+{
+"start_ref": "71019019",
+"start_ref_usfm": "WIS 19:19",
+"end_ref": "71019019",
+"end_ref_usfm": "WIS 19:19"
+},
+{
+"start_ref": "43006009",
+"start_ref_usfm": "JHN 6:9",
+"end_ref": "43006009",
+"end_ref_usfm": "JHN 6:9"
+},
+{
+"start_ref": "43006011",
+"start_ref_usfm": "JHN 6:11",
+"end_ref": "43006011",
+"end_ref_usfm": "JHN 6:11"
+},
+{
+"start_ref": "43021009",
+"start_ref_usfm": "JHN 21:9",
+"end_ref": "43021009",
+"end_ref_usfm": "JHN 21:9"
+},
+{
+"start_ref": "43021010",
+"start_ref_usfm": "JHN 21:10",
+"end_ref": "43021010",
+"end_ref_usfm": "JHN 21:10"
+},
+{
+"start_ref": "43021013",
+"start_ref_usfm": "JHN 21:13",
+"end_ref": "43021013",
+"end_ref_usfm": "JHN 21:13"
+},
+{
+"start_ref": "43021005",
+"start_ref_usfm": "JHN 21:5",
+"end_ref": "43021005",
+"end_ref_usfm": "JHN 21:5"
+},
+{
+"start_ref": "83005007",
+"start_ref_usfm": "2ES 5:7",
+"end_ref": "83005007",
+"end_ref_usfm": "2ES 5:7"
+},
+{
+"start_ref": "83006047",
+"start_ref_usfm": "2ES 6:47",
+"end_ref": "83006047",
+"end_ref_usfm": "2ES 6:47"
+},
+{
+"start_ref": "83016012",
+"start_ref_usfm": "2ES 16:12",
+"end_ref": "83016012",
+"end_ref_usfm": "2ES 16:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:5.2",
+"reference_id": "FAUNA:5.2",
+"version": "1.0.4",
+"title": "标题：青蛙（frog）",
+"media_type": "Text",
+"index_reference": "5.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:5.2\"><span class=\"thlex-key\">5.2</span> 标题：青蛙（frog）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：צְפַרְדֵּעַ</span> <span class=\"thlex-translit\">(音译：tsefarde‘a)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod7:27\">EXO 7:27</a>, <a href=\"https://ref.ly/Exod7:28\">EXO 7:28</a>, <a href=\"https://ref.ly/Exod7:29\">EXO 7:29</a>, <a href=\"https://ref.ly/Exod8:1\">EXO 8:1</a>, <a href=\"https://ref.ly/Exod8:2\">EXO 8:2</a>, <a href=\"https://ref.ly/Exod8:3\">EXO 8:3</a>, <a href=\"https://ref.ly/Exod8:4\">EXO 8:4</a>, <a href=\"https://ref.ly/Exod8:5\">EXO 8:5</a>, <a href=\"https://ref.ly/Exod8:7\">EXO 8:7</a>, <a href=\"https://ref.ly/Exod8:8\">EXO 8:8</a>, <a href=\"https://ref.ly/Exod8:9\">EXO 8:9</a>, <a href=\"https://ref.ly/Ps78:45\">PSA 78:45</a>, <a href=\"https://ref.ly/Ps105:30\">PSA 105:30</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：βάτραχος</span> <span class=\"thlex-translit\">(音译：batrachos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude16:13\">REV 16:13</a>, <a href=\"https://ref.ly/EsthGr19:10\">WIS 19:10</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0247_frog.jpg\" alt=\"WEB-0247_frog\"></figure>这两个希伯来文和希腊文词语的意思是&quot;青蛙&quot;，对此基本上没有学者提出质疑。《出埃及记》中提到的青蛙之灾发生在河水被污染（变成血）的灾害之后。可以推断，青蛙因此从水里上来，进入了各个村庄。由于青蛙捕食苍蝇，可以控制苍蝇数量，所以，青蛙的大量死亡很可能导致埃及遭受另外两个灾祸，即蚊灾和蝇灾。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0248_frogs.jpg\" alt=\"WEB-0248_frogs\"></figure>在中东和埃及，最常见的两种青蛙是肉蛙（学名<em>Rana esculenta</em> ）和斑点蛙（学名<em>Rana punctata</em> ）。这两种青蛙的身长大约7厘米（3英寸），体色为棕色或橄榄绿色。青蛙几乎一直栖息在水中，以蚊蚋、苍蝇和其他水边的昆虫为食。青蛙为卵生，卵先孵化成蝌蚪，然后逐渐长出四条腿。后腿比前腿粗大得多，也有力得多，因为青蛙是用后腿跳跃的。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义或象征意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>犹太人认为青蛙在礼仪上不洁净。埃及人和波斯人也这样认为，因为他们将青蛙与鬼魔联系在一起。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>世界各地都有青蛙，因此找到当地的对等词来翻译&quot;青蛙&quot;应该没有困难。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02007027",
+"start_ref_usfm": "EXO 7:27",
+"end_ref": "02007027",
+"end_ref_usfm": "EXO 7:27"
+},
+{
+"start_ref": "02007028",
+"start_ref_usfm": "EXO 7:28",
+"end_ref": "02007028",
+"end_ref_usfm": "EXO 7:28"
+},
+{
+"start_ref": "02007029",
+"start_ref_usfm": "EXO 7:29",
+"end_ref": "02007029",
+"end_ref_usfm": "EXO 7:29"
+},
+{
+"start_ref": "02008001",
+"start_ref_usfm": "EXO 8:1",
+"end_ref": "02008001",
+"end_ref_usfm": "EXO 8:1"
+},
+{
+"start_ref": "02008002",
+"start_ref_usfm": "EXO 8:2",
+"end_ref": "02008002",
+"end_ref_usfm": "EXO 8:2"
+},
+{
+"start_ref": "02008003",
+"start_ref_usfm": "EXO 8:3",
+"end_ref": "02008003",
+"end_ref_usfm": "EXO 8:3"
+},
+{
+"start_ref": "02008004",
+"start_ref_usfm": "EXO 8:4",
+"end_ref": "02008004",
+"end_ref_usfm": "EXO 8:4"
+},
+{
+"start_ref": "02008005",
+"start_ref_usfm": "EXO 8:5",
+"end_ref": "02008005",
+"end_ref_usfm": "EXO 8:5"
+},
+{
+"start_ref": "02008007",
+"start_ref_usfm": "EXO 8:7",
+"end_ref": "02008007",
+"end_ref_usfm": "EXO 8:7"
+},
+{
+"start_ref": "02008008",
+"start_ref_usfm": "EXO 8:8",
+"end_ref": "02008008",
+"end_ref_usfm": "EXO 8:8"
+},
+{
+"start_ref": "02008009",
+"start_ref_usfm": "EXO 8:9",
+"end_ref": "02008009",
+"end_ref_usfm": "EXO 8:9"
+},
+{
+"start_ref": "19078045",
+"start_ref_usfm": "PSA 78:45",
+"end_ref": "19078045",
+"end_ref_usfm": "PSA 78:45"
+},
+{
+"start_ref": "19105030",
+"start_ref_usfm": "PSA 105:30",
+"end_ref": "19105030",
+"end_ref_usfm": "PSA 105:30"
+},
+{
+"start_ref": "66016013",
+"start_ref_usfm": "REV 16:13",
+"end_ref": "66016013",
+"end_ref_usfm": "REV 16:13"
+},
+{
+"start_ref": "71019010",
+"start_ref_usfm": "WIS 19:10",
+"end_ref": "71019010",
+"end_ref_usfm": "WIS 19:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:5.3",
+"reference_id": "FAUNA:5.3",
+"version": "1.0.4",
+"title": "标题：凤螺（onycha）",
+"media_type": "Text",
+"index_reference": "5.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:5.3\"><span class=\"thlex-key\">5.3</span> 标题：凤螺（onycha）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שְׁחֵלֶת</span> <span class=\"thlex-translit\">(音译：shechelet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p>这个希伯来文词语是指制香所用的香料混合物中的一种原料。学者普遍相信，这种成分来自于凤螺属（学名<em>Strombus</em> ）软件动物，是其足上一种类似指甲的覆盖物；软件动物意指海洋中的无骨生物。然而，也有学者认为这个词是指一种花。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>这种凤螺属软件动物是一种形似蜗牛的海洋生物，生活在通常呈螺旋结构的壳体内，有两只眼睛，分别位于两个眼柄的末端。这种软件动物身体的一部分从壳体中伸出来，附着在岩石或其他平坦的表面上，这个部位称为足，是软件动物用来移动的部位。足上有指甲或板状的覆盖物，称为厣（壳盖）；当软件动物缩回到壳体中，壳盖就像盖子一样封住壳口。一般认为，希伯来文<em>shechelet</em> 指的就是这个壳盖。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>只有在那些非常了解海洋生物的民族所说的语言中，才能找到这个希伯来文词语的对等词。对于其他语言，可能最好采用<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 的解决方案，将其译成&quot;芳香贝壳&quot;或&quot;有香味的贝壳&quot;。另一种选择是使用希伯来文<em>shechelet</em> 或希腊文<em>onycha</em> 的音译，然后在术语简释中解释这个名词。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030034",
+"end_ref_usfm": "EXO 30:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FAUNA:5.4",
+"reference_id": "FAUNA:5.4",
+"version": "1.0.4",
+"title": "标题：蜗牛（snail）",
+"media_type": "Text",
+"index_reference": "5.4",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FAUNA:5.4\"><span class=\"thlex-key\">5.4</span> 标题：蜗牛（snail）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שַׁבְּלוּל</span> <span class=\"thlex-translit\">(音译：shablul)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps58:9\">PSA 58:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0816_snail.jpg\" alt=\"WEB-0816_snail\"></figure>将这个词译为&quot;蜗牛&quot;的传统非常悠久。该词在平行诗句中对应&quot;早产&quot;，因此有些学者认为<em>shablul</em> 的意思是流产或是堕胎的胎儿，然而只有<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 和<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 采纳了这种解释。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>蜗牛是一种软件动物，然而有许多种类的蜗牛生活在陆地上，通常是在潮湿的环境中。蜗牛通常长着螺旋形的壳，在移动时拖着壳前行。以色列地区的土壤主要是由石灰岩形成的。蜗牛具有非常坚固的外壳，因此只要能够找到躲避极度高温的藏身之地，那么即使在沙漠条件下也能生存。有些肉食蜗牛以其他种类的蜗牛为食，但大多数都是素食。蜗牛的身体有一部分称为足，伸出壳外，以波浪式的运动向前爬行。头也会伸出壳外。蜗牛在爬行时会分泌黏液，沿着移动的路径留下一道黏滑的痕迹。古代以色列人似乎认为蜗牛一边爬行一边溶化，可能就是这个原因。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0814_slug.jpg\" alt=\"WEB-0814_slug\"></figure>蛞蝓是一种没有壳的蜗牛。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>尽管蜗牛或无壳蛞蝓在有些地方会冬眠，但是这些动物在世界上大多数地方都很常见。因此，在翻译圣经中唯一一次提到蜗牛的这句经文时，应该不难找到合适的译词。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "19058009",
+"start_ref_usfm": "PSA 58:9",
+"end_ref": "19058009",
+"end_ref_usfm": "PSA 58:9"
+}
+],
+"resource": []
+}
+}
+]
