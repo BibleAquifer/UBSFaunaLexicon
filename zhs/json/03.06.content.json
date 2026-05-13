@@ -90,7 +90,16 @@
 "end_ref_usfm": "ZEP 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Crow",
+"type": "fauna",
+"confidence": 0.8207,
+"match_method": "scored",
+"preferred_label": "Crow"
+}
+]
 }
 }
 ]

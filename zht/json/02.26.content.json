@@ -18,7 +18,23 @@
 "end_ref_usfm": "LEV 11:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Mongoose",
+"type": "fauna",
+"confidence": 0.865,
+"match_method": "scored",
+"preferred_label": "Mongoose"
+},
+{
+"id": "fauna:Mouse",
+"type": "fauna",
+"confidence": 0.73,
+"match_method": "scored",
+"preferred_label": "Mouse"
+}
+]
 }
 }
 ]

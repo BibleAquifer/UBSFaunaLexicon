@@ -48,7 +48,16 @@
 "end_ref_usfm": "ODA 11:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Swallow",
+"type": "fauna",
+"confidence": 0.665,
+"match_method": "scored",
+"preferred_label": "Swallow"
+}
+]
 }
 }
 ]

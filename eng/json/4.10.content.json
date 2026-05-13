@@ -96,7 +96,23 @@
 "end_ref_usfm": "SIR 39:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Viper",
+"type": "fauna",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Viper"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cobra"
+}
+]
 }
 }
 ]

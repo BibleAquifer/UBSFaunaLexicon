@@ -1,0 +1,60 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "390030200112|עֶגְלֵי"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "390010030102|תַנּוֹת"
+            ],
+            [
+              "FAUNA:2.22"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "390010140042|עֶדְר",
+              "390010140043|וֹ"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

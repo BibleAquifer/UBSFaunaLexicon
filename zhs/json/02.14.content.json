@@ -216,7 +216,16 @@
 "end_ref_usfm": "2CH 9:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Elephant",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elephant"
+}
+]
 }
 }
 ]

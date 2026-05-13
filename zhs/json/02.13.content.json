@@ -96,7 +96,23 @@
 "end_ref_usfm": "EZK 16:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Dugong",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Dugong"
+},
+{
+"id": "realia:Covering",
+"type": "realia",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Covering"
+}
+]
 }
 }
 ]

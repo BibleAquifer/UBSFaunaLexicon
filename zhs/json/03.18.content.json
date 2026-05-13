@@ -54,7 +54,16 @@
 "end_ref_usfm": "JDG 15:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Partridge",
+"type": "fauna",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Partridge"
+}
+]
 }
 }
 ]

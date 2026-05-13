@@ -108,7 +108,16 @@
 "end_ref_usfm": "SIR 27:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Gazelle",
+"type": "fauna",
+"confidence": 0.925,
+"match_method": "scored",
+"preferred_label": "Gazelle"
+}
+]
 }
 }
 ]

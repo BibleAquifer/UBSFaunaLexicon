@@ -144,7 +144,16 @@
 "end_ref_usfm": "HAB 3:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "Deer"
+}
+]
 }
 }
 ]

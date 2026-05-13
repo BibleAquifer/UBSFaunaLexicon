@@ -390,7 +390,16 @@
 "end_ref_usfm": "2ES 15:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.8313,
+"match_method": "scored",
+"preferred_label": "Camel"
+}
+]
 }
 }
 ]

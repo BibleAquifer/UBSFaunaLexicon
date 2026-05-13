@@ -90,7 +90,16 @@
 "end_ref_usfm": "JAS 5:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Moth",
+"type": "fauna",
+"confidence": 0.8769,
+"match_method": "scored",
+"preferred_label": "Moth"
+}
+]
 }
 }
 ]

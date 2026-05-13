@@ -30,7 +30,23 @@
 "end_ref_usfm": "1KI 4:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:BubalHartebeest",
+"type": "fauna",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Bubal Hartebeest"
+},
+{
+"id": "fauna:Hartebeest",
+"type": "fauna",
+"confidence": 0.7632,
+"match_method": "scored",
+"preferred_label": "Hartebeest"
+}
+]
 }
 }
 ]

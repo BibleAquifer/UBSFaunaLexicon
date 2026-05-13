@@ -1,0 +1,109 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "250030100011|דֹּב"
+            ],
+            [
+              "FAUNA:2.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250010060102|אַיָּלִים"
+            ],
+            [
+              "FAUNA:2.11"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250050180051|שׁוּעָלִים"
+            ],
+            [
+              "FAUNA:2.22"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250040030031|תַּנִּים"
+            ],
+            [
+              "FAUNA:2.22"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030520032|צִּפּוֹר"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250040190042|נִּשְׁרֵי"
+            ],
+            [
+              "FAUNA:3.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250040030131|כַּ"
+            ],
+            [
+              "FAUNA:3.16"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030520032|צִּפּוֹר"
+            ],
+            [
+              "FAUNA:3.21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

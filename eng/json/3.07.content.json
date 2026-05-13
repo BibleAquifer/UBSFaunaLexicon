@@ -306,7 +306,16 @@
 "end_ref_usfm": "2ES 5:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.8124,
+"match_method": "scored",
+"preferred_label": "Dove"
+}
+]
 }
 }
 ]

@@ -1,0 +1,79 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "60005008008|λέων"
+            ],
+            [
+              "FAUNA:2.24"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60001019005|ἀμνοῦ"
+            ],
+            [
+              "FAUNA:2.31"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60002025004|πρόβατα"
+            ],
+            [
+              "FAUNA:2.31"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60005002005|ποίμνιον"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60005003010|ποιμνίου"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -132,7 +132,16 @@
 "end_ref_usfm": "LEV 19:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"confidence": 0.88,
+"match_method": "scored",
+"preferred_label": "Mule"
+}
+]
 }
 }
 ]

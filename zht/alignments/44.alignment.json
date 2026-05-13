@@ -1,0 +1,189 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "44023024001|κτήνη"
+            ],
+            [
+              "FAUNA:1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44011006013|θηρία"
+            ],
+            [
+              "FAUNA:1.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44028004008|θηρίον"
+            ],
+            [
+              "FAUNA:1.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44028005006|θηρίον"
+            ],
+            [
+              "FAUNA:1.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44014013011|ταύρους"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44008032017|ἀμνὸς"
+            ],
+            [
+              "FAUNA:2.31"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44008032011|πρόβατον"
+            ],
+            [
+              "FAUNA:2.31"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44020028006|ποιμνίῳ"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44020029016|ποιμνίου"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44020029009|λύκοι"
+            ],
+            [
+              "FAUNA:2.35"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44010012012|πετεινὰ"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44011006019|πετεινὰ"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44010012008|ἑρπετὰ"
+            ],
+            [
+              "FAUNA:4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44011006016|ἑρπετὰ"
+            ],
+            [
+              "FAUNA:4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44028003013|ἔχιδνα"
+            ],
+            [
+              "FAUNA:4.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44012023017|σκωληκόβρωτος"
+            ],
+            [
+              "FAUNA:6.13"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -852,7 +852,16 @@
 "end_ref_usfm": "MIC 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.8853,
+"match_method": "scored",
+"preferred_label": "Lion"
+}
+]
 }
 }
 ]

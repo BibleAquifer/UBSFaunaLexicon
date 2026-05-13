@@ -156,7 +156,16 @@
 "end_ref_usfm": "PSA 68:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 0.8963,
+"match_method": "scored",
+"preferred_label": "Pig"
+}
+]
 }
 }
 ]

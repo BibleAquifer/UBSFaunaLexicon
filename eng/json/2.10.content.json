@@ -2634,7 +2634,16 @@
 "end_ref_usfm": "ACT 7:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.7311,
+"match_method": "scored",
+"preferred_label": "Cattle"
+}
+]
 }
 }
 ]
