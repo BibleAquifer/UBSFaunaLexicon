@@ -36,7 +36,16 @@
 "end_ref_usfm": "DEU 14:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Osprey",
+"type": "fauna",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Osprey"
+}
+]
 }
 }
 ]

@@ -864,7 +864,16 @@
 "end_ref_usfm": "MRK 9:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.8539,
+"match_method": "scored",
+"preferred_label": "Donkey"
+}
+]
 }
 }
 ]
