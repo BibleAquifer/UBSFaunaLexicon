@@ -66,7 +66,16 @@
 "end_ref_usfm": "DEU 14:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Jackdaw",
+"type": "fauna",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Jackdaw"
+}
+]
 }
 }
 ]

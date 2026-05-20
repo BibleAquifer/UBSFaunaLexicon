@@ -18,7 +18,16 @@
 "end_ref_usfm": "PRO 30:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Leech",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Leech"
+}
+]
 }
 }
 ]

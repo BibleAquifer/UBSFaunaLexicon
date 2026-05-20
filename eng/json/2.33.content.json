@@ -30,7 +30,16 @@
 "end_ref_usfm": "PSA 80:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Boar",
+"type": "fauna",
+"confidence": 0.5623,
+"match_method": "scored",
+"preferred_label": "Boar"
+}
+]
 }
 }
 ]

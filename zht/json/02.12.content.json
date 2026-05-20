@@ -282,7 +282,16 @@
 "end_ref_usfm": "DEU 23:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Dog"
+}
+]
 }
 }
 ]

@@ -816,7 +816,16 @@
 "end_ref_usfm": "ZEC 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.962,
+"match_method": "scored",
+"preferred_label": "Goat"
+}
+]
 }
 },
 {
@@ -976,7 +985,16 @@
 "end_ref_usfm": "1ES 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"confidence": 0.8568,
+"match_method": "scored",
+"preferred_label": "Kid"
+}
+]
 }
 }
 ]

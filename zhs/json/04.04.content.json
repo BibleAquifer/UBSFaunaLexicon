@@ -78,7 +78,23 @@
 "end_ref_usfm": "ROM 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"confidence": 0.9636,
+"match_method": "scored",
+"preferred_label": "Cobra"
+},
+{
+"id": "fauna:Viper",
+"type": "fauna",
+"confidence": 0.6682,
+"match_method": "scored",
+"preferred_label": "Viper"
+}
+]
 }
 }
 ]

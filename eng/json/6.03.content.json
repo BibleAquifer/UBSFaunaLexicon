@@ -36,7 +36,16 @@
 "end_ref_usfm": "1SA 26:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Flea",
+"type": "fauna",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Flea"
+}
+]
 }
 }
 ]

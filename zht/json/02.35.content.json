@@ -120,7 +120,16 @@
 "end_ref_usfm": "MAT 7:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Wolf"
+}
+]
 }
 }
 ]

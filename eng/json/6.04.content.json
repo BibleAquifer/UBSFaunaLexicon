@@ -108,7 +108,16 @@
 "end_ref_usfm": "ISA 51:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Fly",
+"type": "fauna",
+"confidence": 0.725,
+"match_method": "scored",
+"preferred_label": "Fly"
+}
+]
 }
 }
 ]
