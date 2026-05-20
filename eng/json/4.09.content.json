@@ -426,7 +426,16 @@
 "end_ref_usfm": "ISA 34:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.8609,
+"match_method": "scored",
+"preferred_label": "Snake"
+}
+]
 }
 }
 ]

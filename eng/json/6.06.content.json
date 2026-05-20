@@ -60,7 +60,16 @@
 "end_ref_usfm": "LEV 11:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Mosquito",
+"type": "fauna",
+"confidence": 0.5655,
+"match_method": "scored",
+"preferred_label": "Mosquito"
+}
+]
 }
 }
 ]

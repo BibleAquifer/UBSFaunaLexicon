@@ -276,7 +276,16 @@
 "end_ref_usfm": "PSA 44:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.7148,
+"match_method": "scored",
+"preferred_label": "Jackal"
+}
+]
 }
 }
 ]

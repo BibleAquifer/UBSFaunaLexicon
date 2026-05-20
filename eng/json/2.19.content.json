@@ -78,7 +78,23 @@
 "end_ref_usfm": "ISA 13:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Hyena",
+"type": "fauna",
+"confidence": 0.8909,
+"match_method": "scored",
+"preferred_label": "Hyena"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.5955,
+"match_method": "scored",
+"preferred_label": "Jackal"
+}
+]
 }
 }
 ]
