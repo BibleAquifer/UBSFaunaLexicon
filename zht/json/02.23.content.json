@@ -66,7 +66,16 @@
 "end_ref_usfm": "SIR 28:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 0.758,
+"match_method": "scored",
+"preferred_label": "Leopard"
+}
+]
 }
 }
 ]

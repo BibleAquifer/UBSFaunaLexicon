@@ -42,7 +42,16 @@
 "end_ref_usfm": "SIR 11:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Bee",
+"type": "fauna",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Bee"
+}
+]
 }
 }
 ]

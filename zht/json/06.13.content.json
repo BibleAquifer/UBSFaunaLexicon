@@ -150,7 +150,16 @@
 "end_ref_usfm": "MRK 9:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Maggot",
+"type": "fauna",
+"confidence": 0.7195,
+"match_method": "scored",
+"preferred_label": "Worm"
+}
+]
 }
 }
 ]
