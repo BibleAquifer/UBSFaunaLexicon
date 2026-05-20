@@ -24,7 +24,23 @@
 "end_ref_usfm": "LEV 11:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Lizard"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Chameleon"
+}
+]
 }
 }
 ]
