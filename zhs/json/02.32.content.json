@@ -84,7 +84,16 @@
 "end_ref_usfm": "SIR 13:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:WildDonkey",
+"type": "fauna",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Wild Donkey"
+}
+]
 }
 }
 ]

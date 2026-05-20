@@ -408,7 +408,23 @@
 "end_ref_usfm": "JOB 41:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.903,
+"match_method": "scored",
+"preferred_label": "Fish"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.6242,
+"match_method": "scored",
+"preferred_label": "Fish Gate"
+}
+]
 }
 }
 ]

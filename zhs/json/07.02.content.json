@@ -258,7 +258,16 @@
 "end_ref_usfm": "JON 2:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Dragon",
+"type": "fauna",
+"confidence": 0.6964,
+"match_method": "scored",
+"preferred_label": "Dragon"
+}
+]
 }
 }
 ]

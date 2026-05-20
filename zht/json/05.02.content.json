@@ -102,7 +102,16 @@
 "end_ref_usfm": "WIS 19:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Frog",
+"type": "fauna",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Frog"
+}
+]
 }
 }
 ]

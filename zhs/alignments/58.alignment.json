@@ -1,0 +1,159 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "58013011004|ζῴων"
+            ],
+            [
+              "FAUNA:1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58012020007|θηρίον"
+            ],
+            [
+              "FAUNA:1.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58009013010|δαμάλεως"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58009012006|μόσχων"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58009019017|μόσχων"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58009013007|ταύρων"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58010004004|ταύρων"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58011037011|αἰγείοις"
+            ],
+            [
+              "FAUNA:2.16"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58009012004|τράγων"
+            ],
+            [
+              "FAUNA:2.16"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58009013005|τράγων"
+            ],
+            [
+              "FAUNA:2.16"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58010004006|τράγων"
+            ],
+            [
+              "FAUNA:2.16"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58011033012|λεόντων"
+            ],
+            [
+              "FAUNA:2.24"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "58013020013|προβάτων"
+            ],
+            [
+              "FAUNA:2.31"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

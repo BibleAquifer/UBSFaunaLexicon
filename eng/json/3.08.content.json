@@ -276,7 +276,16 @@
 "end_ref_usfm": "DAN 4:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Vulture"
+}
+]
 }
 }
 ]

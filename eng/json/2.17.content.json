@@ -24,7 +24,16 @@
 "end_ref_usfm": "DEU 14:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Hare",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Hare"
+}
+]
 }
 }
 ]

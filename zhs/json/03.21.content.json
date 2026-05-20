@@ -216,7 +216,16 @@
 "end_ref_usfm": "TOB 2:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Sparrow",
+"type": "fauna",
+"confidence": 0.6778,
+"match_method": "scored",
+"preferred_label": "Sparrow"
+}
+]
 }
 }
 ]

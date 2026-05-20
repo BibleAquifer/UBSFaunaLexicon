@@ -114,7 +114,16 @@
 "end_ref_usfm": "DAG 7:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 0.9059,
+"match_method": "scored",
+"preferred_label": "Bear"
+}
+]
 }
 }
 ]

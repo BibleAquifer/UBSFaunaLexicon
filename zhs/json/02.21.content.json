@@ -54,7 +54,16 @@
 "end_ref_usfm": "DEU 14:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Ibex",
+"type": "fauna",
+"confidence": 0.6621,
+"match_method": "scored",
+"preferred_label": "Ibex"
+}
+]
 }
 }
 ]

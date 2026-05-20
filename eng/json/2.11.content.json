@@ -156,7 +156,16 @@
 "end_ref_usfm": "PSA 42:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "Deer"
+}
+]
 }
 }
 ]

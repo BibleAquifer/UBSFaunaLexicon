@@ -114,7 +114,23 @@
 "end_ref_usfm": "4MA 11:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Scorpion",
+"type": "fauna",
+"confidence": 0.9294,
+"match_method": "scored",
+"preferred_label": "Scorpion"
+},
+{
+"id": "place:Akrabbim",
+"type": "place",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Akrabbim"
+}
+]
 }
 }
 ]
