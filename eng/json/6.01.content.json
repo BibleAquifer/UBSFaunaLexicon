@@ -24,7 +24,16 @@
 "end_ref_usfm": "PRO 30:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Ant",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Ant"
+}
+]
 }
 }
 ]

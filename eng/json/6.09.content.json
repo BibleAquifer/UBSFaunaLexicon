@@ -258,7 +258,16 @@
 "end_ref_usfm": "2ES 4:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.7765,
+"match_method": "scored",
+"preferred_label": "Locust"
+}
+]
 }
 }
 ]

@@ -228,7 +228,16 @@
 "end_ref_usfm": "PSA 102:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Sparrow",
+"type": "fauna",
+"confidence": 0.6778,
+"match_method": "scored",
+"preferred_label": "Sparrow"
+}
+]
 }
 }
 ]
