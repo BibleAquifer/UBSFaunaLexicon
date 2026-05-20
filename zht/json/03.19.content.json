@@ -54,7 +54,16 @@
 "end_ref_usfm": "2ES 1:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Quail",
+"type": "fauna",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Quail"
+}
+]
 }
 }
 ]

@@ -54,7 +54,16 @@
 "end_ref_usfm": "LEV 11:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Falcon",
+"type": "fauna",
+"confidence": 0.8124,
+"match_method": "scored",
+"preferred_label": "Falcon"
+}
+]
 }
 }
 ]
