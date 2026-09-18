@@ -1,0 +1,142 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "350030170191|בָּקָר"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350030190062|אַיָּלוֹת"
+            ],
+            [
+              "FAUNA:2.11"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350010080031|סוּסָי",
+              "350010080032|ו"
+            ],
+            [
+              "FAUNA:2.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350030080131|סוּסֶי",
+              "350030080132|ךָ"
+            ],
+            [
+              "FAUNA:2.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350030150031|סוּסֶי",
+              "350030150032|ךָ"
+            ],
+            [
+              "FAUNA:2.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350010080022|נְּמֵרִים"
+            ],
+            [
+              "FAUNA:2.23"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350030170171|צֹאן"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350010080052|זְּאֵבֵי"
+            ],
+            [
+              "FAUNA:2.35"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350010080132|נֶשֶׁר"
+            ],
+            [
+              "FAUNA:3.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350010140052|רֶמֶשׂ"
+            ],
+            [
+              "FAUNA:4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "350010140032|דְגֵי"
+            ],
+            [
+              "FAUNA:5.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
