@@ -1,0 +1,119 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "46015039014|κτηνῶν"
+            ],
+            [
+              "FAUNA:1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46009009009|βοῦν"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46009009013|βοῶν"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46005007015|πάσχα"
+            ],
+            [
+              "FAUNA:2.31"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46009007017|ποίμνην"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46009007023|ποίμνης"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46015039018|πτηνῶν"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46010009012|ὄφεων"
+            ],
+            [
+              "FAUNA:4.9"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "46015039021|ἰχθύων"
+            ],
+            [
+              "FAUNA:5.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "360030030031|אֲרָיוֹת"
+            ],
+            [
+              "FAUNA:2.24"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360020140031|עֲדָרִים"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360020060081|צֹאן"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360030030061|זְאֵבֵי"
+            ],
+            [
+              "FAUNA:2.35"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360010030051|עוֹף"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360020140081|קָאַת"
+            ],
+            [
+              "FAUNA:3.13"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360020140101|קִפֹּד"
+            ],
+            [
+              "FAUNA:3.17.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360010030072|דְגֵי"
+            ],
+            [
+              "FAUNA:5.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "360010100092|דָּגִים"
+            ],
+            [
+              "FAUNA:5.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

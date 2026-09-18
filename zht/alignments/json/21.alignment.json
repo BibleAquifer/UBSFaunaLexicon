@@ -1,0 +1,189 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-fauna",
+          "docid": "UBSFaunaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "210020070091|מִקְנֶה"
+            ],
+            [
+              "FAUNA:1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210020070101|בָקָר"
+            ],
+            [
+              "FAUNA:2.10"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210090040122|כֶלֶב"
+            ],
+            [
+              "FAUNA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210100070041|סוּסִים"
+            ],
+            [
+              "FAUNA:2.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210090040172|אַרְיֵה"
+            ],
+            [
+              "FAUNA:2.24"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210020070112|צֹאן"
+            ],
+            [
+              "FAUNA:2.31.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210100200172|בַעַל"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210100200121|עוֹף"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210090120123|צִּפֳּרִים"
+            ],
+            [
+              "FAUNA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210090120123|צִּפֳּרִים"
+            ],
+            [
+              "FAUNA:3.21"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210120040092|צִּפּוֹר"
+            ],
+            [
+              "FAUNA:3.21"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210100080081|נָחָשׁ"
+            ],
+            [
+              "FAUNA:4.9"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210100110032|נָּחָשׁ"
+            ],
+            [
+              "FAUNA:4.9"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210090120082|דָּגִים"
+            ],
+            [
+              "FAUNA:5.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210100010011|זְבוּבֵי"
+            ],
+            [
+              "FAUNA:6.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "210120050092|חָגָב"
+            ],
+            [
+              "FAUNA:6.9"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
