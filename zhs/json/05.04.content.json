@@ -25,14 +25,14 @@
 "type": "fauna",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Snail"
+"preferred_label": "蜗牛"
 },
 {
 "id": "fauna:Snake",
 "type": "fauna",
 "confidence": 0.8324,
 "match_method": "embedding",
-"preferred_label": "Snake"
+"preferred_label": "蛇"
 }
 ]
 }

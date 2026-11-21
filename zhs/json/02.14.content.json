@@ -223,7 +223,7 @@
 "type": "fauna",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Elephant"
+"preferred_label": "象"
 }
 ]
 }
