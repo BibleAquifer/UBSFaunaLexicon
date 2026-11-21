@@ -151,7 +151,7 @@
 "type": "fauna",
 "confidence": 0.9333,
 "match_method": "scored",
-"preferred_label": "Deer"
+"preferred_label": "鹿"
 }
 ]
 }

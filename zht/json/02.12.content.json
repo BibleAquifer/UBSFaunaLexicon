@@ -289,7 +289,7 @@
 "type": "fauna",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Dog"
+"preferred_label": "狗"
 }
 ]
 }

@@ -67,7 +67,7 @@
 "type": "fauna",
 "confidence": 0.5655,
 "match_method": "scored",
-"preferred_label": "Mosquito"
+"preferred_label": "蚊子"
 }
 ]
 }

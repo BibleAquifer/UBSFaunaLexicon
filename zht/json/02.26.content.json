@@ -25,14 +25,14 @@
 "type": "fauna",
 "confidence": 0.865,
 "match_method": "scored",
-"preferred_label": "Mongoose"
+"preferred_label": "獴"
 },
 {
 "id": "fauna:Mouse",
 "type": "fauna",
 "confidence": 0.73,
 "match_method": "scored",
-"preferred_label": "Mouse"
+"preferred_label": "老鼠"
 }
 ]
 }
