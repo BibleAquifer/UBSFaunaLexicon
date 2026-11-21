@@ -85,14 +85,14 @@
 "type": "fauna",
 "confidence": 0.8909,
 "match_method": "scored",
-"preferred_label": "Hyena"
+"preferred_label": "鬣狗"
 },
 {
 "id": "fauna:Jackal",
 "type": "fauna",
 "confidence": 0.5955,
 "match_method": "scored",
-"preferred_label": "Jackal"
+"preferred_label": "豺狗"
 }
 ]
 }

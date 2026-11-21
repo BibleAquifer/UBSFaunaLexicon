@@ -85,14 +85,14 @@
 "type": "fauna",
 "confidence": 0.9636,
 "match_method": "scored",
-"preferred_label": "Cobra"
+"preferred_label": "虺蛇"
 },
 {
 "id": "fauna:Viper",
 "type": "fauna",
 "confidence": 0.6682,
 "match_method": "scored",
-"preferred_label": "Viper"
+"preferred_label": "毒蛇"
 }
 ]
 }

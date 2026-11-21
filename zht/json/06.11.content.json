@@ -115,14 +115,14 @@
 "type": "fauna",
 "confidence": 0.9294,
 "match_method": "scored",
-"preferred_label": "Scorpion"
+"preferred_label": "蠍子"
 },
 {
 "id": "place:Akrabbim",
 "type": "place",
 "confidence": 0.6706,
 "match_method": "scored",
-"preferred_label": "Akrabbim"
+"preferred_label": "亞克拉濱"
 }
 ]
 }

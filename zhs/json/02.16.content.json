@@ -823,7 +823,7 @@
 "type": "fauna",
 "confidence": 0.962,
 "match_method": "scored",
-"preferred_label": "Goat"
+"preferred_label": "山羊"
 }
 ]
 }
@@ -992,7 +992,7 @@
 "type": "fauna",
 "confidence": 0.8568,
 "match_method": "scored",
-"preferred_label": "Kid"
+"preferred_label": "山羊羔"
 }
 ]
 }

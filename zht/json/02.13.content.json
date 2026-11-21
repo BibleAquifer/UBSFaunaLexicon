@@ -103,14 +103,14 @@
 "type": "fauna",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Dugong"
+"preferred_label": "海狗"
 },
 {
 "id": "realia:Covering",
 "type": "realia",
 "confidence": 0.8286,
 "match_method": "scored",
-"preferred_label": "Covering"
+"preferred_label": "蓋"
 }
 ]
 }

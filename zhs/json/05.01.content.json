@@ -403,14 +403,14 @@
 "type": "fauna",
 "confidence": 0.903,
 "match_method": "scored",
-"preferred_label": "Fish"
+"preferred_label": "鱼"
 },
 {
 "id": "place:FishGate",
 "type": "place",
 "confidence": 0.6242,
 "match_method": "scored",
-"preferred_label": "Fish Gate"
+"preferred_label": "鱼门"
 }
 ]
 }

@@ -1117,14 +1117,14 @@
 "type": "fauna",
 "confidence": 0.8673,
 "match_method": "scored",
-"preferred_label": "Horse"
+"preferred_label": "马"
 },
 {
 "id": "place:HorseGate",
 "type": "place",
 "confidence": 0.6039,
 "match_method": "scored",
-"preferred_label": "Horse Gate"
+"preferred_label": "马门"
 }
 ]
 }

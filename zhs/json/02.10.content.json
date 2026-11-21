@@ -2617,7 +2617,7 @@
 "type": "fauna",
 "confidence": 0.7311,
 "match_method": "scored",
-"preferred_label": "Cattle"
+"preferred_label": "牛"
 }
 ]
 }
